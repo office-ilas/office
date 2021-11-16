@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: main
-  repo: Takaya-Yamazato/academic-central
+  repo: YamamotoShinchan2/ACtest
   commit_messages:
     create: "Create {{collection}} “{{slug}}”"
     update: "Update {{collection}} “{{slug}}”"
