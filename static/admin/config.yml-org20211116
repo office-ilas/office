@@ -1,0 +1,139 @@
+backend:
+  name: github
+  branch: main
+  repo: Takaya-Yamazato/academic-central
+  commit_messages:
+    create: "Create {{collection}} “{{slug}}”"
+    update: "Update {{collection}} “{{slug}}”"
+    delete: "Delete {{collection}} “{{slug}}”"
+    uploadMedia: "[skip ci] Upload “{{path}}”"
+    deleteMedia: "[skip ci] Delete “{{path}}”"
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: "news"
+    label: "News and Updates"
+    folder: "src/pages/news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Featured Image", name: "featuredimage", widget: image }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/pages/index.md"
+        label: "Top Page"
+        name: "index"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page" }
+          - { label: Title, name: title, widget: string }
+          - { label: Heading, name: heading, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "src/pages/awards/index.md"
+        label: "Awards"
+        name: "awards"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "awards-page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Description, name: description, widget: string }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "src/pages/division/Promotion-Planning-Office.md"
+        label: "Promotion-Planning-Office"
+        name: "promotion-planning-office"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Description, name: description, widget: string }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Tags", name: "tags", widget: "list" }
+
+      - file: "src/pages/division/Instructional-Design-Team.md"
+        label: "Instructional-Design-Team"
+        name: "instructional-design-team"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Description, name: description, widget: string }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Tags", name: "tags", widget: "list" }
+
+      - file: "src/pages/division/Data-Science.md"
+        label: "Data-Science"
+        name: "data-science"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Description, name: description, widget: string }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Tags", name: "tags", widget: "list" }
+
+      - file: "src/pages/division/Doctoral-Education.md"
+        label: "Doctoral-Education"
+        name: "doctoral-education"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Description, name: description, widget: string }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Tags", name: "tags", widget: "list" }
+
+      - file: "src/pages/division/High-School-University-Articulation.md"
+        label: "High-School-University-Articulation"
+        name: "high-school-university-articulation"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Description, name: description, widget: string }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Tags", name: "tags", widget: "list" }
+
+      - file: "src/pages/division/Liberal-Arts.md"
+        label: "Liberal-Arts"
+        name: "liberal-arts"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Description, name: description, widget: string }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Tags", name: "tags", widget: "list" }
+
+      - file: "src/pages/division/Life-Concept.md"
+        label: "Life-Concept"
+        name: "life-concept"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Description, name: description, widget: string }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Tags", name: "tags", widget: "list" }
+
+      - file: "src/pages/division/QTA.md"
+        label: "QTA"
+        name: "qta"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Description, name: description, widget: string }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Tags", name: "tags", widget: "list" }
