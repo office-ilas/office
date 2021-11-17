@@ -81,10 +81,10 @@ const IndexPageTemplate = ({ data }) => (
                   <div className="column post is-6">
                     <article className="columns is-multiline">
                       <div className="column is-12 post-img">
-{//                        <a href="https://www.thers.ac.jp/research/academic-central/" target="_blank" rel="noopener noreferrer"> }
-    {//                          <StaticImage src="../img/ac1.jpg" alt="履修関係" placeholder="blurred" /> }
-	{//                    </a> }
-	    {//                      </div>　}
+                        <a href="https://www.thers.ac.jp/research/academic-central/" target="_blank" rel="noopener noreferrer"> 
+                        <StaticImage src="../img/ac1.jpg" alt="履修関係" placeholder="blurred" /> 
+	                    </a> 
+	                    </div>
     
                       <div className="column is-12 featured-content">
         　　　　　　　　　<h3 className="heading post-category">履修関係</h3>
@@ -96,9 +96,9 @@ const IndexPageTemplate = ({ data }) => (
                   </div>
                   <div className="column post is-6">
                     <article className="columns is-multiline">
-{//                      <div className="column is-12 post-img">}
-{//                        <StaticImage src="../img/ac2.jpg" alt="施設関係" placeholder="blurred" />}
-{//                     </div> }
+                      <div className="column is-12 post-img">
+                        <StaticImage src="../img/ac2.jpg" alt="施設関係" placeholder="blurred" />
+                     </div>
 	
                       <div className="column is-12 featured-content ">
                         <h3 className="heading post-category">施設関係</h3>
