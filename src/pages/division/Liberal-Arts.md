@@ -1,30 +1,26 @@
 ---
 templateKey: pages
-title: 高度リベラル・アーツ教育共創 部門
-description: 高度リベラル・アーツ教育共創部門は、学部初年次生から大学院生までのシームレスなリベラル・アーツ教育、英語等のコモン・ベーシックス教育を推進します。
+title: International Programs (G30)
+description: International Programs (G30)に関するお知らせです
 date: 2021-04-01T11:00:57.137Z
 tags:
-  - 高度LA部門
-  - 2021年度メンバー
+  - G30
 ---
-## メンバー
+## In the Case of Failing “Course Registration”
 
-* 部門長
+For courses registered from “Course Registration” by 13:00 on Monday, Octber 11th, after processing by the faculty member for “Approval/Disapproval of additional course applications”, Monday, October 25th 9:00, you can check it from “Confirmation of Registered Course”.
 
-  * 戸田山　和久　名古屋大学　教養教育院長機構長
-* 副部門長
+If you fail to do “Course Registration”, please apply by the following procedure by 17:00 on Thursday, October 28th.
+However, the contents below do not apply for new registration.
+(When applying, supporting materials such as email or courses are already registered on NUCT etc are required.)
 
-  * 山田　敏弘　　岐阜大学　教育推進・学生支援機構 基盤教育センター長
-* 部門員
+①Login to NUCT, click “Membership” on the left tab and click “Joinable Sites”, and then click “Join” of the lecture site “2021年度秋学期全学教育科目履修科目の修正について / About Registration Change (For Liberal Arts and Sciences 2021 Fall”.
 
-  * 山里　敬也　　名古屋大学　教養教育院ハイブリッド・ラーニングセンター長
-  * デイビッド　バーカー　岐阜大学　教育推進・学生支援機構 イングリッシュ・センター長
-  * 小松　雅宏　　名古屋大学　教養教育院ハイブリッド・ラーニングセンター
-  * 廣内　大輔　　岐阜大学　教育推進・学生支援機構 基盤教育センター副センター長
-  * 賴　偉寧　　　名古屋大学　教養教育院アカデミック・ライティングセンター長	
-* （事務担当）
+②Click the above lecture site name in “My Current Sites”
 
-  * 東海国立大学機構 教育戦略部 教育企画課（名古屋大学 教養教育院事務室，岐阜大学 全学連携教育課・教務課）
-* [名古屋大学全学教育物理学実験](http://ac.thers.ac.jp/news/2021-06-07-%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6%E5%85%A8%E5%AD%A6%E6%95%99%E8%82%B2%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%9F%E9%A8%93/)
-* [化学実験ホームページ](http://ac.thers.ac.jp/news/2021-06-24-%E5%8C%96%E5%AD%A6%E5%AE%9F%E9%A8%93%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8/)
-* [アカデミック・イングリッシュ支援室（AccESS）](https://elearn.ilas.nagoya-u.ac.jp/access/wiki.cgi?page=access)
+③Select “Tests & Quizzes” and select “2021年度秋学期_履修科⽬修正願 / Request for Registration Revision” in “Take an Assesment” to start the test.
+
+④After answering, click “Submit for Grading”.
+　※If the submission has been completed, it will be reflected in the “Submitted Assesments” in the “Tests & Quizzes”.
+
+If there is no problem with the submitted content, it will be reflected in the “Confirmation of Registered Course” after 9:00 on Tuesday, November 9th.
