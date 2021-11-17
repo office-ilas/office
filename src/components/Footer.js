@@ -3,7 +3,7 @@ import { Link } from "gatsby";
 
 // import logo from "../img/og-image.jpg";
 // import aclogo from "../img/AcademicCentaral.png";
-import aclogo from "../img/AcademicCentral_logo_0930_b.png";
+// import aclogo from "../img/AcademicCentral_logo_0930_b.png";
 import facebook from "../img/social/facebook.svg";
 // import instagram from '../img/social/instagram.svg'
 import twitter from "../img/social/twitter.svg";
@@ -16,8 +16,8 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
-          <a href="https://ac.thers.ac.jp">
-            <img src={aclogo} alt="東海国立大学機構アカデミック・セントラル" style={{ width: "400px" }} />
+          <a href="https://office.ilas.nagoya-u.ac.jp/">
+            <img src={aclogo} alt="旧サイト" style={{ width: "400px" }} />
             {/* <img src={aclogo} alt="東海国立大学機構アカデミック・セントラル" style={{ width: "328px", height: "144px" }} /> */}
           </a>
         </div>
@@ -28,29 +28,24 @@ const Footer = class extends React.Component {
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
-                      <Link to="/" className="navbar-item">
-                        アカデミック・セントラル
+                      <Link to="/" className="navbar-item" href="https://www.nagoya-u.ac.jp">
+                        名古屋大学
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/division/">
-                        部門
+                      <Link className="navbar-item" href="https://www.ilas.nagoya-u.ac.jp/">
+                        名古屋大学教養許育院
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/awards/">
-                        表彰
+                      <Link className="navbar-item" href="https://portal.nagoya-u.ac.jp/">
+                        名古屋大学ポータル
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/news/">
-                        ニュース
+                      <Link className="navbar-item" href="https://ocw.nagoya-u.jp/">
+                        名大の授業
                       </Link>
-                    </li>
-                    <li>
-                      <a className="navbar-item" href="https://academic-central.netlify.app/admin/" target="_blank" rel="noopener noreferrer">
-                        Admin
-                      </a>
                     </li>
                   </ul>
                 </section>
@@ -59,20 +54,16 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <a className="navbar-item" href="https://www.thers.ac.jp">
-                        東海国立大学機構
+                      <a className="navbar-item" href="http://meiwriting.ilas.nagoya-u.ac.jp/">
+                        名古屋大学ライティングセンター
                       </a>
                     </li>
                     <li>
-                      <a className="navbar-item" href="https://www.gifu.ac.jp">
-                        岐阜大学
+                      <a className="navbar-item" href="http://elearn.ilas.nagoya-u.ac.jp/access/">
+                        AccESS
                       </a>
                     </li>
-                    <li>
-                      <a className="navbar-item" href="https://www.nagoya-u.ac.jp/">
-                        名古屋大学
-                      </a>
-                    </li>
+
                     <li>
                       <Link className="navbar-item" to="/contact/">
                         お問い合わせ
