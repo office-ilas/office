@@ -28,7 +28,7 @@ const Footer = class extends React.Component {
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
-                      <Link to="/" className="navbar-item" href="https://www.nagoya-u.ac.jp">
+                      <Link className="navbar-item" href="https://www.nagoya-u.ac.jp">
                         名古屋大学
                       </Link>
                     </li>
