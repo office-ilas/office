@@ -82,41 +82,24 @@ const IndexPageTemplate = ({ data }) => (
                     <article className="columns is-multiline">
                       <div className="column is-12 post-img">
                         <a href="https://www.thers.ac.jp/research/academic-central/" target="_blank" rel="noopener noreferrer">
-                          <StaticImage src="../img/ac1.jpg" alt="アカデミック・セントラル推進企画室" placeholder="blurred" />
+                          <StaticImage src="../img/ac1.jpg" alt="履修関係" placeholder="blurred" />
                         </a>
                       </div>
                       <div className="column is-12 featured-content">
-                        <h3 className="heading post-category">司令塔</h3>
-                        <h1 className="title post-title">アカデミック・セントラル推進企画室</h1>
-                        <div className="content">
-                          <ul>
-                            <li>機構における教育改革に関する施策の企画・立案</li>
-                            <li>アカデミック・セントラルの各部門における事業の企画・立案の支援、各部門との連絡調整</li>
-                            <li>アカデミック・セントラルが実施する教育の広報</li>
-                          </ul>
-                        </div>
-                        <br />
-                        <Link className="btn" to="/division/Promotion-Planning-Office/">
-                          Read more
-                        </Link>
+        　　　　　　　　　<h3 className="heading post-category">履修関係</h3>
+        　　　　　　　　　<h1 className="title post-title">履修関係おしらせ</h1>
                       </div>
                     </article>
                   </div>
                   <div className="column post is-6">
                     <article className="columns is-multiline">
                       <div className="column is-12 post-img">
-                        <StaticImage src="../img/ac2.jpg" alt="インストラクショナル・デザインチーム" placeholder="blurred" />
+                        <StaticImage src="../img/ac2.jpg" alt="施設関係" placeholder="blurred" />
                       </div>
                       <div className="column is-12 featured-content ">
-                        <h3 className="heading post-category">全体企画立案</h3>
-                        <h1 className="title post-title">インストラクショナル・デザインチーム</h1>
+                        <h3 className="heading post-category">施設関係</h3>
+                        <h1 className="title post-title">施設関係お知らせ</h1>
                         <div className="content">
-                          <ul>
-                            <li>機構としての教育の質の保証・向上のための教学 IR・FD・SD 等の実施、講義の公開の推進、機構におけるリベラル・アーツ科目の調整</li>
-                            <li>機構におけるアクティブラーニングの手法（プレゼンテーション、ディスカッション等）、学生の教育への適切な参画方法、デジタル学習教材の活 用方法等、授業における学習デザイン構築の支援、助言、研修の実施</li>
-                            <li>機構におけるポートフォリオの活用などによる学修成果の可視化の推進</li>
-                            <li>その他機構における教育改革の推進</li>
-                          </ul>
                         </div>
                         <br />
                         <Link className="btn" to="/division/Instructional-Design-Team/">
