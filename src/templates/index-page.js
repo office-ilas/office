@@ -10,7 +10,8 @@ import { StaticImage } from "gatsby-plugin-image";
 const IndexPageTemplate = ({ data }) => (
   <Layout>
     <SeO title={data.markdownRemark.frontmatter.title} description={data.markdownRemark.frontmatter.description} />
-    /*<div
+    {/*
+    <div
       className="full-width-image margin-top-0 is-hidden-mobile"
       style={{
         backgroundImage: `url('/img/AC-banner_4780_768.png')`,
@@ -62,7 +63,8 @@ const IndexPageTemplate = ({ data }) => (
       >
         {data.markdownRemark.frontmatter.title}
       </h3>
-    </div>*/
+    </div>
+    */}
 
     <section className="blog-posts">
       <div className="container">
