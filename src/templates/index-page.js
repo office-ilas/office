@@ -13,7 +13,8 @@ const IndexPageTemplate = ({ data }) => (
     <div
       className="full-width-image margin-top-0 is-hidden-mobile"
       style={{
-        backgroundImage: `url('/img/AC-banner_4780_768.png')`,
+        // backgroundImage: `url('/img/AC-banner_4780_768.png')`,
+        backgroundImage: `url('/img/OfficeLogo.png')`,
         // backgroundImage: `url('/img/AC-banner_3840_640.png')`,
         // backgroundImage: `url('/img/AC-banner_1920_1280.png')`,
         // backgroundImage: `url('/img/AC-banner_960_640.jpg')`,
@@ -81,8 +82,7 @@ const IndexPageTemplate = ({ data }) => (
                   <div className="column post is-6">
                     <article className="columns is-multiline">
                       <div className="column is-12 post-img">
-                        <a href="https://www.thers.ac.jp/research/academic-central/" target="_blank" rel="noopener noreferrer"> 
-                        <StaticImage src="../img/courses.png" alt="履修関係" placeholder="blurred" /> 
+                         <StaticImage src="../img/courses.png" alt="履修関係" placeholder="blurred" /> 
 	                    </a> 
 	                    </div>
     
