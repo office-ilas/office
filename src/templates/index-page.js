@@ -76,7 +76,7 @@ const IndexPageTemplate = ({ data }) => (
                 <div className="content" dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
               </blockquote>
             </div>
-
+            {/*
             <div className="columns featured-post is-multiline">
               <div className="column is-12 post">
                 <article className="columns featured">
@@ -117,6 +117,7 @@ const IndexPageTemplate = ({ data }) => (
                 </article>
               </div>
             </div>
+            */}
             <hr />
             <div className="columns is-multiline">
               <div className="column post is-6">
