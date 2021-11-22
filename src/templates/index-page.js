@@ -106,7 +106,7 @@ const IndexPageTemplate = ({ data }) => (
                         <div className="content">
                         </div>
                         <br />
-                        <Link className="btn" to="/division/Instructional-Design-Team/">
+                        <Link className="btn" to="/division/facilities/">
                           Read more
                         </Link>
                       </div>
