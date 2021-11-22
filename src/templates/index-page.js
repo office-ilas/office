@@ -117,7 +117,7 @@ const IndexPageTemplate = ({ data }) => (
                 </article>
               </div>
             </div>
-            */}
+            
             <hr />
             <div className="columns is-multiline">
               <div className="column post is-6">
@@ -157,10 +157,10 @@ const IndexPageTemplate = ({ data }) => (
                   </div>
                 </article>
               </div>
-
+            */}
               <div className="column is-12">
                 <hr />
-                <h3 className="has-text-weight-semibold is-size-2">News and Updates</h3>
+                <h3 className="has-text-weight-semibold is-size-2">お知らせ（新着）</h3>
                 <br />
                 <BlogRoll />
                 <div className="column is-12 has-text-centered">
