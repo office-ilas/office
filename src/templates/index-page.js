@@ -128,7 +128,7 @@ const IndexPageTemplate = ({ data }) => (
                     <div className="content">
                     </div>
                     <br />
-                    <Link className="btn" to="/division/High-School-University-Articulation/">
+                    <Link className="btn" to="/division/OnlineLecture/">
                       Read more
                     </Link>
                   </div>
@@ -148,7 +148,7 @@ const IndexPageTemplate = ({ data }) => (
                       </ul>
                     </div>
                     <br />
-                    <Link className="btn" to="/division/Liberal-Arts/">
+                    <Link className="btn" to="/division/G30/">
                       Read more
                     </Link>
                   </div>
