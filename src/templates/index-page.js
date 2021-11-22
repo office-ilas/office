@@ -84,7 +84,7 @@ const IndexPageTemplate = ({ data }) => (
                     <article className="columns is-multiline">
                       <div className="column is-12 post-img">
                         <a href="https://www.thers.ac.jp/research/academic-central/" target="_blank" rel="noopener noreferrer"> 
-                        <StaticImage src="../img/courses.png" alt="履修関係" placeholder="blurred" /> 
+                        <StaticImage src="../img/cat-courses.png" alt="履修関係" placeholder="blurred" /> 
 	                    </a> 
 	                    </div>
     
@@ -99,7 +99,7 @@ const IndexPageTemplate = ({ data }) => (
                   <div className="column post is-6">
                     <article className="columns is-multiline">
                       <div className="column is-12 post-img">
-                        <StaticImage src="../img/facilities.png" alt="施設関係" placeholder="blurred" />
+                        <StaticImage src="../img/cat-facilities.png" alt="施設関係" placeholder="blurred" />
                      </div>
 	
                       <div className="column is-12 featured-content ">
@@ -122,7 +122,7 @@ const IndexPageTemplate = ({ data }) => (
               <div className="column post is-6">
                 <article className="columns is-multiline">
                   <div className="column is-12 post-img">
-                    <StaticImage src="../img/OnlineLecture.png" alt="オンライン授業" placeholder="blurred" />
+                    <StaticImage src="../img/cat-OnlineLecture.png" alt="オンライン授業" placeholder="blurred" />
                   </div>
                   <div className="column is-12 featured-content ">
                     <h3 className="heading post-category">オンライン授業</h3>
@@ -139,7 +139,7 @@ const IndexPageTemplate = ({ data }) => (
               <div className="column post is-6">
                 <article className="columns is-multiline">
                   <div className="column is-12 post-img">
-                    <StaticImage src="../img/G30.png" alt="International Programs(G30)" placeholder="blurred" />
+                    <StaticImage src="../img/cat-G30.png" alt="International Programs(G30)" placeholder="blurred" />
                   </div>
                   <div className="column is-12 featured-content ">
                     <h3 className="heading post-category">G30</h3>
