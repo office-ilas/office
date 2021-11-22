@@ -3,7 +3,8 @@ import { Link } from "gatsby";
 
 // import logo from "../img/og-image.jpg";
 // import aclogo from "../img/AcademicCentaral.png";
-import aclogo from "../img/AcademicCentral_logo_0930_b.png";
+// import aclogo from "../img/AcademicCentral_logo_0930_b.png";
+import OldOfficeLogo from "../img/OldOfficeLogo.png";
 import facebook from "../img/social/facebook.svg";
 // import instagram from '../img/social/instagram.svg'
 import twitter from "../img/social/twitter.svg";
