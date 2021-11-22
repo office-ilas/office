@@ -49,9 +49,9 @@ collections:
           - { label: "Publish Date", name: "date", widget: "datetime" }
           - { label: "Body", name: "body", widget: "markdown" }
 
-      - file: "src/pages/division/Promotion-Planning-Office.md"
-        label: "Promotion-Planning-Office"
-        name: "promotion-planning-office"
+      - file: "src/pages/category/courses.md"
+        label: "courses"
+        name: "courses"
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
           - { label: "Title", name: "title", widget: "string" }
@@ -60,9 +60,9 @@ collections:
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: "Tags", name: "tags", widget: "list" }
 
-      - file: "src/pages/division/Instructional-Design-Team.md"
-        label: "Instructional-Design-Team"
-        name: "instructional-design-team"
+      - file: "src/pages/category/facilities.md"
+        label: "facilities"
+        name: "facilities"
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
           - { label: "Title", name: "title", widget: "string" }
@@ -71,9 +71,9 @@ collections:
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: "Tags", name: "tags", widget: "list" }
 
-      - file: "src/pages/division/Data-Science.md"
-        label: "Data-Science"
-        name: "data-science"
+      - file: "src/pages/category/G30.md"
+        label: "G30"
+        name: "G30"
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
           - { label: "Title", name: "title", widget: "string" }
@@ -82,53 +82,9 @@ collections:
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: "Tags", name: "tags", widget: "list" }
 
-      - file: "src/pages/division/Doctoral-Education.md"
-        label: "Doctoral-Education"
-        name: "doctoral-education"
-        fields:
-          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: Description, name: description, widget: string }
-          - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - { label: "Tags", name: "tags", widget: "list" }
-
-      - file: "src/pages/division/High-School-University-Articulation.md"
-        label: "High-School-University-Articulation"
-        name: "high-school-university-articulation"
-        fields:
-          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: Description, name: description, widget: string }
-          - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - { label: "Tags", name: "tags", widget: "list" }
-
-      - file: "src/pages/division/Liberal-Arts.md"
-        label: "Liberal-Arts"
-        name: "liberal-arts"
-        fields:
-          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: Description, name: description, widget: string }
-          - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - { label: "Tags", name: "tags", widget: "list" }
-
-      - file: "src/pages/division/Life-Concept.md"
-        label: "Life-Concept"
-        name: "life-concept"
-        fields:
-          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: Description, name: description, widget: string }
-          - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - { label: "Tags", name: "tags", widget: "list" }
-
-      - file: "src/pages/division/QTA.md"
-        label: "QTA"
-        name: "qta"
+      - file: "src/pages/category/OnlineLecture.md"
+        label: "OnlineLecture"
+        name: "OnlineLecture"
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
           - { label: "Title", name: "title", widget: "string" }

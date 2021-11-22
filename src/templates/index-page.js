@@ -108,7 +108,7 @@ const IndexPageTemplate = ({ data }) => (
                         <div className="content">
                         </div>
                         <br />
-                        <Link className="btn" to="/division/facilities/">
+                        <Link className="btn" to="/category/facilities/">
                           Read more
                         </Link>
                       </div>
@@ -133,7 +133,7 @@ const IndexPageTemplate = ({ data }) => (
                     <div className="content">
                     </div>
                     <br />
-                    <Link className="btn" to="/division/OnlineLecture/">
+                    <Link className="btn" to="/category/OnlineLecture/">
                       Read more
                     </Link>
                   </div>
@@ -153,7 +153,7 @@ const IndexPageTemplate = ({ data }) => (
                       </ul>
                     </div>
                     <br />
-                    <Link className="btn" to="/division/G30/">
+                    <Link className="btn" to="/category/G30/">
                       Read more
                     </Link>
                   </div>
@@ -162,7 +162,7 @@ const IndexPageTemplate = ({ data }) => (
             */}    
               <div className="column is-12">
                 <hr />
-                <h3 className="has-text-weight-semibold is-size-2">News and Updates</h3>
+                <h3 className="has-text-weight-semibold is-size-2">お知らせ（新着）</h3>
                 <br />
                 <BlogRoll />
                 <div className="column is-12 has-text-centered">
