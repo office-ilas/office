@@ -31,7 +31,8 @@ jobs:
         uses: burnett01/rsync-deployments@5.1
         with:
           # --omit-dir-timesは「failed to set times onエラー」防止のため。 
-          switches: -avzr --delete --omit-dir-times
+          #switches: -avzr --delete --omit-dir-times
+          switches: -rlOtcv --delete
           path: public/
           remote_path: ${{ secrets.DEPLOY_PATH }}
           remote_host: ${{ secrets.DEPLOY_HOST }}
