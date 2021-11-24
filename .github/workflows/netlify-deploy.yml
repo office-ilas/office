@@ -36,5 +36,6 @@ jobs:
           #remote_host: ${{ secrets.REMOTE_HOST }}
           remote_host: hlc1.ilas.nagoya-u.ac.jp
           remote_port: ${{ secrets.DEPLOY_PORT }}
-          remote_user: ${{ secrets.REMOTE_USER }}
+          #remote_user: ${{ secrets.REMOTE_USER }}
+          remote_user: of-admin
           remote_key: ${{ secrets.DEPLOY_KEY }}
