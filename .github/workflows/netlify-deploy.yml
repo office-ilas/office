@@ -26,7 +26,7 @@ jobs:
       #    NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
       #    NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
 
-      # rsync
+      # rsync 
       - name: rsync deployments to hlc1
         uses: burnett01/rsync-deployments@4.1
         with:
