@@ -1,0 +1,28 @@
+name: Netlify
+
+on:
+  push:
+    branches:
+      - main
+  #pull_request:
+  #  types: [opened, synchronize]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      # 「./dist」にビルド結果が生成する。好きなビルドに変えましょう。
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 15.x
+      - run: yarn install
+      - run: yarn build
+
+      # Netlifyにデプロイする。「--dir=./dist」の部分はビルド結果ができあがるディレクトリ名に変えましょう。
+      - run: npx netlify-cli deploy --dir=./public
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
