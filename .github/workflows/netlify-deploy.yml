@@ -30,8 +30,9 @@ jobs:
       - name: rsync deployments to hlc1
         uses: burnett01/rsync-deployments@5.1
         with:
-          # --omit-dir-timesは「failed to set times onエラー」防止のため。 
-          #switches: -avzr --delete --omit-dir-times
+          # 「switches: -avzr --delete」だと、実行はできても戻り値がエラーになる。
+          # １．--omit-dir-timesで「failed to set times onエラー」は防止可。
+          # ２．-aオプションは-rlptgoDと等価。このうちpgoDは問題らしい？。 
           switches: -rlOtcv --delete
           path: public/
           remote_path: ${{ secrets.DEPLOY_PATH }}
