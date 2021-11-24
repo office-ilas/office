@@ -28,7 +28,7 @@ jobs:
 
       # rsync 
       - name: rsync deployments to hlc1
-        uses: burnett01/rsync-deployments@4.1
+        uses: burnett01/rsync-deployments@5.1
         with:
           switches: -avzr --delete --omit-dir-times
           path: public/
