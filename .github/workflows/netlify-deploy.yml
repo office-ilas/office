@@ -30,7 +30,7 @@ jobs:
       - name: rsync deployments to hlc1
         uses: burnett01/rsync-deployments@5.1
         with:
-          #--omit-dir-timesなしだと、failed to set times onエラーが出る。 
+          # --omit-dir-timesは「failed to set times onエラー」防止のため。 
           switches: -avzr --delete --omit-dir-times
           path: public/
           remote_path: ${{ secrets.DEPLOY_PATH }}
