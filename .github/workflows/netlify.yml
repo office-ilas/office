@@ -22,15 +22,7 @@ jobs:
       - run: yarn build
 
       # Netlifyにデプロイする。「--dir=./dist」の部分はビルド結果ができあがるディレクトリ名に変えましょう。
-      #- run: npx netlify-cli deploy --dir=./public
-      #  env:
-      #    NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-      #    NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-
-      - name: Publish
-         uses: netlify/actions/cli@master
-         with:
-           args: deploy --dir=public --prod
-           env:
-             NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-             NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+      - run: npx netlify-cli deploy --prod --dir=./public
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
