@@ -20,12 +20,6 @@ jobs:
       - run: yarn install
       - run: yarn build
 
-      # Netlifyにデプロイ。「--prod」を付けないとプレビューDeployになるので注意。
-      - run: npx netlify-cli deploy --prod --dir=./public
-        env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-
       # rsync 
       - name: rsync deployments to hlc1
         uses: burnett01/rsync-deployments@5.1
@@ -45,3 +39,8 @@ jobs:
           #remote_port: 10022
           #remote_user: of-admin
 
+      # Netlifyにデプロイ。「--prod」を付けないとプレビューDeployになるので注意。
+      - run: npx netlify-cli deploy --prod --dir=./public
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
