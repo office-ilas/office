@@ -7,6 +7,7 @@ export default class BlogIndexPage extends React.Component {
   render() {
     return (
       <Layout>
+{/*        
         <div
           className="full-width-image margin-top-0 is-hidden-mobile"
           style={{
@@ -14,7 +15,7 @@ export default class BlogIndexPage extends React.Component {
             backgroundPosition: `top center`,
             backgroundAttachment: `cover`
           }}
-        >
+        >       
           <h1
             className="has-text-weight-bold is-size-2 is-hidden-mobile"
             style={{
@@ -29,6 +30,7 @@ export default class BlogIndexPage extends React.Component {
             News and Updates
           </h1>
         </div>
+          */}                
         <div
           className="full-width-image margin-top-0 is-hidden-tablet is-flex-mobile"
           style={{
