@@ -7,6 +7,8 @@ description: International Program Students can register for the Liberal Arts
   Portal.
 featuredpost: true
 featuredimage: /img/cat-g30.png
+tags:
+ - G30
 ---
 <!--StartFragment-->
 

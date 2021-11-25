@@ -7,6 +7,8 @@ description: For courses registered from “Course Registration” by 13:00 on
   “Approval/Disapproval of additional course applications”, Monday, October 25th
   9:00, you can check it from “Confirmation of Registered Course”.
 featuredimage: /img/cat-g30.png
+tags:
+ - G30
 ---
 <!--StartFragment-->
 

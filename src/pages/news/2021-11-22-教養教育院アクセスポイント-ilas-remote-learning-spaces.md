@@ -4,6 +4,8 @@ title: 教養教育院アクセスポイント/ ILAS Remote Learning Spaces
 date: 2021-11-22T06:22:39.896Z
 description: 全学教育棟では2021年10月4日から，アクセスポイントを開設します。
 featuredimage: /img/cat-onlinelecture.png
+tags:
+ - オンライン学習
 ---
 2021年10月4日から，下記の通りアクセスポイントを開設します。
 
