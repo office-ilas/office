@@ -21,10 +21,10 @@ jobs:
       - run: yarn build
 
       # Netlifyにデプロイ。「--prod」を付けないとプレビューDeployになるので注意。
-      #- run: npx netlify-cli deploy --prod --dir=./public
-      #  env:
-      #    NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-      #    NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+      - run: npx netlify-cli deploy --prod --dir=./public
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
 
       # rsync 
       - name: rsync deployments to hlc1
