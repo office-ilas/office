@@ -4,11 +4,11 @@ module.exports = {
   // },
   // pathPrefix: `~yamazato`,　//チェック用
   siteMetadata: {
-    title: "Academic Central - Tokai National Higher Education and Research System",
-    description: "Academic Central will design education in the Tokai National Higher Education and Research System and promote various initiatives in Gifu University and Nagoya University.",
-    siteUrl: `https://ac.thers.ac.jp/`,
+    title: "ILAS OFFICE",
+    description: "ILAS OFFICE in Nagoya University.",
+    siteUrl: `https://officetest.ilas.ac.jp/`,
     social: {
-      twitter: `nuocw`
+      twitter: `NagoyaUniv_ilas`
     }
   },
   plugins: [
