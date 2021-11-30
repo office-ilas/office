@@ -82,3 +82,36 @@ collections:
           - { label: "Publish Date", name: "date", widget: "datetime" }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: "Tags", name: "tags", widget: "list" }
+
+      - file: "src/pages/category/teachers.md"
+        label: "teachers"
+        name: "teachers"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Description, name: description, widget: string }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Tags", name: "tags", widget: "list" }
+
+      - file: "src/pages/category/FAQ.md"
+        label: "FAQ"
+        name: "FAQ"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Description, name: description, widget: string }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Tags", name: "tags", widget: "list" }
+
+      - file: "src/pages/category/others.md"
+        label: "others"
+        name: "others"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Description, name: description, widget: string }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Tags", name: "tags", widget: "list" }
