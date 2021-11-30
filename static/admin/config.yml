@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: YamamotoShinchan2/ACtest
   branch: main
   commit_messages:
     create: "Create {{collection}} “{{slug}}”"
