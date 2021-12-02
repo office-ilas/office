@@ -5,8 +5,6 @@ date: 2021-09-06T05:05:31.133Z
 description: International Program Students can register for the Liberal Arts
   and Sciences courses during the designated periods via Nagoya University
   Portal.
-featuredpost: true
-featuredimage: /img/cat-g30.png
 tags:
  - G30
 ---

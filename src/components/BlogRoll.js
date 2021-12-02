@@ -73,7 +73,7 @@ export default function BlogRollQuery() {
                   templateKey
                   date(formatString: "MMMM DD, YYYY")
                   description
-                  featuredpost
+                  ##featuredpost
                   featuredimage {
                     childImageSharp {
                       gatsbyImageData(width: 240, quality: 100, layout: CONSTRAINED)
