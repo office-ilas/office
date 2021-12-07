@@ -9,11 +9,33 @@
 
 このサイトは [Gatsby](https://www.gatsbyjs.com/) で作成された[AcademicCentral](https://academic-central.netlify.app/)のファイルを流用して作成しています．
 
-## 注意：
+# 注意：始める前に
 
-- Githubアカウントが必要です。大学関係者なら[Github Pro アカウント](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount)を取得できます。
-- ビルドには `yarn` または　`npm` が必要です。前者の方がよいようです。
+- Githubアカウント必須です。大学関係者なら[Github Pro アカウント](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount)を取得できます。
+- ローカルで開発する場合、ビルドには `yarn` または　`npm` が必要です。前者の方がよいようです。
 - 作者はGithubもGatsbyも初めてのため、色々不備などあると思いますが、ご容赦ください。
+
+# Github でのデータの追加・修正・削除
+
+本サイトは、Githubのmain branchにpushすると自動でスクリプト（Github Actions）が走り，公開ファイルがNetlifyと学内サーバに転送されます。
+
+OCWでは万一に備え、データ修正はbranchをきって作業し、データ修正後`gatsby develop`で動作確認の上pull requestし，main branch へマージしているもよう。
+事務室の場合は〜？
+
+# Netlify CMS でのデータの追加・修正・削除
+
+データの追加・修正・削除は [Netlify CMS](https://actest-for-office1.netlify.app/admin/#/collections/news)でも可能。
+
+この方法だと、Wordpressのように直感的に作業可能（但し慣れれば前述の通りGithubで直接編集する方が圧倒的に早い）。
+記事の追加・修正・削除は下記画面で。
+
+<img width="988" alt="スクリーンショット 2021-10-19 14 01 34" src="https://user-images.githubusercontent.com/12372151/137847935-cd017206-0e24-435f-8190-b6654d063e3d.png">
+
+画像は、画面上「Media」ボタンを押せば追加・修正・削除可能。
+
+<img width="1122" alt="スクリーンショット 2021-10-19 14 18 22" src="https://user-images.githubusercontent.com/12372151/137848370-4357adef-0663-4cef-bdd6-922976f30c2a.png">
+
+
 
 
 ## ディレクトリの中身
@@ -89,9 +111,9 @@ $tree -L 1
 ### README.md:
 　本ファイル．
 
-## コンテンツの追加，修正，削除
+## 記事の追加，修正，削除
 
-主なコンテンツデータは，src/pages内のMD(MarkDown)ファイル．
+記事データは，src/pages内のMD(MarkDown)ファイル．
 
 ```
 ├── src
@@ -123,7 +145,7 @@ $tree -L 1
 │   │       └── index.js
 ```
 
-## コンテンツの修正
+## 記事の修正
 
 src/pages のマークダウンファイルを編集する．
 同ディレクトリにあるファイルをコピーし，ファイル名を変更して作成するのが楽。
@@ -131,25 +153,25 @@ src/pages のマークダウンファイルを編集する．
 特に上段のFrontmatterの項目はGatsbyに必須なため、コロン以降のみ変更すること。
 
 
-## コンテンツの削除
+## 記事の削除
 
 src/pages のマークダウンファイルを削除する．
 
-## コンテンツの追加
+## 記事の追加
 
 src/pages に新しいマークダウンファイルを追加する．
 
-## 編集例
+## 記事の編集例
 
-以下，src/news の 2021-06-07-トップリーダートーク.md を例に説明します．
+以下，src/news の 2021-06-07-トップリーダートーク.md を例に説明する．
 
-ファイル名がそのまま slug になります．たとえば，この例ですと，
+ファイル名がそのまま slug になる．たとえばこの例の場合、
 
 https://ac.thers.ac.jp/news/2021-06-07-トップリーダートーク/
 
-となります．
+となる．
 
-src/news/2021-06-07-トップリーダートーク.md は以下のようになっています．
+src/news/2021-06-07-トップリーダートーク.md は下記の通り．
 
 ```
 templateKey: blog-post
@@ -174,26 +196,24 @@ tags:
 
 ```
 
-ここで，`templateKey: blog-post` は変更してはいけません．
+ここで，`templateKey: blog-post` は変更してはならない．
 この templateKey は src/pages 以下のディレクトリでそれぞれ指定され，指定されたテンプレートを利用して表示用ファイルが生成されます．
 News の場合は templateKey を blog-post と指定しています．なお，awards の場合は awards-page と指定します．
 
-`title` はタイトルですので，適宜修正してください．
+`title` はタイトルですので，適宜修正可能．
 
-`description` は概要ですので，適宜修正してください．
+`description` は概要ですので，適宜修正可能．
 
-`featuredpost: true` はそのまま変更しなくて結構です．
+`featuredimage` はアイキャッチ画像．ディフォルトで選択できるのは static/img/ にある画像．
+アップロードして利用したい場合には static/img/ におき，/img/ファイル名 で指定する．
+たとえば，static/img/ac1.jpg を指定する場合は `featuredimage: /img/ac1.jpg` とする．
 
-`featuredimage` はアイキャッチ画像になります．ディフォルト画像は static/img/ にある画像です．
-アップロードして利用したい場合には static/img/ におき，/img/ファイル名 で指定してください．
-たとえば，static/img/ac1.jpg を指定する場合は `featuredimage: /img/ac1.jpg` となります．
+`date` は掲載日ですので，適宜修正可能．
 
-`date` は掲載日ですので，適宜修正してください．
+`tags` はタグになります．タグは上に記載のように「-」で一行にひとつ書くこと．
 
-`tags` はタグになります．タグは上に記載のように「-」で一行にひとつ書いてください．
-
-ここまでが，Frontmatter です．
-「---」以降が本文になり，マークダウン形式で記載してください．
+ここまでが，Frontmatter．
+「---」以降は本文。マークダウン形式で記載する．
 
 この例ですと
 
@@ -267,27 +287,4 @@ http://localhost:8000/ で確認できる。
 githubのmain branchにpush すると自動でスクリプト(Github Actions)が走り，公開ファイルがNetlifyと学内サーバに転送される。
 Github Actionsの設定ファイルは `.github/workflows/netlify-deploy.yml` ．
 
-
-# Github でのデータの追加・修正・削除
-
-このサイトは Github Actions を設定してあります．
-Github の main branch に push すると自動でスクリプトが走り，公開ファイルを転送します．
-
-従って，データ修正は main branch では行わず，branch をきってからデータ修正を行ってください．
-データ修正後は `gatsby develop` で問題無いことを確認の上，pull request を行い，main branch へマージしてください．
-
-面倒ですが，main branch とは異なる branch で作業することで，思わぬミスを防ぐことができますので安全です．
-
-# Netlify CMS でのデータの追加・修正・削除
-
-データの追加・修正・削除は [Netlify CMS](https://academic-central.netlify.app/admin/#/collections/news)でもできます。
-
-Netlify CMS へアクセスすると以下のように表示されます。
-コンテンツの追加・修正・削除はここから行ってください。
-
-<img width="988" alt="スクリーンショット 2021-10-19 14 01 34" src="https://user-images.githubusercontent.com/12372151/137847935-cd017206-0e24-435f-8190-b6654d063e3d.png">
-
-画像は上の「Media」ボタンを押下することで追加・修正・削除ができます。
-
-<img width="1122" alt="スクリーンショット 2021-10-19 14 18 22" src="https://user-images.githubusercontent.com/12372151/137848370-4357adef-0663-4cef-bdd6-922976f30c2a.png">
 
