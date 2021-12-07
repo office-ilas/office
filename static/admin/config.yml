@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: YamamotoShinchan2/ACtest
+  repo: YamamotoShinchan2/officetest
   branch: main
   commit_messages:
     create: "Create {{collection}} “{{slug}}”"
