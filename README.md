@@ -15,18 +15,21 @@
 - ローカルで開発する場合、ビルドには `yarn` または　`npm` が必要です。前者の方がよいようです。
 - 作者はGithubもGatsbyも初めてのため、色々不備などあると思いますが、ご容赦ください。
 
-# Github でのデータの追加・修正・削除
+# Github での記事の追加・修正・削除
 
-本サイトは、Githubのmain branchにpushすると自動でスクリプト（Github Actions）が走り，公開ファイルがNetlifyと学内サーバに転送されます。
+本サイトは、Githubのmain branchにpushすると、スクリプト（Github Actions）によって自動的に公開ファイルがNetlifyと学内サーバに転送されます。
+
+このため、基本的にはGithubのデータをいじるだけで記事を編集できます。
 
 OCWでは万一に備え、データ修正はbranchをきって作業し、データ修正後`gatsby develop`で動作確認の上pull requestし，main branch へマージしているもよう。
 事務室の場合は〜？
 
-# Netlify CMS でのデータの追加・修正・削除
+# Netlify CMS での記事の追加・修正・削除
 
-データの追加・修正・削除は [Netlify CMS](https://actest-for-office1.netlify.app/admin/#/collections/news)でも可能。
+本サイトは、[Netlify CMS](https://actest-for-office1.netlify.app/admin/#/collections/news)でも編集可能。
 
-この方法だと、Wordpressのように直感的に作業可能（但し慣れれば前述の通りGithubで直接編集する方が圧倒的に早い）。
+この方法だと、Wordpressのように直感的に作業可能。但し慣れてしまえば、前述のGithubでの直接編集の方が圧倒的に早い。
+
 記事の追加・修正・削除は下記画面で。
 
 <img width="988" alt="スクリーンショット 2021-10-19 14 01 34" src="https://user-images.githubusercontent.com/12372151/137847935-cd017206-0e24-435f-8190-b6654d063e3d.png">
