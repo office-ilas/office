@@ -7,7 +7,7 @@
   office
 </h1>
 
-このサイトは [Gatsby](https://www.gatsbyjs.com/) で作成された[AcademicCentral](https://academic-central.netlify.app/)のファイルを流用して作成しています．
+このサイトは [Gatsby](https://www.gatsbyjs.com/)を利用した[AcademicCentral](https://academic-central.netlify.app/)のファイルを流用して構築しています．
 
 # 注意：始める前に
 
