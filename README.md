@@ -68,13 +68,13 @@ $tree -L 1
 ### /node_modules:　npm packageでインストールしたモジュールが入る。
   特に触る必要なし。
 
-### /src:　公開用ファイル。
+### /src:　公開用ファイル
 　基本Webサイトのデザイン時はこのディレクトリ内のファイルを修正，追加，削除する。
 
-### /static:　画像ファイルや作成済の静的ファイル。
+### /static:　画像ファイルや作成済静的ファイル
 　ユーザが直接触ることは少ない。（画像は？）
 
-### /public:　公開用ディレクトリ。
+### /public:　公開用ディレクトリ
 　gatsby build を実行すると，このディレクトリに公開用ファイルが生成される。
 　またgatsby clean を実行すると，このディレクトリとキャッシュがクリアされる．
 
@@ -82,11 +82,11 @@ $tree -L 1
 
 ### gatsby-config.js:　Gatsbyサイトのメタデータやプラグインなどを記載。
 
-### gatsby-node.js:　タグページ追加など、ビルド時にのみ実行されるJavaScriptソース。
- 
-### netlify.toml：  netlifyの自動Deployを制御する。
+### netlify.toml：  netlifyの自動Deploy制御
   本サイトはnetlifyビルド時間制限回避のためnetlifyでなくgithubでビルドしているため、commandをコメントアウト。
   * netlifyのGUIでも設定可能だが、本ファイルの設定で上書きされるらしい。 *
+
+### gatsby-node.js:　タグページ追加など、ビルド時にのみ実行されるJavaScriptソース
 
 #### 前半:タグ関係
 　[参考：公式サイト「 Creating Tags Pages for Blog Posts」](https://www.gatsbyjs.com/docs/adding-tags-and-categories-to-blog-posts/)
@@ -101,11 +101,11 @@ $tree -L 1
 
 　当初ACサイトから流用したソースではfeaturedpostタグがMDファイルに全く入ってないとエラーになった。該当タグは現在不要のようなので、エラー回避のため該当Queryからこのタグ記載を消したが、実はこのcreateSchemaCustomizationでの定義でも回避できたもよう。
 
-### package-lock.json (See package.json below, first).：　npmにより自動生成される．
+### package-lock.json (See package.json below, first).：　npmが自動生成
 
-### package.json:　Nodeで実行するパッケージを指定する。
+### package.json:　Nodeで実行するパッケージの指定
 
-### README.md:　本ファイル．
+### README.md:　本ファイル
 
 ## 記事の追加，修正，削除
 
