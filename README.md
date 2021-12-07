@@ -9,28 +9,12 @@
 
 このサイトは [Gatsby](https://www.gatsbyjs.com/) で作成された[AcademicCentral](https://academic-central.netlify.app/)のファイルを流用して作成しています．
 
-### 注意：
+## 注意：
 
 - Githubアカウントが必要です。大学関係者なら[Github Pro アカウント](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount)を取得できます。
 - ビルドには `yarn` または　`npm` が必要です。前者の方がよいようです。
 - 作者はGithubもGatsbyも初めてのため、色々不備などあると思いますが、ご容赦ください。
 
-## 🚀 ローカル環境へのインストール（開発に携わらない方は不要）
-
-まず、適当な作業ディレクトリにてGithubからクローン。
-
-```
-% git clone レポジトリ情報
-```
-
-クローンしたディレクトに移動して作業開始。
-
-```
-% cd officetest
-% ls
-CODE_OF_CONDUCT.md LICENSE            _headers           gatsby-node.js     netlify.toml       renovate.json      static
-CONTRIBUTING.md    README.md          gatsby-config.js   lambda             package.json       src                yarn.lock
-```
 
 ## ディレクトリの中身
 
@@ -60,83 +44,54 @@ $tree -L 1
 ```
 
 ### /node_modules:
-ここに npm package でインストールしたモジュールが入る。特に触る必要なし。
+　npm packageでインストールしたモジュールが入る。特に触る必要なし。
 
 ### /src:
-このディレクトリに公開用ファイルが一式入る．
-基本Webサイトのデザイン時はこのディレクトリ内のファイルを修正，追加，削除する。
+　公開用ファイルが入る．
+　基本Webサイトのデザイン時はこのディレクトリ内のファイルを修正，追加，削除する。
 
 ### /static:
-画像ファイルや既に作成してある静的ファイルなどを置く場所。
-基本Gatsbyが参照するのみで、ユーザが直接触ることは少ない。
+　画像ファイルや既に作成してある静的ファイルなどが入る。
+　ユーザが直接触ることは少ない。（画像は？）
 
 ### /public:
-公開用ディレクトリ。gatsby build を実行すると，このディレクトリに公開用ファイルが生成される。
-またgatsby clean を実行すると，このディレクトリとキャッシュがクリアされる．
+　公開用ディレクトリ。gatsby build を実行すると，このディレクトリに公開用ファイルが生成される。
+　またgatsby clean を実行すると，このディレクトリとキャッシュがクリアされる．
 
 ### .gitignore:
-Github リポジトリから除外するファイルを指定する．
+　Github リポジトリから除外するファイルを指定する．
 
 ### gatsby-config.js:
-Gatsbyサイトのメタデータやプラグインなどを記載するファイル。
+　Gatsbyサイトのメタデータやプラグインなどを記載する。
 
 ### gatsby-node.js:
-タグページの追加など、ビルド時にのみ実行されるJavaScriptソースファイル．
+　タグページの追加など、ビルド時にのみ実行されるJavaScriptソース．
+
+#### 前半:タグ関係
+　[参考：公式サイト「 Creating Tags Pages for Blog Posts」](https://www.gatsbyjs.com/docs/adding-tags-and-categories-to-blog-posts/)
+
+　post.ForEachの箇所はアレンジされているもよう。
+
+#### exports.onCreateNode:スラッグ追加
+　[参考：公式サイト「Creating Slugs for Pages」](https://www.gatsbyjs.com/docs/creating-slugs-for-pages/)
+
+#### exports.createSchemaCustomization:graphQLの型定義
+　[参考：公式サイト「Customizing the GraphQL Schema」](https://www.gatsbyjs.com/docs/reference/graphql-data-layer/schema-customization/)
+
+　当初ACサイトから流用したソースではfeaturedpostタグがMDファイルに全く入ってないとエラーになった。該当タグは現在不要のようなので、エラー回避のため該当Queryからこのタグ記載を消したが、実はこのcreateSchemaCustomizationでの定義でも回避できたもよう。
 
 ### package-lock.json (See package.json below, first).
-npm によって自動生成されるファイル．
+　npm によって自動生成される．
 
 ### package.json:
-Nodeで実行するパッケージを指定するファイル．
+　Nodeで実行するパッケージを指定する．
 
-README.md:
-本ファイル．
-
-## 環境構築
-
-`yarn` で環境構築する。
-
-```
-% yarn
-```
-
-`npm install` でも OK だが、`yarn`の方が早くトラブルも少ない感じ。
-なお、`yarn`と`npm`の混在利用は、誤動作の恐れがあるため厳禁。
-
-## ビルド (build)
-
-ビルドとは、サイト公開用のhtml, JavascriptやCSSファイルを作成すること。
-Warningが出ても、ビルドが完了すればとりあえず問題ないらしい。
-
-ビルドは以下のコマンドで実行できる。
-
-```
-% gatsby clean && gatsby build
-(npm run clean; npm run build でもOK)
-```
-
-最初の `gatsby clean` はキャッシュや不要ファイルを削除するコマンド
-`npm run clean, npm run build` は `package.json`で定義されている。
-
-## ディベロプ (develop)
-
-ディベロプとは、公開前のチェックのためにhtml, JavascriptやCSSファイルを一時的に作成すること。
-
-```
-% gatsby clean && gatsby develop
-(npm run clean; npm run develop でもOK)
-```
-
-http://localhost:8000/ で確認できる。
-
-## 公開
-
-githubのmain branchにpush すると自動でスクリプト(Github Actions)が走り，公開ファイルがNetlifyと学内サーバに転送される。
-Github Actionsの設定ファイルは `.github/workflows/netlify-deploy.yml` ．
+### README.md:
+　本ファイル．
 
 ## コンテンツの追加，修正，削除
 
-主なコンテンツデータは，src/pages に入っているマークダウンファイル．
+主なコンテンツデータは，src/pages内のMD(MarkDown)ファイル．
 
 ```
 ├── src
@@ -250,6 +205,68 @@ News の場合は templateKey を blog-post と指定しています．なお，
 ```
 
 が本文になり，マークダウン形式で記載されています．
+
+# 開発関係
+
+##　ローカル環境へのインストール（開発に携わらない方は不要）
+
+まず、適当な作業ディレクトリにてGithubからクローン。
+
+```
+% git clone レポジトリ情報
+```
+
+クローンしたディレクトに移動して作業開始。
+
+```
+% cd officetest
+% ls
+CODE_OF_CONDUCT.md LICENSE            _headers           gatsby-node.js     netlify.toml       renovate.json      static
+CONTRIBUTING.md    README.md          gatsby-config.js   lambda             package.json       src                yarn.lock
+```
+
+## 環境構築
+
+`yarn` で環境構築する。
+
+```
+% yarn
+```
+
+`npm install` でも OK だが、`yarn`の方が早くトラブルも少ない感じ。
+なお、`yarn`と`npm`の混在利用は、誤動作の恐れがあるため厳禁。
+
+## ビルド (build)
+
+ビルドとは、サイト公開用のhtml, JavascriptやCSSファイルを作成すること。
+Warningが出ても、ビルドが完了すればとりあえず問題ないらしい。
+
+ビルドは以下のコマンドで実行できる。
+
+```
+% gatsby clean && gatsby build
+(npm run clean; npm run build でもOK)
+```
+
+最初の `gatsby clean` はキャッシュや不要ファイルを削除するコマンド
+`npm run clean, npm run build` は `package.json`で定義されている。
+
+## ディベロプ (develop)
+
+ディベロプとは、公開前のチェックのためにhtml, JavascriptやCSSファイルを一時的に作成すること。
+
+```
+% gatsby clean && gatsby develop
+(npm run clean; npm run develop でもOK)
+```
+
+http://localhost:8000/ で確認できる。
+
+## 公開
+
+githubのmain branchにpush すると自動でスクリプト(Github Actions)が走り，公開ファイルがNetlifyと学内サーバに転送される。
+Github Actionsの設定ファイルは `.github/workflows/netlify-deploy.yml` ．
+
 
 # Github でのデータの追加・修正・削除
 
