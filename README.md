@@ -86,7 +86,8 @@ $tree -L 1
 
 ### netlify.toml：  netlifyの自動Deploy制御
   本サイトはnetlifyビルド時間制限回避のためnetlifyでなくgithubでビルドしているため、commandをコメントアウト。
-  * netlifyのGUIでも設定可能だが、本ファイルの設定で上書きされるらしい。 *
+  
+  *netlifyのGUIでも設定可能だが、本ファイルの設定で上書きされるらしいので注意。*
 
 ### gatsby-node.js:　タグページ追加など、ビルド時にのみ実行されるJavaScriptソース
 
