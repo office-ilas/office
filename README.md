@@ -9,7 +9,7 @@
 
 このサイトは [Gatsby](https://www.gatsbyjs.com/)を利用した[AcademicCentral](https://academic-central.netlify.app/)のファイルを流用して構築しています．
 
-# 注意：始める前に
+# 始める前に
 
 - Githubアカウント必須です。大学関係者なら[Github Pro アカウント](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount)を取得できます。
 - ローカルで開発する場合、ビルドには `yarn` または　`npm` が必要です。前者の方がよいようです。
