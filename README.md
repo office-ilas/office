@@ -65,7 +65,7 @@ $tree -L 1
 
 ```
 
-### /node_modules:　npm packageでインストールしたモジュールが入る。
+### /node_modules:　npmでインストールしたモジュールの格納場所
   特に触る必要なし。
 
 ### /src:　公開用ファイル
@@ -105,7 +105,6 @@ $tree -L 1
 
 ### package.json:　Nodeで実行するパッケージの指定
 
-### README.md:　本ファイル
 
 ## 記事の追加，修正，削除
 
