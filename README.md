@@ -7,7 +7,7 @@
   office
 </h1>
 
-このサイトは [Gatsby](https://www.gatsbyjs.com/)を利用した[AcademicCentral](https://academic-central.netlify.app/)のファイルを流用して構築しています．
+このサイトは [Gatsby](https://www.gatsbyjs.com/)を利用した[AcademicCentral(以後ACと呼ぶ)](https://academic-central.netlify.app/)のファイルを流用して構築しています．
 
 # 始める前に
 
@@ -44,7 +44,6 @@ OCWでは万一に備え、データ修正はbranchをきって作業し、デ�
 ## ディレクトリの中身
 
 ディレクトリ構成は下記の通り．
-
 ```
 $tree -L 1
 .
@@ -68,8 +67,8 @@ $tree -L 1
 
 ```
 
-### /node_modules:　npmでインストールしたモジュールの格納場所
-  特に触る必要なし。
+### /node_modules:　npmでインストールするモジュールの格納場所
+  触ってはならない。
 
 ### /src:　公開用ファイル
 　基本Webサイトのデザイン時はこのディレクトリ内のファイルを修正，追加，削除する。
@@ -107,6 +106,7 @@ $tree -L 1
 ### package-lock.json (See package.json below, first).：　npmが自動生成
 
 ### package.json:　Nodeで実行するパッケージの指定
+  現状、acサイトの設定をそのまま流用している。
 
 
 ## 記事の追加，修正，削除
