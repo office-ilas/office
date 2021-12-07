@@ -4,44 +4,40 @@
   </a>
 </p>
 <h1 align="center">
-  academic-central
+  office
 </h1>
 
-このサイトは [Gatsby](https://www.gatsbyjs.com/) を使って作成しています．
+このサイトは [Gatsby](https://www.gatsbyjs.com/) で作成された[AcademicCentral](https://academic-central.netlify.app/)のファイルを流用して作成しています．
 
 ### 注意：
 
-Github のアカウントがあることを前提にしています。
-大学関係者であれば[Github Pro アカウント](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount)を取得できます。
+- Githubアカウントが必要です。大学関係者なら[Github Pro アカウント](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount)を取得できます。
+- ビルドには `yarn` または　`npm` が必要です。前者の方がよいようです。
+- 作者はGithubもGatsbyも初めてのため、色々不備などあると思いますが、ご容赦ください。
 
-また、ビルドには `yarn` もしくは　`npm` が必要になります。
+## 🚀 ローカル環境へのインストール（開発に携わらない方は不要）
 
-## 🚀 インストール
-
-まず、Github からクローンします。
-適当な作業ディレクトに移動して、以下を実行。
+まず、適当な作業ディレクトリにてGithubからクローン。
 
 ```
-% git clone git@github.com:Github-ID/academic-central.git
+% git clone レポジトリ情報
 ```
 
-ここで`Github-ID`は Github のアカウント名です。
-
-クローンしたディレクトに移動し、そこで作業します。
+クローンしたディレクトに移動して作業開始。
 
 ```
-% cd academic-central
+% cd officetest
 % ls
 CODE_OF_CONDUCT.md LICENSE            _headers           gatsby-node.js     netlify.toml       renovate.json      static
 CONTRIBUTING.md    README.md          gatsby-config.js   lambda             package.json       src                yarn.lock
 ```
 
-🧐 What's inside?
+## ディレクトリの中身
 
-ディレクトリは以下のようになっています．
+ディレクトリ構成は下記の通り．
 
 ```
-$ tree -L 1
+$tree -L 1
 .
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
@@ -51,6 +47,7 @@ $ tree -L 1
 ├── gatsby-config.js
 ├── gatsby-node.js
 ├── lambda
+├── memo.md
 ├── netlify.toml
 ├── node_modules
 ├── package.json
@@ -59,91 +56,87 @@ $ tree -L 1
 ├── src
 ├── static
 └── yarn.lock
+
 ```
 
-以下，重要なものだけ説明します．
+### /node_modules:
+ここに npm package でインストールしたモジュールが入る。特に触る必要なし。
 
-/node_modules:
-ここに npm package でインストールしたモジュールが入ります．
-このディレクトリに対して特段のアクションは必要ありません．ほっとけば良いです．
+### /src:
+このディレクトリに公開用ファイルが一式入る．
+基本Webサイトのデザイン時はこのディレクトリ内のファイルを修正，追加，削除する。
 
-/src:
-このディレクトリに公開用のファイルが一式入ります．
-つまり，ブラウザで表示するのに必要なファイルが格納されています．
-従って，このディレクトリに入っているファイルの修正，追加，削除することで Web ページのデザインを行います．
+### /static:
+画像ファイルや既に作成してある静的ファイルなどを置く場所。
+基本Gatsbyが参照するのみで、ユーザが直接触ることは少ない。
 
-/static:
-このディレクトリは，Gatsby では参照されるのみで特段の操作は行いません．
-従って，こちらには画像ファイルや既に作成してある静的ファイルなどをおきます．
+### /public:
+公開用ディレクトリ。gatsby build を実行すると，このディレクトリに公開用ファイルが生成される。
+またgatsby clean を実行すると，このディレクトリとキャッシュがクリアされる．
 
-/public:
-公開用のディレクトリです．
-gatsby build を実行すると，このディレクトリに公開用ファイルが生成されます．
-また，gatsby clean を実行すると，このディレクトリとキャッシュがクリアされます．
+### .gitignore:
+Github リポジトリから除外するファイルを指定する．
 
-.gitignore:
-Github リポジトリから除外するファイルを指定します．
+### gatsby-config.js:
+Gatsbyサイトのメタデータやプラグインなどを記載するファイル。
 
-gatsby-config.js:
-Gatsby サイトの設定ファイルです．
+### gatsby-node.js:
+タグページの追加など、ビルド時にのみ実行されるJavaScriptソースファイル．
 
-gatsby-node.js:
-Gatsby Node API の設定ファイルです．
+### package-lock.json (See package.json below, first).
+npm によって自動生成されるファイル．
 
-package-lock.json (See package.json below, first).
-npm によって自動生成されるファイルです．
-
-package.json:
-Node で実行するパッケージを指定するファイルです．
+### package.json:
+Nodeで実行するパッケージを指定するファイル．
 
 README.md:
-このファイルです．
+本ファイル．
 
-### 環境構築
+## 環境構築
 
-`yarn` で環境構築を行います。
+`yarn` で環境構築する。
 
 ```
 % yarn
 ```
 
-`npm install` でも OK ですが、`yarn`の方が早いです。
-なお、`yarn`と`npm`を混在して使うと誤動作する場合がありますので、やめましょう。
+`npm install` でも OK だが、`yarn`の方が早くトラブルも少ない感じ。
+なお、`yarn`と`npm`の混在利用は、誤動作の恐れがあるため厳禁。
 
 ## ビルド (build)
 
-ビルドとは、サイトを公開するための html, Javascript や CSS ファイルを作成することを言います。
-ビルドが通れば Warning が出ても問題ありません。
+ビルドとは、サイト公開用のhtml, JavascriptやCSSファイルを作成すること。
+Warningが出ても、ビルドが完了すればとりあえず問題ないらしい。
 
-ビルドは以下のコマンドで実行できます。
+ビルドは以下のコマンドで実行できる。
 
 ```
 % gatsby clean && gatsby build
 (npm run clean; npm run build でもOK)
 ```
 
-最初の `gatsby clean` はキャッシュや不要ファイルを削除するコマンドです。
-`npm run clean, npm run build` は `package.json`で定義されています。
+最初の `gatsby clean` はキャッシュや不要ファイルを削除するコマンド
+`npm run clean, npm run build` は `package.json`で定義されている。
 
 ## ディベロプ (develop)
 
-ディベロプとは、公開前の一次チェックをするために html, Javascript や CSS ファイルを作成することを言います。
+ディベロプとは、公開前のチェックのためにhtml, JavascriptやCSSファイルを一時的に作成すること。
 
 ```
 % gatsby clean && gatsby develop
 (npm run clean; npm run develop でもOK)
 ```
 
-http://localhost:8000/ で見ることができます．
+http://localhost:8000/ で確認できる。
 
 ## 公開
 
-Github Actions を設定してありますので，github の main branch に push すると自動でスクリプトが走り，公開ファイルを転送します．
-Github Actions の設定ファイルは `.github/workflows/manual.yml` です．
+githubのmain branchにpush すると自動でスクリプト(Github Actions)が走り，公開ファイルがNetlifyと学内サーバに転送される。
+Github Actionsの設定ファイルは `.github/workflows/netlify-deploy.yml` ．
 
-# コンテンツの追加，修正，削除
+## コンテンツの追加，修正，削除
 
-コンテンツデータは，src/pages に入っているマークダウンファイルです．
+主なコンテンツデータは，src/pages に入っているマークダウンファイル．
 
 ```
 ├── src
@@ -177,18 +170,21 @@ Github Actions の設定ファイルは `.github/workflows/manual.yml` です．
 
 ## コンテンツの修正
 
-src/pages のマークダウンファイルを編集してください．
+src/pages のマークダウンファイルを編集する．
+同ディレクトリにあるファイルをコピーし，ファイル名を変更して作成するのが楽。
+なお、マークダウンファイルに記載のフォーマットは変更しないこと。
+特に上段のFrontmatterの項目はGatsbyに必須なため、コロン以降のみ変更すること。
+
 
 ## コンテンツの削除
 
-src/pages のマークダウンファイルを削除してください．
+src/pages のマークダウンファイルを削除する．
 
 ## コンテンツの追加
 
-src/pages に新しいマークダウンファイルを追加してください．
-マークダウンファイルは，同じディレクトリにあるファイルをコピーし，ファイル名を変更して作成するのが早いです．
-このとき，マークダウンファイルに記載のフォーマットは変更しないようにしてください．
-特に上段の Frontmatter の項目は Gatsby が参照しますので，コロン以降のみ変更するようにしてください．
+src/pages に新しいマークダウンファイルを追加する．
+
+## 編集例
 
 以下，src/news の 2021-06-07-トップリーダートーク.md を例に説明します．
 
