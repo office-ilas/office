@@ -102,8 +102,12 @@ const Navbar = class extends React.Component {
               </Link>
               */}
               <Link className="navbar-item" to="/news/">
-                お知らせ
+            お知らせ(全件）
+        </Link>
+	       <Link className="navbar-item" to="/tags/">
+            お知らせ(カテゴリ別）
               </Link>
+
               <Link className="navbar-item" to="/contact/">
                 お問い合わせ
               </Link>
