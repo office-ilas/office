@@ -93,10 +93,12 @@ $tree -L 1
 
 ### gatsby-node.js:　タグページ追加など、ビルド時にのみ実行されるJavaScriptソース
 
-#### 前半:タグ関係
+#### 前半:タグ及び個別頁生成
 　[参考：公式サイト「 Creating Tags Pages for Blog Posts」](https://www.gatsbyjs.com/docs/adding-tags-and-categories-to-blog-posts/)
 
-　post.ForEachの箇所はアレンジされているもよう。
+　ページ生成はTutorialで紹介されているFile System Route APIは使わず、「全詳細ページを取得するGraphQLクエリを発行してページデータ取得し、foreachでページ数分だけactions.createPageを実行してページ作成」の方式。
+ 
+ またcreatePageの際、templateKeyの情報を基に、src/templatesのテンプレート情報を適用させている。
 
 #### exports.onCreateNode:スラッグ追加
 　[参考：公式サイト「Creating Slugs for Pages」](https://www.gatsbyjs.com/docs/creating-slugs-for-pages/)
