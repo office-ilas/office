@@ -118,7 +118,7 @@ $tree -L 1
 
 # 記事の編集（追加，修正，削除）
 
-記事データは，src/pages内のMD(MarkDown)ファイル．
+記事データは，src/pages内のMD(MarkDown)ファイル．構築に関わらない者はMDファイル以外触らないこと。
 
 ```
 ├── src
