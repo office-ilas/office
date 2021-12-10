@@ -3,7 +3,8 @@ import * as React from "react";
 import { Link, graphql } from "gatsby";
 import SeO from "../components/seo";
 import Layout from "../components/Layout";
-import BlogRoll from "../components/BlogRoll";
+//import BlogRoll from "../components/BlogRoll";
+import BlogRollLimit from "../components/BlogRollLimit";
 import { StaticImage } from "gatsby-plugin-image";
 // import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 
@@ -164,7 +165,7 @@ const IndexPageTemplate = ({ data }) => (
                 <hr />
                 <h3 className="has-text-weight-semibold is-size-2">お知らせ（新着）</h3>
                 <br />
-                <BlogRoll />
+                <BlogRollLimit />
                 <div className="column is-12 has-text-centered">
                   <Link className="btn" to="/news">
                     Read more
