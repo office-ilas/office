@@ -11,15 +11,15 @@
 
 # 始める前に
 
-- Githubアカウント必須です。大学関係者なら[Github Pro アカウント](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount)を取得できます。
-- ローカルで開発する場合、ビルドには `yarn` または　`npm` が必要です。前者の方がよいようです。
-- 作者はGithubもGatsbyも初めてのため、色々不備などあると思いますが、ご容赦ください。
+- 記事編集するだけでもGithubアカウント必須。大学関係者なら[Github Pro アカウント](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount)の取得がお勧め。
+- 記事編集以上のことをするには、PCに開発環境構築が必要。詳細は「開発関係」の章を参照。
+- 作者はGithubもGatsbyも初めてのため、色々不備などあると思います、ご容赦願います。
 
 # Github での記事の追加・修正・削除
 
 本サイトの大元のデータはGithubのmain branchで、ここにpushするとスクリプト（Github Actions）によって自動的に「公開ファイル」がNetlifyと学内サーバに転送される。
 
-この「公開ファイル」はGithub上に存在するファイルではなく、これらのファイルを「ビルド」してできた「html, Javascript、CSS」などのファイル。
+「公開ファイル」は本Github上に存在するファイルではなく、これらファイルを「ビルド」してできた「html, Javascript、CSS」などのファイル。
 
 通常の記事編集でいじるのは、/src/pages/news以下のMDファイルと、/static/img以下の画像ファイル。
 
@@ -118,7 +118,7 @@ $tree -L 1
 
 # 記事の編集（追加，修正，削除）
 
-記事データは，src/pages内のMD(MarkDown)ファイル．構築に関わらない者はMDファイル以外触らないこと。
+記事データは，src/pages内のMD(MarkDown)ファイル．構築に関わらない方はMDファイル以外触らないこと。
 
 ```
 ├── src
@@ -233,7 +233,7 @@ News の場合は templateKey を blog-post と指定しています．なお，
 
 # 開発関係
 
-ここから先は開発関係者のみ必要な情報。一般の事務担当者は読む必要なし。
+ここから先は開発関係者のみ必要な情報。記事編集するだけの方は不要。
 
 ## ローカル環境へのインストール（開発に携わらない方は不要）
 
@@ -261,14 +261,14 @@ CONTRIBUTING.md    README.md          gatsby-config.js   lambda             pack
 ```
 
 `npm install` でも OK だが、`yarn`の方が早くトラブルも少ない感じ。
-なお、`yarn`と`npm`の混在利用は、誤動作の恐れがあるため厳禁。
+なお、`yarn`と`npm`の混在利用は誤動作の恐れがあり厳禁。
 
 ## ビルド (build)
 
 ビルドとは、サイト公開用のhtml, JavascriptやCSSファイルを作成すること。
 Warningが出ても、ビルドが完了すればとりあえず問題ないらしい。
 
-ビルドは以下のコマンドで実行できる。
+ビルドの実行コマンドは下記の通り。
 
 ```
 % gatsby clean && gatsby build
@@ -280,18 +280,17 @@ Warningが出ても、ビルドが完了すればとりあえず問題ないら�
 
 ## ディベロプ (develop)
 
-ディベロプとは、公開前のチェックのためにhtml, JavascriptやCSSファイルを一時的に作成すること。
+ディベロプとは、公開前のチェックのためにhtml, JavascriptやCSSファイルを一時作成すること。
 
 ```
 % gatsby clean && gatsby develop
 (npm run clean; npm run develop でもOK)
 ```
-
-http://localhost:8000/ で確認できる。
+develop後は、http://localhost:8000/ で確認できる。
 
 ## 公開
 
 githubのmain branchにpush すると自動でスクリプト(Github Actions)が走り，公開ファイルがNetlifyと学内サーバに転送される。
-Github Actionsの設定ファイルは `.github/workflows/netlify-deploy.yml` ．
+このGithub Actionsの設定ファイルは `.github/workflows/netlify-deploy.yml` ．
 
 
