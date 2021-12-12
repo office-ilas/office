@@ -199,8 +199,10 @@ tags:
 .....
 
 ```
+ファイル先頭の「title:　~、date: ~」などの部分を「Frontbatter」と呼び、ファイルの情報を記載する。
 
-ここで，`templateKey: blog-post` は変更してはならない．
+このうち，`templateKey: blog-post` は変更禁止。
+
 この templateKey は src/pages 以下のディレクトリでそれぞれ指定され，指定されたテンプレートを利用して表示用ファイルが生成されます．
 News の場合は templateKey を blog-post と指定しています．なお，awards の場合は awards-page と指定します．
 
