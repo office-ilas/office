@@ -113,7 +113,7 @@ $tree -L 1
 ### package.json:　インストールしたパッケージの情報
   現状、acサイトの設定をそのまま流用している。
 
-### package-lock.json (See package.json below, first).：　npmが自動生成
+### package-lock.json or yarn.lock：　npm/yarnが自動生成
   依存パッケージも含め、実際にインストールされたパッケージ情報が記載されている。
 
 # 記事の編集（追加，修正，削除）
