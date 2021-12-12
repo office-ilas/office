@@ -110,11 +110,11 @@ $tree -L 1
 
 　当初ACサイトから流用したソースではfeaturedpostタグがMDファイルに全く入ってないとエラーになった。該当タグは現在不要のようなので、エラー回避のため該当Queryからこのタグ記載を消したが、実はこのcreateSchemaCustomizationでの定義でも回避できたもよう。
 
-### package-lock.json (See package.json below, first).：　npmが自動生成
-
-### package.json:　Nodeで実行するパッケージの指定
+### package.json:　インストールしたパッケージの情報
   現状、acサイトの設定をそのまま流用している。
 
+### package-lock.json (See package.json below, first).：　npmが自動生成
+  依存パッケージも含め、実際にインストールされたパッケージ情報が記載されている。
 
 # 記事の編集（追加，修正，削除）
 
