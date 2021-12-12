@@ -70,7 +70,7 @@ $tree -L 1
 ## 各ディレクトリ、ファイルの解説
 
 ### /node_modules:　npmでインストールするモジュールの格納場所
-  触ってはならない。
+  触ってはならない。`npm install`や`yarn`で再構築可能。
 
 ### /src:　公開用ファイル
 　基本Webサイトのデザイン時はこのディレクトリ内のファイルを修正，追加，削除する。
@@ -264,7 +264,7 @@ CONTRIBUTING.md    README.md          gatsby-config.js   lambda             pack
 % yarn
 ```
 
-`npm install` でも OK だが、`yarn`の方が早くトラブルも少ない感じ。
+`npm install` でも可能ではあるが、`yarn`の方が早くトラブルも少ない感じ。
 なお、`yarn`と`npm`の混在利用は誤動作の恐れがあり厳禁。
 
 ## ビルド (build)
