@@ -29,7 +29,7 @@ const BlogPostTemplate = ({ data, location }) => {
               <section dangerouslySetInnerHTML={{ __html: post.html }} itemProp="articleBody" />
               {tags && tags.length ? (
                 <div style={{ marginTop: `4rem` }}>
-                  <h4>Tags</h4>
+                  <h4>カテゴリー（タグ）</h4>
                   <ul className="taglist">
                     {post.frontmatter.tags.map(tag => (
                       <li key={tag + `tag`}>
