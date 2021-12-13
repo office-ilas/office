@@ -9,9 +9,10 @@ const ForIlasPage = ({data})  => {
      <div classname="container">
        {posts.map(({node}) => (
        <div classname="posts">
-        <Link to={node.fields.slug}>
-        <h3>{node.frontmatter.title}({node.frontmatter.date})</h3>
-        </Link>
+        <table><tr>
+        <td><Link to={node.fields.slug}><h3>{node.frontmatter.title}</h3></Link></td>
+        <td><h6><font color="green">({node.frontmatter.date})</font></h6></td>
+        </tr></table>
        </div>
        ))}
       </div>
