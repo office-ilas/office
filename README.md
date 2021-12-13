@@ -4,14 +4,14 @@
   </a>
 </p>
 <h1 align="center">
-  office
+  officeサイトについて
 </h1>
 
 このサイトは [Gatsby](https://www.gatsbyjs.com/)を利用した[AcademicCentral(以後ACと呼ぶ)](https://academic-central.netlify.app/)のファイルを流用して構築しています．
 
 # 始める前に
 
-- 記事編集するだけでもGithubアカウント必須。大学関係者なら[Github Pro アカウント](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount)の取得がお勧め。
+- 記事編集だけでもGithubアカウント必須。大学関係者なら[Github Pro アカウント](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount)の取得がお勧め。
 - 記事編集以上のことをするには、PCに開発環境構築が必要。詳細は「開発関係」の章を参照。
 - 作者はGithubもGatsbyも初めてのため、色々不備などあると思います、ご容赦願います。
 
@@ -29,7 +29,7 @@ OCWでは万一に備え「データ修正はbranchをきって作業し、デ�
 
 本サイトは、[Netlify CMS](https://actest-for-office1.netlify.app/admin/#/collections/news)でも編集可能。
 
-この方法だと、Wordpressのように直感的に作業可能。但し慣れてしまえば、前述のGithubで直接ファイルを編集する方が圧倒的に早い。
+この方法だと、Wordpressのように直感的に作業可能。但し慣れてしまえば、前述のGithubで直接ファイルを編集する方が早い。
 
 記事の追加・修正・削除は下記画面で（**後日差し替え予定**）。
 
@@ -44,7 +44,7 @@ OCWでは万一に備え「データ修正はbranchをきって作業し、デ�
 
 # ディレクトリ構成
 
-ディレクトリ構成は下記の通り。但し事務担当者の記事編集においては/srcと/static以外のフォルダを触ることはない。構築に関わらない限りこの章は読み飛ばして構わない。
+ディレクトリ構成は下記の通り。但し通常の記事編集においては/srcと/static以外のフォルダを触ることはない。構築に関わらない限りこの章は読み飛ばして構わない。
 ```
 $tree -L 1
 .
@@ -72,8 +72,15 @@ $tree -L 1
 ### /node_modules:　npmでインストールするモジュールの格納場所
   触ってはならない。`npm install`や`yarn`で再構築可能。
 
-### /src:　公開用ファイル
+### /src:　公開用フォルダ
 　基本Webサイトのデザイン時はこのディレクトリ内のファイルを修正，追加，削除する。
+
+#### /src/pages/index.md：トップ画面の記事ファイル。
+画面上部の文章以外は、実際にはindex-page.jsテンプレートがインポートしている各コンポーネントが担っている。
+
+#### /src/pages/news：　お知らせ記事フォルダ
+- .mdファイル：各お知らせ記事の本体。
+- index.jsファイル：~/news で表示される画面の概要を定義している。
 
 ### /static:　画像ファイルや作成済静的ファイル
 　ユーザが直接触ることは少ない。（画像は？）
