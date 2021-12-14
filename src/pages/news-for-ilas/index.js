@@ -1,6 +1,6 @@
 import * as React from "react";
 import { graphql,Link } from "gatsby"
-//import Layout from "../../components/Layout";
+//import styles from "./news-for-ilas.css";
 
 const ForIlasPage = ({data})  => {
   const posts = data.allMarkdownRemark.edges
@@ -8,12 +8,12 @@ const ForIlasPage = ({data})  => {
    <section classname="content latestblogs">
      <div classname="container">
        {posts.map(({node}) => (
-       <div classname="posts">
-        <table><tr>
-        <td><Link to={node.fields.slug}><h3>{node.frontmatter.title}</h3></Link></td>
-        <td><h6><font color="green">({node.frontmatter.date})</font></h6></td>
-        </tr></table>
-       </div>
+         <div style={{marginTop:10}}>    
+        <p style={{color: "black",fontSize:13}}>
+          <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
+        </p>
+        <p style={{color: "green",fontSize:1}}>({node.frontmatter.date})</p>
+        </div>
        ))}
       </div>
     </section>
