@@ -13,7 +13,8 @@ const ForIlasPage = ({data})  => {
          <div style={{marginTop:10}}>    
           <p style={{color: "black",fontSize:13}}>
           {/* <Link to={node.fields.slug}>{node.frontmatter.title}</Link> */}
-          <a href={`${BaseURL}${node.fields.slug}`} target="_blank" rel="noreferrer">{node.frontmatter.title}</a>
+          {/* <a href={`${BaseURL}${node.fields.slug}`} target="_blank" rel="noreferrer">{node.frontmatter.title}</a> */}
+          <a href={`${node.fields.slug}`} target="_blank" rel="noreferrer">{node.frontmatter.title}</a>
           </p>
           <p style={{color: "green",fontSize:1}}>({node.frontmatter.date})</p>
          </div>
