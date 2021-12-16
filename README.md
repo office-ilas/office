@@ -29,7 +29,7 @@
 
 *OCWでは万一に備え「データ修正はbranchをきって作業し、データ修正後`gatsby develop`で動作確認の上pull requestし，main branch へマージしている」もよう。しかし事務室では原則上記二フォルダしかいじらない運用になるので、ここまで厳密にしなくてもよいと思われる。*
 
-## Netlify CMS での記事の追加・修正・削除
+## Netlify CMSで記事を編集する方法（詳細）
 
 本サイトは、[Netlify CMS](https://actest-for-office1.netlify.app/admin/#/collections/news)でも編集可能。
 
