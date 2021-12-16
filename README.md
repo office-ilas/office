@@ -15,6 +15,33 @@
 - 記事編集以上のことをするには、PCに開発環境構築が必要。詳細は「開発関係」の章を参照。
 - 作者はGithubもGatsbyも初めてのため、色々不備などあると思います、ご容赦願います。
 
+# ディレクトリ構成
+
+ディレクトリ構成は下記の通り。通常の記事編集において/srcと/static以外のフォルダを触ることはない。
+```
+$tree -L 1
+.
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
+├── _headers
+├── gatsby-config.js
+├── gatsby-node.js
+├── lambda
+├── memo.md
+├── netlify.toml
+├── node_modules
+├── package.json
+├── public
+├── renovate.json
+├── src
+├── static
+└── yarn.lock
+
+```
+各ディレクトリ、ファイルの詳細は[こちらを](./Readme-Directory.md)参照。
+
 # 記事編集の概要
 
 記事を編集するには、下記の通りGithubを使う方法とNetlifyCMSを使う方法がある。
@@ -44,32 +71,7 @@
 <img width="1122" alt="スクリーンショット 2021-10-19 14 18 22" src="https://user-images.githubusercontent.com/12372151/137848370-4357adef-0663-4cef-bdd6-922976f30c2a.png">
 
 
-# ディレクトリ構成
 
-ディレクトリ構成は下記の通り。通常の記事編集において/srcと/static以外のフォルダを触ることはない。
-```
-$tree -L 1
-.
-├── CODE_OF_CONDUCT.md
-├── CONTRIBUTING.md
-├── LICENSE
-├── README.md
-├── _headers
-├── gatsby-config.js
-├── gatsby-node.js
-├── lambda
-├── memo.md
-├── netlify.toml
-├── node_modules
-├── package.json
-├── public
-├── renovate.json
-├── src
-├── static
-└── yarn.lock
-
-```
-各ディレクトリ、ファイルの詳細は[こちらを](./Readme-Directory.md)参照。
 
 # 記事の編集（追加，修正，削除）
 
