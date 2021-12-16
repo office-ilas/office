@@ -153,7 +153,7 @@ tags:
 - `templateKey`：表示に利用するテンプレートを指定しており、通常の記事においては常に「blog-post」で同一。
 - `title` ：タイトル
 - `description`:概要
-- `featuredimage`:アイキャッチ画像。デフォルトで選択できるのは static/img/ 内の画像。なお指定時は/imgから表記必要。例えば/static/img/ac1.jpgの画像を指定する場合、`featuredimage: /img/ac1.jpg` とする．
+- `featuredimage`:アイキャッチ画像。デフォルトで選択できるのは static/img/ 内の画像。なおパスは/imgから表記する。例えば/static/img/ac1.jpgの画像を指定する場合、`featuredimage: /img/ac1.jpg` とする．
 - `date`:掲載日
 - `tags`:タグ．上記例の通り、「-」で一行にひとつ書く（複数ある場合は複数行で記載）．
 
