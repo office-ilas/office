@@ -62,18 +62,8 @@ $tree -L 1
 
 この方法だと、Wordpressのように直感的に作業可能。但し慣れてしまえば、前述のGithubで直接ファイルを編集する方が早い。
 
-記事の追加・修正・削除は下記画面で（**後日差し替え予定**）。
 
-<img width="988" alt="スクリーンショット 2021-10-19 14 01 34" src="https://user-images.githubusercontent.com/12372151/137847935-cd017206-0e24-435f-8190-b6654d063e3d.png">
-
-画像は、画面上「Media」ボタンを押せば追加・修正・削除可能。
-
-<img width="1122" alt="スクリーンショット 2021-10-19 14 18 22" src="https://user-images.githubusercontent.com/12372151/137848370-4357adef-0663-4cef-bdd6-922976f30c2a.png">
-
-
-
-
-# 記事の編集（追加，修正，削除）
+# Githubで記事を編集する方法（詳細）
 
 記事データは，src/pages内のMD(MarkDown)ファイル．構築に関わらない方はMDファイル以外触らないこと。
 
@@ -189,6 +179,18 @@ News の場合は templateKey を blog-post と指定しています．なお，
 ```
 
 が本文になり，マークダウン形式で記載されています．
+
+# NetlifyCMSで記事を編集する方法（詳細）
+
+記事の追加・修正・削除は下記画面で（**後日差し替え予定**）。
+
+<img width="988" alt="スクリーンショット 2021-10-19 14 01 34" src="https://user-images.githubusercontent.com/12372151/137847935-cd017206-0e24-435f-8190-b6654d063e3d.png">
+
+画像は、画面上「Media」ボタンを押せば追加・修正・削除可能。
+
+<img width="1122" alt="スクリーンショット 2021-10-19 14 18 22" src="https://user-images.githubusercontent.com/12372151/137848370-4357adef-0663-4cef-bdd6-922976f30c2a.png">
+
+
 
 # 開発関係
 
