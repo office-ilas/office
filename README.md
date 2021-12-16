@@ -44,7 +44,7 @@ $tree -L 1
 
 # 記事編集の概要
 
-記事を編集するには、下記の通りGithubを使う方法とNetlifyCMSを使う方法がある。
+記事編集には、下記の通りGithubを使う方法とNetlifyCMSを使う方法がある。
 
 ## Githubで記事を編集する方法（概要）
 
@@ -56,16 +56,16 @@ $tree -L 1
 
 *OCWでは万一に備え「データ修正はbranchをきって作業し、データ修正後`gatsby develop`で動作確認の上pull requestし，main branch へマージしている」もよう。しかし事務室では原則上記二フォルダしかいじらない運用になるので、ここまで厳密にしなくてもよいと思われる。*
 
-## Netlify CMSで記事を編集する方法（詳細）
+## Netlify CMSで記事を編集する方法（概要）
 
 本サイトは、[Netlify CMS](https://actest-for-office1.netlify.app/admin/#/collections/news)でも編集可能。
 
-この方法だと、Wordpressのように直感的に作業可能。但し慣れてしまえば、前述のGithubで直接ファイルを編集する方が早い。
+この方法だと、Wordpressのように直感的に作業可能。但し慣れてしまえば、前述Githubで編集する方法の方が早い。
 
 
 # Githubで記事を編集する方法（詳細）
 
-記事データは，src/pages内のMD(MarkDown)ファイル．構築に関わらない方はMDファイル以外触らないこと。
+記事データは，src/pages内のMD(MarkDown)ファイル．**構築に関わらない方はMDファイル以外触らないこと。**
 
 ```
 ├── src
@@ -99,19 +99,17 @@ $tree -L 1
 
 ## 記事の修正
 
-src/pages のマークダウンファイルを編集する．
-同ディレクトリにあるファイルをコピーし，ファイル名を変更して作成するのが楽。
-なお、マークダウンファイルに記載のフォーマットは変更しないこと。
-特に上段のFrontmatterの項目はGatsbyに必須なため、コロン以降のみ変更すること。
-
+src/pages のMDファイルを編集する．
+同ディレクトリにあるファイルをコピーし，ファイル名変更して作成するのが楽。
+なおMDファイル上段の「title:　~、date: ~」などの部分は「Frontbatter」と呼び、Gatsby動作に必須。これらの項目は削除しないこと（コロン以降のみ変更可）。
 
 ## 記事の削除
 
-src/pages のマークダウンファイルを削除する．
+src/pages のMDファイルを削除する．
 
 ## 記事の追加
 
-src/pages に新しいマークダウンファイルを追加する．
+src/pages に新しいMDファイルを追加する．
 
 ## 記事の編集例
 
@@ -147,29 +145,21 @@ tags:
 .....
 
 ```
-ファイル先頭の「title:　~、date: ~」などの部分を「Frontbatter」と呼び、ファイルの情報を記載する。
+### Frontmatter(先頭部分）の編集
+ファイル先頭の「title:　~、date: ~」などの部分（Frontmatter)はコロン以降のみ変更可（但し`templateKey: blog-post` はコロン以降も変更禁止）。
 
-このうち，`templateKey: blog-post` は変更禁止。
+- `templateKey`：表示に利用するテンプレートを指定しており、通常の記事においては常に「blog-post」で同一。
+- `title` ：タイトル
+- `description`:概要
+- `featuredimage`:アイキャッチ画像。デフォルトで選択できるのは static/img/ 内の画像。
+　　なお指定する際は/imgから指定する必要がある。例えば/static/img/ac1.jpgの画像を指定したい場合、`featuredimage: /img/ac1.jpg` とする．
+- `date`:掲載日
+- `tags`:タグ．上記例の通り、「-」で一行にひとつ書く（複数ある場合は複数行で記載）．
 
-この templateKey は src/pages 以下のディレクトリでそれぞれ指定され，指定されたテンプレートを利用して表示用ファイルが生成されます．
-News の場合は templateKey を blog-post と指定しています．なお，awards の場合は awards-page と指定します．
+### 本文の編集
+「---」以降が本文。ここはMarkDown形式で記載する．
 
-`title` はタイトルですので，適宜修正可能．
-
-`description` は概要ですので，適宜修正可能．
-
-`featuredimage` はアイキャッチ画像．ディフォルトで選択できるのは static/img/ にある画像．
-アップロードして利用したい場合には static/img/ におき，/img/ファイル名 で指定する．
-たとえば，static/img/ac1.jpg を指定する場合は `featuredimage: /img/ac1.jpg` とする．
-
-`date` は掲載日ですので，適宜修正可能．
-
-`tags` はタグになります．タグは上に記載のように「-」で一行にひとつ書くこと．
-
-ここまでが，Frontmatter．
-「---」以降は本文。マークダウン形式で記載する．
-
-この例ですと
+この例では、
 
 ```
 # 松尾清一氏（東海国立大学機構長・名古屋大学総長）
@@ -178,7 +168,7 @@ News の場合は templateKey を blog-post と指定しています．なお，
 ．．．
 ```
 
-が本文になり，マークダウン形式で記載されています．
+が本文。見ての通りMarkDown形式で記載されている。
 
 # NetlifyCMSで記事を編集する方法（詳細）
 
