@@ -50,7 +50,7 @@ $tree -L 1
 
 本サイトの大元のデータはGithubのmain branch。通常記事編集でいじるのは、/src/pages/news以下のMDファイルと、/static/img以下の画像ファイル。
 
-ファイルを編集（正確にはGithubのmain branchにpush）すると「Github Actions」によって自動的に「公開ファイル(※)」がNetlifyと学内サーバに転送される。
+ファイルを編集（正確にはGithubのmain branchにpush）すると「Github Actions」によって「公開ファイル(※)」がNetlifyと学内サーバに転送される。
 
 **注※**：公開ファイルは、本Github上にファイルを「ビルド」してできた「html, Javascript、CSS」などのファイル。Github上では確認不可。
 
@@ -65,7 +65,9 @@ $tree -L 1
 
 # Githubで記事を編集する方法（詳細）
 
-記事データは，src/pages内のMD(MarkDown)ファイル．**構築に関わらない方はMDファイル以外触らないこと。**
+記事データはsrc/pages内のMD(MarkDown)ファイル、通常このファイルのみ編集する。
+
+**注：構築に関わらない方はこのMDファイル以外触らないこと。**
 
 ```
 ├── src
@@ -99,9 +101,9 @@ $tree -L 1
 
 ## 記事の修正
 
-src/pages のMDファイルを編集する．
-同ディレクトリにあるファイルをコピーし，ファイル名変更して作成するのが楽。
-なおMDファイル上段の「title:　~、date: ~」などの部分は「Frontbatter」と呼び、Gatsby動作に必須。これらの項目は削除しないこと（コロン以降のみ変更可）。
+src/pages のMDファイルを編集する。同ディレクトリにあるファイルをコピーし，ファイル名変更して作成するのが楽。
+
+なお「記事の編集例」の箇所で詳しく述べるが、**MDファイル上段「title:　~、date: ~」などの部分はGatsby動作に必須**なので削除しないこと。
 
 ## 記事の削除
 
