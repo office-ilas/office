@@ -15,17 +15,21 @@
 - 記事編集以上のことをするには、PCに開発環境構築が必要。詳細は「開発関係」の章を参照。
 - 作者はGithubもGatsbyも初めてのため、色々不備などあると思います、ご容赦願います。
 
-# Github での記事の追加・修正・削除
+# 記事編集の概要
 
-本サイトの大元のデータはGithubのmain branchで、ここにpushするとスクリプト（Github Actions）によって自動的に「公開ファイル」がNetlifyと学内サーバに転送される。
+記事を編集するには、下記の通りGithubを使う方法とNetlifyCMSを使う方法がある。
 
-「公開ファイル」は本Github上に存在するファイルではなく、これらファイルを「ビルド」してできた「html, Javascript、CSS」などのファイル。
+## Githubで記事を編集する方法（概要）
 
-通常の記事編集でいじるのは、/src/pages/news以下のMDファイルと、/static/img以下の画像ファイル。
+本サイトの大元のデータはGithubのmain branch。通常記事編集でいじるのは、/src/pages/news以下のMDファイルと、/static/img以下の画像ファイル。
 
-OCWでは万一に備え「データ修正はbranchをきって作業し、データ修正後`gatsby develop`で動作確認の上pull requestし，main branch へマージしている」もよう。しかし事務室では原則上記二フォルダしかいじらない運用になるので、ここまで厳密にしなくてもよいと思われる。
+ファイルを編集（正確にはGithubのmain branchにpush）すると「Github Actions」によって自動的に「公開ファイル(※)」がNetlifyと学内サーバに転送される。
 
-# Netlify CMS での記事の追加・修正・削除
+**注※**：公開ファイルは、本Github上にファイルを「ビルド」してできた「html, Javascript、CSS」などのファイル。Github上では確認不可。
+
+*OCWでは万一に備え「データ修正はbranchをきって作業し、データ修正後`gatsby develop`で動作確認の上pull requestし，main branch へマージしている」もよう。しかし事務室では原則上記二フォルダしかいじらない運用になるので、ここまで厳密にしなくてもよいと思われる。*
+
+## Netlify CMS での記事の追加・修正・削除
 
 本サイトは、[Netlify CMS](https://actest-for-office1.netlify.app/admin/#/collections/news)でも編集可能。
 
