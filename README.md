@@ -148,7 +148,7 @@ tags:
 
 ```
 ### Frontmatter(先頭部分）の編集
-ファイル先頭の「title:　~、date: ~」などの部分（Frontmatter)はコロン以降のみ変更可（但し`templateKey: blog-post` はコロン以降も変更禁止）。
+ファイル先頭の「title:　~、date: ~」などの部分（Frontmatter)はコロン以降のみ変更可（但し`templateKey: blog-post` は原則変更禁止）。
 
 - `templateKey`：表示に利用するテンプレートを指定しており、通常の記事においては常に「blog-post」で同一。
 - `title` ：タイトル
