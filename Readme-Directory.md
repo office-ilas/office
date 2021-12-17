@@ -21,9 +21,11 @@
 ### /src/pages/contact：　連絡先画面
 
 ## /static:　画像や作成済静的ファイルのフォルダ
-ユーザが直接触ることは少ない。（画像は？）
- 
-　/static/adminは、netlifyCMSの管理画面を制御するため、開発者は触る必要あり。
+
+### /static/img：画像フォルダ
+- ここに置いたファイルは公開フォルダのルートに置かれるため、mdファイルからは/img/〜で参照する。
+
+### /static/admin：netlifyCMSの管理画面制御
 
 ## /public:　公開用フォルダ
 　gatsby build を実行すると，このディレクトリに公開用ファイルが生成される。
