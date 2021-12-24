@@ -40,9 +40,9 @@ collections:
           - { label: Description, name: description, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
 
-      - file: "src/pages/category/courses.md"
-        label: "courses"
-        name: "courses"
+      - file: "src/pages/pages/CourseRegistration-G30.md"
+        label: "CourseRegistration-G30.md"
+        name: "CourseRegistration-G30.md"
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
           - { label: "Title", name: "title", widget: "string" }
@@ -51,9 +51,9 @@ collections:
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: "Tags", name: "tags", widget: "list" }
 
-      - file: "src/pages/category/facilities.md"
-        label: "facilities"
-        name: "facilities"
+      - file: "src/pages/pages/note-course-registration.md"
+        label: "note-course-registration.md"
+        name: "note-course-registration.md"
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
           - { label: "Title", name: "title", widget: "string" }
@@ -62,9 +62,9 @@ collections:
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: "Tags", name: "tags", widget: "list" }
 
-      - file: "src/pages/category/G30.md"
-        label: "G30"
-        name: "G30"
+      - file: "src/pages/pages/it-help.md"
+        label: "it-help.md"
+        name: "it-help.md"
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
           - { label: "Title", name: "title", widget: "string" }
@@ -73,9 +73,9 @@ collections:
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: "Tags", name: "tags", widget: "list" }
 
-      - file: "src/pages/category/OnlineLecture.md"
-        label: "OnlineLecture"
-        name: "OnlineLecture"
+      - file: "src/pages/pages/implementation.md"
+        label: "implementation.md"
+        name: "implementation.md"
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
           - { label: "Title", name: "title", widget: "string" }
@@ -84,9 +84,9 @@ collections:
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: "Tags", name: "tags", widget: "list" }
 
-      - file: "src/pages/category/teachers.md"
-        label: "teachers"
-        name: "teachers"
+      - file: "src/pages/pages/course-timetable.md"
+        label: "course-timetable.md"
+        name: "course-timetable.md"
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
           - { label: "Title", name: "title", widget: "string" }
@@ -95,9 +95,9 @@ collections:
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: "Tags", name: "tags", widget: "list" }
 
-      - file: "src/pages/category/FAQ.md"
-        label: "FAQ"
-        name: "FAQ"
+      - file: "src/pages/pages/classroom_rental_application.md"
+        label: "classroom_rental_application.md"
+        name: "classroom_rental_application.md"
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
           - { label: "Title", name: "title", widget: "string" }
@@ -106,9 +106,42 @@ collections:
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: "Tags", name: "tags", widget: "list" }
 
-      - file: "src/pages/category/others.md"
-        label: "others"
-        name: "others"
+      - file: "src/pages/pages/access-point.md"
+        label: "access-point.md"
+        name: "access-point.md"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Description, name: description, widget: string }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Tags", name: "tags", widget: "list" }
+
+      - file: "src/pages/pages/access-ILAS-LectureRoom.md"
+        label: "access-ILAS-LectureRoom.md"
+        name: "access-ILAS-LectureRoom.md"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Description, name: description, widget: string }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Tags", name: "tags", widget: "list" }
+
+      - file: "src/pages/pages/LAandSC-Policy.md"
+        label: "LAandSC-Policy.md"
+        name: "LAandSC-Policy.md"
+        fields:
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: Description, name: description, widget: string }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Tags", name: "tags", widget: "list" }
+
+      - file: "src/pages/pages/students-guide.md"
+        label: "students-guide.md"
+        name: "students-guide.md"
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
           - { label: "Title", name: "title", widget: "string" }
