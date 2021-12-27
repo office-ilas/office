@@ -48,7 +48,7 @@ $tree -L 1
 
 ## Githubで記事を編集する方法（概要）
 
-本サイトの大元のデータはGithubのmain branch。通常記事編集でいじるのは、/src/pages/news以下のMDファイルと、/static/img以下の画像ファイル。
+本サイトの大元のデータはGithubのmain branch。通常記事編集でいじるのは、/src/pages/newsと/src/pages/pages以下のMDファイル、及び/static/img以下の画像ファイル。
 
 ファイルを編集（正確にはGithubのmain branchにpush）すると「Github Actions」によって「公開ファイル(※)」がNetlifyと学内サーバに転送される。
 
@@ -67,52 +67,61 @@ $tree -L 1
 
 記事データはsrc/pages内のMD(MarkDown)ファイル、通常このファイルのみ編集する。
 
-**注：開発に関わらない方はこのMDファイル以外触らないこと。**
+/src/pages/newsはWORDPRESSの投稿ページに該当する。これ以下のMDファイルの内容が、「お知らせ」欄に時系列（新着順）で表示される。
+
+/src/pages/pagesはWORDPRESSの固定ページに該当し、これ以下のMDファイルの内容は「お知らせ」欄には表示されず、画面上部「重要事項」欄などに固定的に表示する。
+
+なお「固定ページ」を「重要事項」欄に追加する際は特殊操作が必要なため、追加したい場合は開発者に相談する。
+
+**注：開発者以外の方が触れるのは、原則MDファイルのみ**
 
 ```
-├── src
-│   ├── img
-│   ├── pages
-│   │   ├── 404.js
-│   │   ├── awards
-│   │   │   └── index.md
-│   │   ├── contact
-│   │   │   └── index.js
-│   │   ├── division
-│   │   │   ├── Data-Science.md
-│   │   │   ├── Doctoral-Education.md
-│   │   │   ├── High-School-University-Articulation.md
-│   │   │   ├── Instructional-Design-Team.md
-│   │   │   ├── Liberal-Arts.md
-│   │   │   ├── Life-Concept.md
-│   │   │   ├── Promotion-Planning-Office.md
-│   │   │   ├── QTA.md
-│   │   │   └── index.js
-│   │   ├── index.md
-│   │   ├── news
-│   │   │   ├── 2021-06-07-トップリーダートーク.md
-│   │   │   ├── 2021-06-07-名古屋大学全学教育物理学実験.md
-│   │   │   ├── 2021-06-24-化学実験ホームページ.md
-│   │   │   ├── 2021-07-13-アカデミック・イングリッシュ支援室（access）.md
-│   │   │   └── index.js
-│   │   └── tags
-│   │       └── index.js
+src/pages
+├── index.md
+├── news
+│   ├── 2021-09-06-2021年度秋学期履修手続きに関する注意事項.md
+│   ├── 2021-09-06-教養教育院からの「お知らせ」方法の変更について.md
+│   ├── 2021-09-06Zoomによる問合せ窓口.md
+│   ├── 2021-11-22-course-registration-for-g30-international-program-students.md
+│   ├── 2021-11-22-【重要】2021年度秋学期　全学教育科目授業時間割表・行事等について.md
+│   ├── 2021-11-22-教養教育院アクセスポイント-ilas-remote-learning-spaces.md
+│   ├── 2021-11-23-全学教育棟講義室貸出について.md
+│   ├── 2021-11-24-in-the-case-of-failing-“course-registration”.md
+│   ├── index.js
+│   └── 責任者変更届.docx
+├── pages
+│   ├── CourseRegistration-G30.md
+│   ├── LAandSC-Policy.md
+│   ├── access-ILAS-LectureRoom.md
+│   ├── access-point.md
+│   ├── classroom_rental_application.md
+│   ├── course-timetable.md
+│   ├── implementation.md
+│   ├── it-help.md
+│   ├── note-course-registration.md
+│   └── students-guide.md
+└── tags
+    └── index.js
 ```
 
 ## 記事の修正
 
-src/pages のMDファイルを編集する。同ディレクトリにあるファイルをコピーし，ファイル名変更して作成するのが楽。
+src/pages以下のMDファイルを編集する。
+
+投稿ページ（お知らせ欄に表示する記事)のファイルはsrc/pages/news以下、固定ページ（重要事項欄に表示する記事）のファイルはsrc/pages/pages以下にある。
 
 なお「記事の編集例」の箇所で詳しく述べるが、**MDファイル上段「title:　~、date: ~」などの部分はGatsby動作に必須**なので削除しないこと。
 
 ## 記事の削除
 
-src/pages のMDファイルを削除する．
+- 投稿ページの削除：src/pages/news以下のMDファイルを削除する。
+- 固定ページの削除：開発者に相談する。
 
 ## 記事の追加
 
-src/pages に新しいMDファイルを追加する．
-
+- 投稿ページの追加：src/pages/news に新しいMDファイルを追加する．同ディレクトリにあるファイルをコピーし，ファイル名変更して作成するのが楽。
+- 固定ページの追加：開発者に相談する。
+- 
 ## 記事の編集例
 
 以下，src/news の 2021-06-07-トップリーダートーク.md を例に説明する．
