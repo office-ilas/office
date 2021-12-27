@@ -48,32 +48,26 @@ $tree -L 1
 
 ## Githubで記事を編集する方法（概要）
 
-本サイトの大元のデータはGithubのmain branch。通常記事編集でいじるのは、/src/pages/newsと/src/pages/pages以下のMDファイル、及び/static/img以下の画像ファイル。
+本サイトの大元のデータは、このGithub（main branch）のデータ。
 
-ファイルを編集（正確にはGithubのmain branchにpush）すると「Github Actions」によって「公開ファイル(※)」がNetlifyと学内サーバに転送される。
+通常記事編集でいじるのは、/src/pages/newsと/src/pages/pages以下の「MDファイル」、及び/static/img以下の「画像ファイル」。
 
-**注※**：公開ファイルは、本Github上にファイルを「ビルド」してできた「html, Javascript、CSS」などのファイル。Github上では確認不可。
+ファイルを編集（正確にはGithubのmain branchにpush）すると、Github Actionsによって「公開ファイル(※)」がNetlifyと学内サーバに転送される。
 
-*OCWでは万一に備え「データ修正はbranchをきって作業し、データ修正後`gatsby develop`で動作確認の上pull requestし，main branch へマージしている」もよう。しかし事務室では原則上記二フォルダしかいじらない運用になるので、ここまで厳密にしなくてもよいと思われる。*
+**注※**：公開ファイルは、本Githubのファイルをビルドしてできた「html, Javascript、CSS」などのファイル（Github上では確認不可）。
+
+*OCWでは万一に備え「データ修正はbranchをきって作業し、データ修正後`gatsby develop`で動作確認の上pull requestし，main branch へマージしている」もよう。しかし事務室では原則上記二フォルダしかいじらない運用なので、ここまで厳密にしない。*
 
 ## Netlify CMSで記事を編集する方法（概要）
 
 本サイトは、[Netlify CMS](https://actest-for-office1.netlify.app/admin/#/collections/news)でも編集可能。
 
-この方法だと、Wordpressのように直感的に作業可能。但し慣れてしまえば、前述Githubで編集する方法の方が早い。
+この方法だとWordpressのように直感的に作業可能。但し慣れれば前述Githubで編集する方法の方が早い。また新規に記事を追加する際のファイル名指定はGithubでしかできない。
 
 
 # Githubで記事を編集する方法（詳細）
 
 記事データはsrc/pages内のMD(MarkDown)ファイル、通常このファイルのみ編集する。
-
-/src/pages/newsはWORDPRESSの投稿ページに該当する。これ以下のMDファイルの内容が、「お知らせ」欄に時系列（新着順）で表示される。
-
-/src/pages/pagesはWORDPRESSの固定ページに該当し、これ以下のMDファイルの内容は「お知らせ」欄には表示されず、画面上部「重要事項」欄などに固定的に表示する。
-
-なお「固定ページ」を「重要事項」欄に追加する際は特殊操作が必要なため、追加したい場合は開発者に相談する。
-
-**注：開発者以外の方が触れるのは、原則MDファイルのみ**
 
 ```
 src/pages
@@ -103,6 +97,11 @@ src/pages
 └── tags
     └── index.js
 ```
+/src/pages/newsはWORDPRESSの投稿ページに該当する。これ以下のMDファイルの内容が自動的に「お知らせ」欄に時系列表示される。
+
+/src/pages/pagesはWORDPRESSの固定ページに該当する。これ以下のMDファイルの内容は「お知らせ」欄には表示されない。画面上部「重要事項」欄などに**固定的に表示**する。
+
+なお固定ページの「重要事項」欄への追加は特殊操作が必要なため、固定ページを追加したい場合は開発者に相談する。
 
 ## 記事の修正
 
@@ -123,7 +122,7 @@ src/pages以下のMDファイルを編集する。該当ファイルの場所は
 
 - 投稿ページの追加：src/pages/news にMDファイルを追加する．既存ファイルをコピーし，ファイル名変更して作成するのが楽。
 - 固定ページの追加：開発者に相談する。
-- 
+
 ## 記事の編集例
 
 以下，src/pages/news の 2021-09-06-教養教育院からの「お知らせ」方法の変更について.md を例に説明する．
@@ -152,14 +151,15 @@ tags:
 
 ```
 ### Frontmatter(先頭部分）の編集
-ファイル先頭の「title:　~、date: ~」などの部分（Frontmatter)はコロン以降のみ変更可（但し`templateKey: blog-post` は原則変更禁止）。
+ファイル先頭の「title:　~、date: ~」などの部分を「Frontmatter」と呼ぶ。この部分はコロン以降のみ変更可（但し`templateKey: は原則変更禁止）。
 
 各項目の詳細は下記の通り。
 
-- `templateKey`：表示に利用するテンプレート。投稿ページの場合「blog-post」。
+- `templateKey`：表示に利用するテンプレート。投稿ページの場合「blog-post」、固定ページの場合は「pages」。この項目は原則変更禁止。
 - `title` ：タイトル
 - `description`:概要
-- `featuredimage`:アイキャッチ画像を指定するが、OFFICEサイトではアイキャッチを利用しないためこの項目は不要（コメントアウトしている）。なおアイキャッチを利用する場合は、static/img/ 内に画像を置いたうえで、/imgからのパスを表記する。例えば/static/img/ac1.jpgの画像を指定する場合、`featuredimage: /img/ac1.jpg` 。
+- `featuredimage`:アイキャッチ画像。
+  - OFFICEサイトではアイキャッチを利用しないためこの項目は不要（コメントアウトしている）。なおアイキャッチを利用する場合は、static/img/ 内に画像を置いたうえで、/imgからのパスを表記する。例えば/static/img/ac1.jpgの画像を指定する場合、`featuredimage: /img/ac1.jpg` 。
 - `date`:掲載日
 - `tags`:タグ．上記例の通り「- 」に続けて書く。複数ある場合は、複数行に分けて記載する．
 
