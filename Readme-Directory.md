@@ -80,5 +80,5 @@
 ### /static/admin：netlifyCMSの管理画面制御
 
 ## /public:　公開用フォルダ
-　gatsby build を実行すると，このディレクトリに公開用ファイルが生成される。
-　またgatsby clean を実行すると，このディレクトリとキャッシュがクリアされる．
+- gatsby build を実行すると，このディレクトリに公開用ファイルが生成される。
+- gatsby clean を実行すると，このディレクトリとキャッシュがクリアされる。
