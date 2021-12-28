@@ -7,13 +7,13 @@
   officeサイトについて
 </h1>
 
-このサイトは [Gatsby](https://www.gatsbyjs.com/)を利用した[AcademicCentral(以後ACと呼ぶ)](https://academic-central.netlify.app/)のファイルを流用して構築しています．
+このサイトは [Gatsby](https://www.gatsbyjs.com/)を利用した[AcademicCentral(以後ACと呼ぶ)](https://academic-central.netlify.app/)のファイルを流用して構築している．
 
 # 始める前に
 
 - 記事編集だけでもGithubアカウント必須。大学関係者なら[Github Pro アカウント](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount)の取得がお勧め。
-- 記事編集以上のことをするには、PCに開発環境構築が必要。詳細は「開発関係」の章を参照。
-- 作者はGithubもGatsbyも初めてのため、色々不備などあると思います、ご容赦願います。
+- 記事編集以上の作業には、まず開発環境構築が必要。詳細は「開発関係」の章を参照。
+- 作者はGithubもGatsbyも初めてのため、色々不備などあると思うが、ご容赦願いたく。
 
 # ディレクトリ構成
 
@@ -46,28 +46,52 @@ $tree -L 1
 
 記事編集には、下記の通りGithubを使う方法とNetlifyCMSを使う方法がある。
 
-## Githubで記事を編集する方法（概要）
+## Githubでの記事編集（概要）
 
 本サイトの大元のデータは、このGithub（main branch）のデータ。
 
 通常記事編集でいじるのは、/src/pages/newsと/src/pages/pages以下の「MDファイル」、及び/static/img以下の「画像ファイル」。
 
-ファイルを編集（正確にはGithubのmain branchにpush）すると、Github Actionsによって「公開ファイル(※)」がNetlifyと学内サーバに転送される。
+ファイルを編集（正確にはGithubのmain branchにpush）すると、自動的に「公開ファイル(※)」がNetlifyと学内サーバに転送される。
 
 **注※**：公開ファイルは、本Githubのファイルをビルドしてできた「html, Javascript、CSS」などのファイル（Github上では確認不可）。
 
 *OCWでは万一に備え「データ修正はbranchをきって作業し、データ修正後`gatsby develop`で動作確認の上pull requestし，main branch へマージしている」もよう。しかし事務室では原則上記二フォルダしかいじらない運用なので、ここまで厳密にしない。*
 
-## Netlify CMSで記事を編集する方法（概要）
+## Netlify CMSでの記事編集（概要）
 
 本サイトは、[Netlify CMS](https://actest-for-office1.netlify.app/admin/#/collections/news)でも編集可能。
 
-この方法だとWordpressのように直感的に作業可能。但し慣れれば前述Githubで編集する方法の方が早い。また新規に記事を追加する際のファイル名指定はGithubでしかできない。
+この方法だとWordpressのように直感的に作業可能。但し慣れれば前述Githubで編集する方法の方が早い。また新規記事を作成する際のファイル名指定はGithubでしかできない。
 
+## 記事の種類
 
-# Githubで記事を編集する方法（詳細）
+記事にはWirdPress同様、ブログのように時系列表示される「投稿ページ」と、単体で完結する「固定ページ」があり、下記の通り格納場所が異なる。
 
-記事データはsrc/pages内のMD(MarkDown)ファイル、通常このファイルのみ編集する。
+- 投稿ページ：/src/pages/news
+  - MDファイルの内容が自動的に「お知らせ」欄に時系列表示される。
+- 固定ページ:/src/pages/pages
+  - 「お知らせ」欄には表示されず、設定ファイル弄って画面上部「重要事項」欄などに固定表示(※)する。OFFICEサイトでは通年参照する重要情報は固定ページを使うこととした。
+
+注※　固定ページの「重要事項」欄への追加/削除は設定ファイル弄る必要あるため、固定ページの追加/削除は開発者に相談する。
+
+## 記事のURL
+
+公開サイトでは、MDファイルのファイル名がそのままスラッグ（URL末尾の文字列）になる．
+
+たとえば`src/pages/news/2021-09-06-教養教育院からの「お知らせ」方法の変更について.md`の記事は、下記URLとなる。
+
+https://サイトURL/news/2021-09-06-教養教育院からの「お知らせ」方法の変更について/
+
+但しこのような日本語を含むURLは、実際にはエンコードされ見苦しい文字列になるため、ファイル名は極力英数字が望ましい。
+
+特に「固定ページ」は重要記事であり他サイトからリンクされることもあるため、「ファイル名はすべて英数字のみ」としている。
+
+Netlify CMSでは自動的にタイトルなどからファイル名が生成されるため、**ファイル名を指定したい場合はGithubで編集する**こと。
+
+# Githubでの記事編集（詳細）
+
+通常記事編集で弄るのは、src/pages内のMD(MarkDown)ファイル。投稿ページはnews以下、固定ページはpages以下に格納されている。
 
 ```
 src/pages
@@ -97,12 +121,6 @@ src/pages
 └── tags
     └── index.js
 ```
-/src/pages/newsはWORDPRESSの投稿ページに該当する。これ以下のMDファイルの内容が自動的に「お知らせ」欄に時系列表示される。
-
-/src/pages/pagesはWORDPRESSの固定ページに該当する。これ以下のMDファイルの内容は「お知らせ」欄には表示されない。画面上部「重要事項」欄などに**固定的に表示**する。
-
-なお固定ページの「重要事項」欄への追加は特殊操作が必要なため、固定ページを追加したい場合は開発者に相談する。
-
 ## 記事の修正
 
 src/pages以下のMDファイルを編集する。該当ファイルの場所は下記の通り、
@@ -111,7 +129,7 @@ src/pages以下のMDファイルを編集する。該当ファイルの場所は
 
 - 固定ページ（重要事項欄に表示する記事）：src/pages/pages以下
 
-なお「記事の編集例」の箇所で詳しく述べるが、**MDファイル上段「title:　~、date: ~」などの部分はGatsby動作に必須**なので削除しないこと。
+なお「記事の編集例」で詳しく述べるが、**MDファイル上段「title:　~、date: ~」などの部分はGatsby動作に必須**なので削除厳禁。
 
 ## 記事の削除
 
@@ -120,22 +138,14 @@ src/pages以下のMDファイルを編集する。該当ファイルの場所は
 
 ## 記事の追加
 
-- 投稿ページの追加：src/pages/news にMDファイルを追加する．既存ファイルをコピーし，ファイル名変更して作成するのが楽。
+- 投稿ページの追加：src/pages/news にMDファイルを追加する．既存ファイルをコピーし，ファイル名変更して作るのがお勧め。
 - 固定ページの追加：開発者に相談する。
 
 ## 記事の編集例
 
-以下，src/pages/news の 2021-09-06-教養教育院からの「お知らせ」方法の変更について.md を例に説明する．
+`src/pages/news/2021-09-06-教養教育院からの「お知らせ」方法の変更について.md` を例に説明する．
 
-公開サイトでは、MDファイルのファイル名がそのままスラッグ（URL末尾の文字列）になる．たとえばこの例の場合、
-
-https://サイトURL/news/2021-09-06-教養教育院からの「お知らせ」方法の変更について/
-
-となる。このような日本語を含むURLは実際にはエンコードされ見苦しい文字列になるため、ファイル名は極力英数字が望ましい。
-
-特に「固定ページ」は重要記事であり他サイトからリンクされることもあるため、「ファイル名はすべて英数字のみ」としている。
-
-2021-09-06-教養教育院からの「お知らせ」方法の変更について.md の中身は下記の通り．
+ファイルの中身は下記の通り．
 
 ```
 templateKey: blog-post
@@ -151,7 +161,7 @@ tags:
 
 ```
 ### Frontmatter(先頭部分）の編集
-ファイル先頭の「title:　~、date: ~」などの部分を「Frontmatter」と呼ぶ。この部分はコロン以降のみ変更可（但し`templateKey: は原則変更禁止）。
+ファイル先頭の`title:　~、date: ~`などの部分を`Frontmatter`と呼ぶ。この部分はコロン以降のみ変更可（但しtemplateKey: は原則変更禁止）。
 
 各項目の詳細は下記の通り。
 
@@ -159,14 +169,14 @@ tags:
 - `title` ：タイトル
 - `description`:概要
 - `featuredimage`:アイキャッチ画像。
-  - OFFICEサイトではアイキャッチを利用しないためこの項目は不要（コメントアウトしている）。なおアイキャッチを利用する場合は、static/img/ 内に画像を置いたうえで、/imgからのパスを表記する。例えば/static/img/ac1.jpgの画像を指定する場合、`featuredimage: /img/ac1.jpg` 。
+  - OFFICEサイトではアイキャッチ未使用のためこの項目は不要（コメントアウト）。なおアイキャッチを使用する場合は、static/img/ 内に画像を置き、/img以降のパスを表記する。例えば`/static/img/ac1.jpg`の画像を指定する場合、`featuredimage: /img/ac1.jpg` 。
 - `date`:掲載日
 - `tags`:タグ．上記例の通り「- 」に続けて書く。複数ある場合は、複数行に分けて記載する．
 
 ### 本文の編集
 「---」以降が本文。ここはMarkDown形式で記載する．
 
-# NetlifyCMSで記事を編集する方法（詳細）
+# NetlifyCMSでの記事編集（詳細）
 
 記事の追加・修正・削除は下記画面で（**後日差し替え予定**）。
 
@@ -184,7 +194,7 @@ tags:
 
 ## Gatby開発環境構築
 
-ここではGatsby開発環境の構築方法は省略するが、Windowsでの構築は大変なのでUbuntuを強く推奨。また`npm` より`yarn`を推奨。
+Gatsby開発環境の構築方法は省略するが、Windowsでの構築は大変なのでUbuntuを強く推奨。また`npm` より`yarn`を推奨。
 
 ## ローカル環境へのインストール
 
@@ -205,19 +215,19 @@ CONTRIBUTING.md    README.md          gatsby-config.js   lambda             pack
 
 ## 環境構築
 
-`yarn` で環境構築する。
+`yarn` で環境構築。
 
 ```
 % yarn
 ```
 
-`npm install` でも可能ではあるが、`yarn`の方が早くトラブルも少ない感じ。
-なお、`yarn`と`npm`の混在利用は誤動作の恐れがあり厳禁。
+`npm install` でも可能だが、`yarn`の方が早くトラブルも少ないようなので推奨。
+なお、`yarn`と`npm`の混在利用は誤動作の恐れあり厳禁。
 
 ## ビルド (build)
 
 ビルドとは、サイト公開用のhtml, JavascriptやCSSファイルを作成すること。
-Warningが出ても、ビルドが完了すればとりあえず問題ないらしい。
+Warningが出ても、ビルドが完了すればとりあえずOKらしい。
 
 ビルドの実行コマンドは下記の通り。
 
@@ -231,7 +241,7 @@ Warningが出ても、ビルドが完了すればとりあえず問題ないら�
 
 ## ディベロプ (develop)
 
-ディベロプとは、公開前のチェックのためにhtml, JavascriptやCSSファイルを一時作成すること。
+ディベロプとは、公開前チェックのためにhtml, JavascriptやCSSファイルを一時作成すること。
 
 ```
 % gatsby clean && gatsby develop
