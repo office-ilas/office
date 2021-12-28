@@ -36,16 +36,41 @@
 - /src/pages/index.md：トップ画面の記事ファイル。
   - 画面上部の文章以外は、実際にはindex-page.jsテンプレートがインポートしている各コンポーネントが担っている。
 
-### /src/pages/news：　お知らせ記事
-- .mdファイル：各お知らせ記事の本体。
+### /src/pages/category：　【未使用】カテゴリー（固定ページ）
+- 固定ページでカテゴリーごとのトップ画面を作ろうとしていたが、結局未使用。
+
+### /src/pages/contact：　連絡先ページ
+
+### /src/pages/news：　お知らせ(投稿ページ)
+- .mdファイル：各お知らせ記事(投稿ページ)の本体。
 - index.jsファイル：~/news で表示される画面の概要を定義している。
 
-### /src/pages/category：　カテゴリー（固定ページ）
-- 固定ページでカテゴリーごとのトップ画面を作ろうとしていたが、結局未使用。
+### /src/pages/news-for-ilas：　https://www.ilas.nagoya-u.ac.jp/ のお知らせ欄用ページ
+
+### /src/pages/pages：　固定ページ
+- .mdファイル：各固定ページの本体。
 
 ### /src/pages/tags：　タグ（カテゴリー）一覧ページ
 
-### /src/pages/contact：　連絡先ページ
+### /src/templates：　テンプレート
+- blog-post.js：投稿ページのテンプレート
+- index-page.js：トップ画面のテンプレート
+- pages.js：固定ページのテンプレート
+- tags.js:タグ（カテゴリ）一覧ページのテンプレート
+
+### /src/components：　コンポーネント
+- BlogRoll.js：　お知らせ一覧
+- BlogRollLimit.js：　お知らせ一覧（件数制限あり。トップ画面用）
+- Content.js
+- Footer.js：　フッター（実際にはLayout.jsが取り込んでいる）
+- Layout.js：　レイアウト基本（Layout.jsとseo.jsはほぼ全てのテンプレートで利用されている）
+- Navbar.js：　画面上部のナビゲーションバー（実際にはLayout.jsが取り込んでいる）
+- PreviewCompatibleImage.js：　お知らせ一覧の画像表示（OFFICEサイトでは未使用）
+- SiteMetadata.js
+- all.sass　（実際にはLayout.jsが取り込んでいる）
+- bulma.min.css
+- ghost-blog.css
+- seo.js：　SEO対策（Layout.jsとseo.jsはほぼ全てのテンプレートで利用されている）
 
 ## /static:　画像などの静的ファイル
 
