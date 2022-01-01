@@ -11,7 +11,7 @@ const ForIlasPage = ({data})  => {
      <div>
        {posts.map(({node}) => (
          <div className="mb-3">    
-               <p className="title is-5" key={node.id}>
+               <p className="title is-6" key={node.id}>
           {/* <Link to={node.fields.slug}>{node.frontmatter.title}</Link> */}
            <a href={`${node.fields.slug}`} target="_blank" rel="noreferrer">{node.frontmatter.title}</a>
           </p>
