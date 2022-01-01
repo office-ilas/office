@@ -30,31 +30,36 @@ export default class BlogIndexPage extends React.Component {
             News and Updates
           </h1>
         </div>
-          */}                
+        */}
+        {/*
         <div
-          className="full-width-image margin-top-0 is-hidden-tablet is-flex-mobile"
-          style={{
+	    className="full-width-image margin-top-0 is-hidden-tablet is-flex-mobile"
+            style={{
             backgroundImage: `url('../../img/AC-banner_640_640.png')`,
             backgroundPosition: `top center `,
             backgroundSize: `cover`,
             backgroundRepeat: `no-repeat`
-          }}
+          }} 
         >
-          <h3
-            className="mt-50 has-text-weight-bold is-size-4-mobile is-size-3-tablet is-size-2-widescreen has-text-centered"
+         */}
+	{/*<div>
+	              <h5
+            className="mt-50 has-text-weight-bold is-size-4-mobile is-size-3-tablet is-size-3-widescreen has-text-centered"
             style={{
               boxShadow: "0.5rem 0 0 #002c76, -0.5rem 0 0#002c76",
               backgroundColor: "#002c76",
               color: "white",
-              padding: "1rem",
+              padding: "1.5rem",
               position: "absolute",
-              top: "100px"
+              top: "30px"
             }}
           >
-            News and Updates
-          </h3>
-        </div>
+          お知らせ
+          </h5>
+	  </div>*/}
+	    
         <section className="section">
+	  <h1 className="title is-size-2 is-bold-light">お知らせ</h1> 
           <div className="container">
             <div className="content">
               <BlogRoll />

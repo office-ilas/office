@@ -10,9 +10,8 @@ const ForIlasPage = ({data})  => {
     <div className="section">
      <div>
        {posts.map(({node}) => (
-         <div className="mb-3">    
-               <p className="title is-6" key={node.id}>
-          {/* <Link to={node.fields.slug}>{node.frontmatter.title}</Link> */}
+         <div className="mb-3" key={node.id}>    
+          <p className="title is-6">
            <a href={`${node.fields.slug}`} target="_blank" rel="noreferrer">{node.frontmatter.title}</a>
           </p>
           <p className="subtitle is-6">({node.frontmatter.date})</p>

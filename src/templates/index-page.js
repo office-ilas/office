@@ -5,7 +5,7 @@ import SeO from "../components/seo";
 import Layout from "../components/Layout";
 //import BlogRoll from "../components/BlogRoll";
 import BlogRollLimit from "../components/BlogRollLimit";
-import { StaticImage } from "gatsby-plugin-image";
+// import { StaticImage } from "gatsby-plugin-image";
 // import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 
 const IndexPageTemplate = ({ data }) => (
