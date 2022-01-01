@@ -6,7 +6,7 @@ import { graphql} from "gatsby"
 const ForIlasPage = ({data})  => {
   const posts = data.allMarkdownRemark.edges
   return(
-    <div classname="content">
+    <section classname="section">
      <div classname="content">
        {posts.map(({node}) => (
          <div style={{marginTop:10}}>    
@@ -19,7 +19,7 @@ const ForIlasPage = ({data})  => {
        ))
        }
       </div>
-     </div>
+     </section>
   )
        }
 export default ForIlasPage
