@@ -2,6 +2,7 @@ import * as React from "react";
 //import { graphql,Link } from "gatsby"
 import { graphql} from "gatsby"
 //import styles from "./news-for-ilas.css";
+import "../../components/bulma.min.css";
 
 const ForIlasPage = ({data})  => {
   const posts = data.allMarkdownRemark.edges
@@ -9,13 +10,13 @@ const ForIlasPage = ({data})  => {
     <section>
      <div>
        {posts.map(({node}) => (
-         <div style={{marginTop:10}}>    
-          <p style={{color: "black",fontSize:13}}>
+         <p classname="mb-1">    
+          <p className="title is-6">
           {/* <Link to={node.fields.slug}>{node.frontmatter.title}</Link> */}
-          <a href={`${node.fields.slug}`} target="_blank" rel="noreferrer">{node.frontmatter.title}</a>
+           <a href={`${node.fields.slug}`} target="_blank" rel="noreferrer">{node.frontmatter.title}</a>
           </p>
-          <p style={{color: "green",fontSize:1}}>({node.frontmatter.date})</p>
-         </div>
+          <p className="subtitle is-6">({node.frontmatter.date})</p>
+         </p>     
        ))
        }
       </div>
