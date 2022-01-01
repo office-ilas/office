@@ -6,21 +6,21 @@ import "../../components/bulma.min.css";
 
 const ForIlasPage = ({data})  => {
   const posts = data.allMarkdownRemark.edges
-  return(
-    <section className="section">
+    return(
+    <div className="section">
      <div>
        {posts.map(({node}) => (
-         <p className="post-meta">    
-          <p className="title is-5">
+         <div className="mb-3">    
+               <p className="title is-5" key={node.id}>
           {/* <Link to={node.fields.slug}>{node.frontmatter.title}</Link> */}
            <a href={`${node.fields.slug}`} target="_blank" rel="noreferrer">{node.frontmatter.title}</a>
           </p>
           <p className="subtitle is-6">({node.frontmatter.date})</p>
-         </p>     
+         </div>     
        ))
        }
       </div>
-     </section>
+     </div>
   )
        }
 export default ForIlasPage
