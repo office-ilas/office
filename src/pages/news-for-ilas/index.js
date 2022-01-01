@@ -7,11 +7,11 @@ import "../../components/bulma.min.css";
 const ForIlasPage = ({data})  => {
   const posts = data.allMarkdownRemark.edges
   return(
-    <section>
+    <section className="section">
      <div>
        {posts.map(({node}) => (
-         <p classname="mb-1">    
-          <p className="title is-6">
+         <p className="post-meta">    
+          <p className="title is-5">
           {/* <Link to={node.fields.slug}>{node.frontmatter.title}</Link> */}
            <a href={`${node.fields.slug}`} target="_blank" rel="noreferrer">{node.frontmatter.title}</a>
           </p>
