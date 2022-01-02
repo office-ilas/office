@@ -21,9 +21,9 @@
    - exports.createSchemaCustomization:graphQLの型定義。[参考：公式サイト「Customizing the GraphQL Schema」](https://www.gatsbyjs.com/docs/reference/graphql-data-layer/schema-customization/)
       - 当初ACサイトから流用したソースではfeaturedpostタグがMDファイルに全く入ってないとエラーになった。該当タグは現在不要のようなので、エラー回避のため該当Queryからこのタグ記載を消したが、実はこのcreateSchemaCustomizationでの定義でも回避できたもよう。
 
-- package.json:　インストールしたパッケージの情報。acサイトの設定をそのまま流用。
+- package.json:　インストールパッケージの条件を記載したリスト。acサイトの設定をそのまま流用。
 
-- package-lock.json or yarn.lock：　依存パッケージも含め、実際にインストールされたパッケージ情報（バージョン含む）
+- package-lock.json or yarn.lock：　依存パッケージも含め、実際にインストールされたパッケージの情報（バージョン含む）
 
 ---
 
@@ -35,9 +35,6 @@
 
 - /src/pages/index.md：トップ画面の記事ファイル。
   - 画面上部の文章以外は、実際にはindex-page.jsテンプレートがインポートしている各コンポーネントが担っている。
-
-### /src/pages/category：　【未使用】カテゴリー（固定ページ）
-- 固定ページでカテゴリーごとのトップ画面を作ろうとしていたが、結局未使用。
 
 ### /src/pages/contact：　連絡先ページ
 
@@ -75,7 +72,7 @@
 ## /static:　画像などの静的ファイル
 
 ### /static/img：画像
-- ここに置いたファイルは公開フォルダのルートに置かれるため、mdファイルからは/img/〜で参照する。
+- ここに置いたファイルは（何も処理されず）公開フォルダのルートにコピーされる。mdファイルからは/img/〜で参照する。
 
 ### /static/admin：netlifyCMSの管理画面制御
 
