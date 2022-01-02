@@ -58,7 +58,7 @@ const Footer = class extends React.Component {
                       </a>
                     </li>
                     <li>
-                      <a className="navbar-item" href="http://elearn.ilas.nagoya-u.ac.jp/access/">
+                      <a className="navbar-item" href="https://elearn.ilas.nagoya-u.ac.jp/access/">
                         AccESS
                       </a>
                     </li>
