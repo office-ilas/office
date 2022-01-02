@@ -1,10 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 
-// import logo from "../img/og-image.jpg";
-// import aclogo from "../img/AcademicCentaral.png";
-// import aclogo from "../img/AcademicCentral_logo_0930_b.png";
-import OldOfficeLogo from "../img/OldOfficeLogo.png";
+//import OldOfficeLogo from "../img/OldOfficeLogo.png";
 import facebook from "../img/social/facebook.svg";
 // import instagram from '../img/social/instagram.svg'
 import twitter from "../img/social/twitter.svg";
@@ -16,12 +13,13 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-black has-text-white-ter">
+{/*
         <div className="content has-text-centered">
           <a href="https://office.ilas.nagoya-u.ac.jp/">
             <img src={OldOfficeLogo} alt="旧サイト" style={{ width: "400px" }} />
-            {/* <img src={aclogo} alt="東海国立大学機構アカデミック・セントラル" style={{ width: "328px", height: "144px" }} /> */}
           </a>
         </div>
+*/}
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
             <div className="columns">
@@ -29,24 +27,24 @@ const Footer = class extends React.Component {
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item" href="https://www.nagoya-u.ac.jp">
+                      <a className="navbar-item" href="https://www.nagoya-u.ac.jp">
                         名古屋大学
-                      </Link>
+                      </a>
                     </li>
                     <li>
-                      <Link className="navbar-item" href="https://www.ilas.nagoya-u.ac.jp/">
+                      <a className="navbar-item" href="https://www.ilas.nagoya-u.ac.jp/">
                         名古屋大学教養許育院
-                      </Link>
+                      </a>
                     </li>
                     <li>
-                      <Link className="navbar-item" href="https://portal.nagoya-u.ac.jp/">
+                      <a className="navbar-item" href="https://portal.nagoya-u.ac.jp/">
                         名古屋大学ポータル
-                      </Link>
+                      </a>
                     </li>
                     <li>
-                      <Link className="navbar-item" href="https://ocw.nagoya-u.jp/">
+                      <a className="navbar-item" href="https://ocw.nagoya-u.jp/">
                         名大の授業
-                      </Link>
+                      </a>
                     </li>
                   </ul>
                 </section>
