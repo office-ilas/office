@@ -11,9 +11,9 @@
 
 # 始める前に
 
-- 記事編集だけでもGithubアカウント必須。大学関係者なら[Github Pro アカウント](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount)の取得がお勧め。
+- 記事編集だけでもGitHubアカウント必須。大学関係者なら[GitHub Pro アカウント](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount)の取得がお勧め。
 - 記事編集以上の作業には、まず開発環境構築が必要。詳細は「開発関係」の章を参照。
-- 作者はGithubもGatsbyも初めてのため、色々不備などあると思うが、ご容赦願いたく。
+- 作者はGitHubもGatsbyも初めてのため、色々不備などあると思うが、ご容赦願いたく。
 
 # ディレクトリ構成
 
@@ -44,17 +44,17 @@ $tree -L 1
 
 # 記事編集の概要
 
-記事編集には、下記の通りGithubを使う方法とNetlifyCMSを使う方法がある。
+記事編集には、下記の通りGitHubを使う方法とNetlifyCMSを使う方法がある。
 
-## Githubでの記事編集（概要）
+## GitHubでの記事編集（概要）
 
-本サイトの大元のデータは、このGithub（main branch）のデータ。
+本サイトの大元のデータは、このGitHub（main branch）のデータ。
 
 通常記事編集でいじるのは、/src/pages/newsと/src/pages/pages以下の「MDファイル」、及び/static/img以下の「画像ファイル」。
 
-ファイルを編集（正確にはGithubのmain branchにpush）すると、数分後に「公開ファイル(※)」がNetlifyと学内サーバに転送される。
+ファイルを編集（正確にはGitHubのmain branchにpush）すると、数分後に「公開ファイル(※)」がNetlifyと学内サーバに転送される。
 
-**注※**：公開ファイルは、本Githubのファイルをビルドしてできた「html, Javascript、CSS」などのファイル（Github上では確認不可）。
+**注※**：公開ファイルは、本GitHubのファイルをビルドしてできた「html、Javascript、CSS」などのファイル（GitHub上では確認不可）。
 
 *OCWでは万一に備え「データ修正はbranchをきって作業し、データ修正後`gatsby develop`で動作確認の上pull requestし，main branch へマージしている」もよう。しかし事務室では原則上記二フォルダしかいじらない運用なので、ここまで厳密にしない。*
 
@@ -62,7 +62,7 @@ $tree -L 1
 
 本サイトは、[Netlify CMS](https://actest-for-office1.netlify.app/admin/#/collections/news)でも編集可能。
 
-この方法だとWordpressのように直感的に作業可能。但し慣れれば前述Githubで編集する方法の方が早い。また新規記事を作成する際のファイル名指定はGithubでしかできない。
+この方法だとWordpressのように直感的に作業可能。但し慣れれば前述GitHubで編集する方法の方が早い。また新規記事を作成する際のファイル名指定はGitHubでしかできない。
 
 ## 記事の種類
 
@@ -87,12 +87,12 @@ https://サイトURL/news/2021-09-06-教養教育院からの「お知らせ」�
 
 特に「固定ページ」は重要記事であり他サイトからリンクされることもあるため、「ファイル名はすべて英数字のみ」としている。
 
-Netlify CMSでは自動的にタイトルなどからファイル名が生成されるため、**ファイル名を指定したい場合はGithubで編集する**こと。
+Netlify CMSでは自動的にタイトルなどからファイル名が生成されるため、**ファイル名を指定したい場合はGitHubで編集する**こと。
 
-# Githubでの記事編集（詳細）
-本来Githubのデータは、まずローカルレポジトリで編集し、`PUSH`して更新する。
+# GitHubでの記事編集（詳細）
+本来GitHubのデータは、まずローカルレポジトリで編集し、`PUSH`して更新する。
 
-しかしこの概念はわかりにくいため、OFFICEサイトの通常の記事編集は、直接GithubのWEB画面で編集することとする。
+しかしこの概念はわかりにくいため、OFFICEサイトの通常の記事編集は、直接GitHubのWEB画面で編集することとする。
 
 通常弄るのは、src/pages内のMD(MarkDown)ファイル。投稿ページはnews以下、固定ページはpages以下に格納されている。
 
@@ -182,9 +182,9 @@ tags:
 ### ファイルの配布
 WordやPDFなどの配布は、下記いずれかの方法を利用する。
 
-- 【Githubで】配布ファイルをMGoogleDocsやOffice365など（※）に置いて、`[タイトル](URL)`の記法でリンク。
+- 【GitHubで】配布ファイルをMGoogleDocsやOffice365など（※）に置いて、`[タイトル](URL)`の記法でリンク。
   - 注※　HLCのWEBサーバにも別途ファイル置き場を設ける予定。
-- 【Githubで】配布ファイルをMDファイルと同フォルダに置いて、`[タイトル](./ファイル名)`の記法でリンク。
+- 【GitHubで】配布ファイルをMDファイルと同フォルダに置いて、`[タイトル](./ファイル名)`の記法でリンク。
 - 【NetlifyCMSで】NetlifCMSの「Media」ボタンで配布ファイルをアップロードし、`/img/ファイル名`でリンク。
   - *但しリンクが有効になるのはPUBLISH完了後。完了前にプレビュー画面見てもまだリンク切れなので、分かり難い。*
 
@@ -211,7 +211,7 @@ Gatsby開発環境の構築方法は省略するが、Windowsでの構築は大�
 
 ## ローカル環境へのインストール
 
-まず、適当な作業ディレクトリにてGithubからクローン。
+まず、適当な作業ディレクトリにてGitHubからクローン。
 
 ```
 % git clone レポジトリ情報
@@ -264,7 +264,7 @@ develop後は、http://localhost:8000/ で確認できる。
 
 ## 公開
 
-githubのmain branchにpush すると自動でスクリプト(Github Actions)が走り，公開ファイルがNetlifyと学内サーバに転送される。
-このGithub Actionsの設定ファイルは `.github/workflows/netlify-deploy.yml` ．
+githubのmain branchにpush すると自動でスクリプト(GitHub Actions)が走り，公開ファイルがNetlifyと学内サーバに転送される。
+このGitHub Actionsの設定ファイルは `.github/workflows/netlify-deploy.yml` ．
 
 
