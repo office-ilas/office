@@ -52,7 +52,7 @@ $tree -L 1
 
 通常記事編集でいじるのは、/src/pages/newsと/src/pages/pages以下の「MDファイル」、及び/static/img以下の「画像ファイル」。
 
-ファイルを編集（正確にはGitHubのmain branchにpush）すると、数分後に「公開ファイル(※)」がNetlifyと学内サーバに転送される。
+ファイルを編集（正確にはGitHubのmain branchにpush）すると公開用ファイル(米)が生成され、数分後にがNetlifyと学内サーバに転送される。
 
 **注※**：公開ファイルは、本GitHubのファイルをビルドしてできた「html、Javascript、CSS」などのファイル（GitHub上では確認不可）。
 
