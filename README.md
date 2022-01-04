@@ -171,8 +171,7 @@ tags:
 - `templateKey`：表示に利用するテンプレート。投稿ページの場合「blog-post」、固定ページの場合は「pages」。この項目は原則変更禁止。
 - `title` ：タイトル
 - `description`:概要
-- `featuredimage`:アイキャッチ画像。
-  - OFFICEサイトではアイキャッチ未使用のためこの項目は不要（コメントアウト）。なおアイキャッチを使用する場合は、static/img/ 内に画像を置き、/img以降のパスを表記する。例えば`/static/img/ac1.jpg`の画像を指定する場合、`featuredimage: /img/ac1.jpg` 。
+- `featuredimage`:アイキャッチ画像。OFFICEサイトではアイキャッチ未使用のためこの項目は不要（コメントアウト）だが、もしアイキャッチを使用する場合はstatic/img/ 内に画像を置き、/img以降のパスを表記する。例えば`/static/img/ac1.jpg`の画像を指定する場合、`featuredimage: /img/ac1.jpg` 。
 - `date`:掲載日
 - `tags`:タグ．上記例の通り「- 」に続けて書く。複数ある場合は、複数行に分けて記載する．
 
