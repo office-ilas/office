@@ -9,7 +9,7 @@
 
 このサイトは [Gatsby](https://www.gatsbyjs.com/)を利用した[AcademicCentral(以後ACと呼ぶ)](https://academic-central.netlify.app/)のファイルを流用して構築している．
 
-# 始める前に
+# 始めに
 
 - 記事編集だけでもGitHubアカウント必須。大学関係者なら[GitHub Pro アカウント](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount)の取得がお勧め。
 - 記事編集以上の作業には、まず開発環境構築が必要。詳細は「開発関係」の章を参照。
