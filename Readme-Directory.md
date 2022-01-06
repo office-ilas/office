@@ -50,6 +50,7 @@
 ### /src/pages/tags：　タグ（カテゴリー）一覧ページ
 
 ### /src/templates：　テンプレート
+　各MDファイルのデザインを定義するテンプレート
 - blog-post.js：投稿ページのテンプレート
 - index-page.js：トップ画面のテンプレート
 - pages.js：固定ページのテンプレート
