@@ -1,8 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-//import aclogo from "../img/AcademicCentral_logo_0930_b.svg";
 import officelogo from "../img/OfficeLogo.png";
-// import logo from "../img/ac-logo.svg";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -61,9 +59,9 @@ const Navbar = class extends React.Component {
             <div className="navbar-item has-dropdown is-hoverable">
               
               <div className="navbar-link">
-                <Link to="/src/">
+              {/*  <Link to="/src/"> */}
                   <div className="navbar-item">重要事項</div>
-                </Link>
+              {/*  </Link> */}
               </div>
               
               <div className="navbar-dropdown">

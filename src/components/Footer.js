@@ -12,7 +12,7 @@ import youtube from "../img/social/youtube.svg";
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-black has-text-white-ter">
+      <footer className="footer has-background-grey-light has-text-white-ter">
 {/*
         <div className="content has-text-centered">
           <a href="https://office.ilas.nagoya-u.ac.jp/">
@@ -20,8 +20,8 @@ const Footer = class extends React.Component {
           </a>
         </div>
 */}
-        <div className="content has-text-centered has-background-black has-text-white-ter">
-          <div className="container has-background-black has-text-white-ter">
+        <div className="content has-text-centered has-background-grey-light has-text-white-ter">
+          <div className="container has-background-grey-light has-text-white-ter">
             <div className="columns">
               <div className="column is-4">
                 <section className="menu">
