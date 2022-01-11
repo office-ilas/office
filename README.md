@@ -50,7 +50,9 @@ $tree -L 1
 
 本サイトの大元のデータは、このGitHub（main branch）のデータ。
 
-通常記事編集でいじるのは、/src/pages/newsと/src/pages/pages以下の「MDファイル」、及び/static/img以下の「画像ファイル」。
+通常記事編集でいじるのは、/src/pages以下の「MDファイル」、及び/static/img以下の「画像ファイル」。
+
+また最終的にURLを持つページとして公開されるのは/src/pages以下のみで、それ以外のファイルは直接公開されるわけではない。これは大きな特色といえる。
 
 ファイルを編集（正確にはGitHubのmain branchにpush）すると公開用ファイル(米)が生成され、数分後にがNetlifyと学内サーバに転送される。
 
