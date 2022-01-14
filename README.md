@@ -7,13 +7,12 @@
   officeサイトについて
 </h1>
 
-このサイトは [Gatsby](https://www.gatsbyjs.com/)を利用した[AcademicCentral(以後ACと呼ぶ)](https://academic-central.netlify.app/)のファイルを流用して構築している．
+このサイトは [Gatsby](https://www.gatsbyjs.com/)を利用した[AcademicCentral(以後ACと呼ぶ)](https://academic-central.netlify.app/)のファイルを流用して構築した．
 
 # 始めに
 
 - 記事編集だけでもGitHubアカウント必須。大学関係者なら[GitHub Pro アカウント](https://docs.github.com/ja/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-in-your-classroom-and-research/apply-for-an-educator-or-researcher-discount)の取得がお勧め。
 - 記事編集以上の作業には、まず開発環境構築が必要。詳細は「開発関係」の章を参照。
-- 作者はGitHubもGatsbyも初めてのため、色々不備などあると思うが、ご容赦願いたく。
 
 # ディレクトリ構成
 
@@ -54,7 +53,7 @@ $tree -L 1
 
 また最終的にURLを持つページとして公開されるのは/src/pages以下のみで、それ以外のファイルは直接公開されるわけではない。これは大きな特色といえる。
 
-ファイルを編集（正確にはGitHubのmain branchにpush）すると公開用ファイル(米)が生成され、数分後にがNetlifyと学内サーバに転送される。
+ファイルを編集（正確にはGitHubのmain branchにpush）すると公開用ファイル(※)が生成され、数分後にがNetlifyと学内サーバに転送される。
 
 **注※**：公開ファイルは、本GitHubのファイルをビルドしてできた「html、Javascript、CSS」などのファイル（GitHub上では確認不可）。
 
@@ -166,7 +165,7 @@ tags:
 
 ```
 ### Frontmatter(先頭部分）の編集
-ファイル先頭の`title:　~、date: ~`などの部分を`Frontmatter`と呼ぶ。この部分はコロン以降のみ変更可（但しtemplateKey: は原則変更禁止）。
+ファイル先頭の`title:　~、date: ~`などの部分を`Frontmatter`と呼ぶ。下記の通りコロン以降のみ変更可。
 
 各項目の詳細は下記の通り。
 
