@@ -2,10 +2,14 @@
 templateKey: blog-post
 title: 教養教育院アクセスポイント/ ILAS Remote Learning Spaces
 date: 2021-11-22T06:22:39.896Z
-description: 全学教育棟では2021年10月4日から，アクセスポイントを開設します。
+description: 全学教育棟では2021年10月4日，アクセスポイントを開設しました。
 #featuredimage: /img/cat-onlinelecture.png
 tags:
- - オンライン学習
+ - 講義室
+ - 遠隔授業
+ - 履修
+ - 施設
+ - サークル
 ---
 2021年10月4日から，下記の通りアクセスポイントを開設します。
 
@@ -29,6 +33,7 @@ CALL1-4
 
 ※一部理系基礎科目を含む/ including some of Natural Science Basic Courses
 
+## <p style="color:red">【下記リンク要修正】</p>
 [時間割B表](https://office.ilas.nagoya-u.ac.jp/%e3%80%90%e9%87%8d%e8%a6%81%e3%80%912021%e5%b9%b4%e5%ba%a6%e7%a7%8b%e5%ad%a6%e6%9c%9f%e3%80%80%e5%85%a8%e5%ad%a6%e6%95%99%e8%82%b2%e7%a7%91%e7%9b%ae%e6%8e%88%e6%a5%ad%e6%99%82%e9%96%93%e5%89%b2/)に記載します。
 
 ## **教養教育院アクセスポイントの利用について**
