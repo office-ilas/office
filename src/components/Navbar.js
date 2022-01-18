@@ -65,35 +65,6 @@ const Navbar = class extends React.Component {
               </div>
               
               <div className="navbar-dropdown">
-                <Link to="/pages/CourseRegistration-G30/">
-                  <div className="navbar-item">Course Registration for G30 International Program Students</div>
-                </Link>
-                <Link to="/pages/LAandSC-Policy/">
-                  <div className="navbar-item">【G30】Liberal Arts and Sciences Courses Implementation Policy</div>
-                </Link>
-
-                {/*<hr className="navbar-divider" />*/}
-                <Link to="/pages/access-ILAS-LectureRoom/">
-                  <div className="navbar-item">全学教育棟講義室へのアクセスについて/ Access to ILAS Lecture Rooms</div>
-                </Link>
-                <Link to="/pages/access-point/">
-                  <div className="navbar-item">教養教育院アクセスポイント/ ILAS Remote Learning Spaces </div>
-                </Link>
-                <Link to="/pages/classroom_rental_application/">
-                  <div className="navbar-item">全学教育棟講義室貸出について </div>
-                </Link>
-                <Link to="/pages/course-timetable/">
-                  <div className="navbar-item">全学教育科目授業時間割表・行事等について</div>
-                </Link>     
-                <Link to="/pages/implementation/">
-                  <div className="navbar-item">全学教育科目・大学院共通科目の実施方法について</div>
-                </Link>    
-                <Link to="/pages/it-help/">
-                  <div className="navbar-item">Zoomによる問合せ窓口(平日11：30-13：30）</div>
-                </Link>     
-                <Link to="/pages/note-course-registration/">
-                  <div className="navbar-item">履修手続きに関する注意事項</div>
-                </Link>      
                 <Link to="/pages/students-guide/">
                   <div className="navbar-item">全学教育科目履修の手引 STUDENTS' GUIDE </div>
                 </Link>      
