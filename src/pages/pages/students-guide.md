@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: pages
 title: 2021年度全学教育科目履修の手引
 date: 2021-09-21T06:18:22.073Z
 description: |-
