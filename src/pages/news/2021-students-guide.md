@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 【作業中】2021年度全学教育科目履修の手引
+title: 【要検討】2021年度全学教育科目履修の手引
 date: 2021-09-21T06:18:22.073Z
 description: |-
   全学教育科目履修の手引
@@ -8,34 +8,34 @@ description: |-
 tags:
   - 履修
 ---
-## <p style="color:red">【本ページのリンクの大半は張り直し必要】</p>
 
-## <p style="color:red">【同内容のページを、固定ページとして「重要事項」メニューにも掲載してみた。現状は同内容を異なる二つのファイルで公開しており非効率。固定ページの方を主にし、本ページはそちらへのリンクにする程度でもよいかも】</p>
+
+## <p style="color:red">【要検討】同内容のページを、固定ページとしても掲載してある。現状は同内容を異なる二つのファイルで公開しており非効率。固定ページの方を主にし、本ページはそちらへのリンクにする程度にする？</p>
 
 〇2021年度全学教育科目履修の手引【項目別】\
-・[表紙](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/03/00_%E8%A1%A8%E7%B4%99.pdf)\
-・[2021年度全学教育に関する行事予定表](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/04/01_2021%E5%B9%B4%E5%BA%A6%E8%A1%8C%E4%BA%8B%E4%BA%88%E5%AE%9A%E8%A1%A8.pdf)\
-・[目次](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/03/02_%E7%9B%AE%E6%AC%A1.pdf)\
-・[Ⅰはじめに](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/03/%E2%85%A0%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB.pdf)\
-・[Ⅱ 教育目標](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/03/%E2%85%A1%E6%95%99%E8%82%B2%E7%9B%AE%E6%A8%99.pdf)\
-・[Ⅲ全学教育科目の意義](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/03/%E2%85%A2%E5%85%A8%E5%AD%A6%E6%95%99%E8%82%B2%E7%A7%91%E7%9B%AE%E3%81%AE%E6%84%8F%E7%BE%A9.pdf)\
-・[Ⅳ 本学の授業実施方法](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/03/%E2%85%A3%E6%9C%AC%E5%AD%A6%E3%81%8A%E6%8E%88%E6%A5%AD%E5%AE%9F%E6%96%BD%E6%96%B9%E6%B3%95.pdf)\
-・[Ⅴ 卒業・進級のために修得すべき授業科目 ・単位](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/09/%E2%85%A4-%E5%8D%92%E6%A5%AD%E3%83%BB%E9%80%B2%E7%B4%9A%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E4%BF%AE%E5%BE%97%E3%81%99%E3%81%B9%E3%81%8D%E6%8E%88%E6%A5%AD%E7%A7%91%E7%9B%AE-%E3%83%BB%E5%8D%98%E4%BD%8D.pdf)\
-・[Ⅵ 授業時間割と履修計画](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/03/%E2%85%A5-%E6%8E%88%E6%A5%AD%E6%99%82%E9%96%93%E5%89%B2%E3%81%A8%E5%B1%A5%E4%BF%AE%E8%A8%88%E7%94%BB.pdf)\
-・[Ⅶ 名古屋大学全学教育科目規程](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/06/%E2%85%A6-%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6%E5%85%A8%E5%AD%A6%E6%95%99%E8%82%B2%E7%A7%91%E7%9B%AE%E8%A6%8F%E7%A8%8B-%E6%94%B9.pdf)\
-・[Ⅷ 各授業科目](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/04/%E2%85%A7-%E5%90%84%E6%8E%88%E6%A5%AD%E7%A7%91%E7%9B%AE-1.pdf)\
-・[Ⅸ 履修手続と履修](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/03/%E2%85%A8-%E5%B1%A5%E4%BF%AE%E6%89%8B%E7%B6%9A%E3%81%A8%E5%B1%A5%E4%BF%AE.pdf)\
-・[Ⅹ 試験と成績](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/06/%E2%85%A9-%E8%A9%A6%E9%A8%93%E3%81%A8%E6%88%90%E7%B8%BE-%E6%94%B9.pdf)\
-・[XI 自然災害等に伴う授業及び学期末試験の取扱い](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/03/XI-%E8%87%AA%E7%84%B6%E7%81%BD%E5%AE%B3%E7%AD%89%E3%81%AB%E4%BC%B4%E3%81%86%E6%8E%88%E6%A5%AD%E5%8F%8A%E3%81%B3%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%A9%A6%E9%A8%93%E3%81%AE%E5%8F%96%E6%89%B1%E3%81%84-4.pdf)\
-・[XII 学生への情報連絡の手段等](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/03/XII-%E5%AD%A6%E7%94%9F%E3%81%B8%E3%81%AE%E6%83%85%E5%A0%B1%E9%80%A3%E7%B5%A1%E3%81%AE%E6%89%8B%E6%AE%B5%E7%AD%89.pdf)\
-・[XIII　 関係資料](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/03/XIII-%E9%96%A2%E4%BF%82%E8%B3%87%E6%96%99.pdf)\
-・[全学教育棟配置図](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/03/P118%E9%85%8D%E7%BD%AE%E5%9B%B3.pdf)\
-・[地震対応マニュアル](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/03/P120%E5%9C%B0%E9%9C%87%E5%AF%BE%E5%BF%9C%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf)\
-・[キャンパスマップ(東山）](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/03/P122%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9%E3%83%9E%E3%83%83%E3%83%97%E6%9D%B1%E5%B1%B1%E8%A3%8Fcs5.pdf)\
+・[表紙](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-cover.pdf)\
+・[2021年度全学教育に関する行事予定表](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-TimeTable.pdf)\
+・[目次](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-TOC.pdf)\
+・[Ⅰはじめに](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-1.pdf)\
+・[Ⅱ 教育目標](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-2.pdf)\
+・[Ⅲ全学教育科目の意義](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-3.pdf)\
+・[Ⅳ 本学の授業実施方法](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-4.pdf)\
+・[Ⅴ 卒業・進級のために修得すべき授業科目 ・単位](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-5.pdf)\
+・[Ⅵ 授業時間割と履修計画](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-5.pdf)\
+・[Ⅶ 名古屋大学全学教育科目規程](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-7.pdf)\
+・[Ⅷ 各授業科目](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-8.pdf)\
+・[Ⅸ 履修手続と履修](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-9.pdf)\
+・[Ⅹ 試験と成績](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-10.pdf)\
+・[XI 自然災害等に伴う授業及び学期末試験の取扱い](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-11.pdf)\
+・[XII 学生への情報連絡の手段等](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-12.pdf)\
+・[XIII　 関係資料](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-13.pdf)\
+・[全学教育棟配置図](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-IlasMap.pdf)\
+・[地震対応マニュアル](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-EmergencyManual.pdf)\
+・[キャンパスマップ(東山）](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-CampusMap.pdf)\
 \
 〇2021年度全学教育科目履修の手引【連結】（内容は上記と同様です）\
-　[2021年度全学教育科目履修の手引　1/2](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/09/2021%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%AD%A6%E6%95%99%E8%82%B2%E7%A7%91%E7%9B%AE%E5%B1%A5%E4%BF%AE%E3%81%AE%E6%89%8B%E5%BC%9520213010_2-1-%E6%94%B9%E6%AD%A32.pdf)\
-　[2021年度全学教育科目履修の手引　2/2](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/06/2021%E5%B9%B4%E5%BA%A6%E5%85%A8%E5%AD%A6%E6%95%99%E8%82%B2%E7%A7%91%E7%9B%AE%E5%B1%A5%E4%BF%AE%E3%81%AE%E6%89%8B%E5%BC%9520213010_2-2-%E6%94%B9%E6%AD%A3.pdf)\
+　[2021年度全学教育科目履修の手引　1/2](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-ALL-1.pdf)\
+　[2021年度全学教育科目履修の手引　2/2](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/s-guide/s-guide-ALL-2.pdf)\
 \
 〇変更（修正）について\
 　・P89の教員の連絡先一部修正（2021.4.20）\
