@@ -20,12 +20,12 @@ tags:
 
 #### 2019年4月　名古屋大学・岐阜大学　英語部会合同FD
 
-* ![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2019/05/FD1.png)
+* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/fd1.png)
 
   ![]()
-* ![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2019/05/FD2.png)
-* ![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2019/05/FD3.png)
-* ![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2019/05/FD4.png)
+* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/fd2.png)
+* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/fd3.png)
+* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/fd4.png)
 
 名大側：S1X教室(専用端末VidyoRoom)\
 岐大側：PC(フリーソフトVidyoConnect)
