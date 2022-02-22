@@ -43,7 +43,7 @@ S1X(専用端末VidyoRoom)\
 
 G30 for Everybody のプログラムとして実施されている “Open University” 企画である “Studiom Generale” の一部講義を、本遠隔講義システム(Vidyo)にてストリーミング配信しています。詳しい情報は Studium Generale のHPをご覧下さい。
 
-![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/2019_05_21_18.36.42.png)
+![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/2019_05_21_18.36.42.jpg)
 
 Studium Generale : Ingrained Habits: Kitchen Cars, Koppe Pan, and Dietary Transformation in Postwar Japan
 
