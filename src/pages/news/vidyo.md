@@ -60,9 +60,9 @@ Studium Generale : Ingrained Habits: Kitchen Cars, Koppe Pan, and Dietary Transf
 
 G30 for Everybody のプログラムとして実施されている “Open University” 企画である “Studiom Generale” の一部講義を、Vidyoにてストリーミング配信しています。また、秋学期よりS1X教室と岐阜大学サテライトキャンパスを結び、 岐阜大学サテライトキャンパスにて講義のライブ中継を実施。受講生は[meikai君](https://office.ilas.nagoya-u.ac.jp/meikai/)への回答などを通して講義へ参加しています。 詳しい情報は Studium Generale のHPをご覧下さい。
 
-![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2019/12/191206_SG_Rec-1.jpeg)
+![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/191206_sg_rec_1.jpeg)
 
-![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2019/12/191206_SG_webcast-1.png)
+![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/191206_sg_webcast_1.png)
 
 Studium Generale : Cultural Differences in Business\
 名大側：S1X(専用端末VidyoRoom)\
