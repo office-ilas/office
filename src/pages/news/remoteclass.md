@@ -26,12 +26,12 @@ S1X,C36,S30,ACELab,物理実験室に導入しました。合わせて岐阜大�
    ## **2019年4月 名古屋大学・岐阜大学　英語部会合同FD**
      ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/fd1.png)   
    ## **2019年春学期　G30 for Everybody :[Studium Genelare](http://bio.nagoya-u.ac.jp/G30StudiumGenerale/)**
-   ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_019_05_16_12h04m17s520)
-   ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h06m07s005)
-   ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h07m37s968)
-   ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h08m16s744)
-   ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h08m38s797)
-   S1X(専用端末VidyoRoom)
+   ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_019_05_16_12h04m17s520.png)
+   ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h06m07s005.png)
+   ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h07m37s968.png)
+   ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h08m16s744.png)
+   ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h08m38s797.png)
+   S1X(専用端末VidyoRoom)\
    単独で授業の録画システムとして使用。スライドと講師映像を合成した状態で同時に\
    録画(HD quality)
    
