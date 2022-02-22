@@ -72,7 +72,7 @@ Studium Generale : Cultural Differences in Business\
 
 名古屋大学 数理・データ科学教育研究センターが開設している『実践データサイエンティスト育成プログラム』の講義の一部を岐阜大学と連携し、Vidyoを用いての遠隔講義を実施しています。 社会人学生を含む、名古屋大学・岐阜大学双方の受講生が講義に同時参加しています。
 
-![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2019/12/IMG_0061.jpg)
+![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/img_0061.jpg)
 
 実世界データ処理学：オープンデータ推進と地域情報化\
 名大側：S30(専用端末VidyoRoom)\
@@ -82,7 +82,7 @@ Studium Generale : Cultural Differences in Business\
 
 新型コロナウイルス感染対策により全授業のオンライン化が進められた中、物理学実験ではVidyoを活用しての遠隔実験が行われました。物性実験（超電導）では、実験室にて教員とTAが実際に実験を行っている様子・実験機器の計測の様子の2画面を同時配信し、学生が計測画面から自分で数値を読み取ることで個々に実験を体感してもらうという授業を行いました。
 
-![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2020/10/%E7%89%A9%E7%90%86%E5%AD%A6%E5%AE%9F%E9%A8%93_%E8%B6%85%E9%9B%BB%E5%B0%8E.png)
+![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/physics_experiment.png)
 
 実験機器の計測画面 (①) と実験全体を表示する画面 (②) の2画面の動画配信\
 名大側：物理学実験室(専用端末VidyoRoom)\
