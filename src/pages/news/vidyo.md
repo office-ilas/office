@@ -94,7 +94,7 @@ Studium Generale : Cultural Differences in Business\
 
 オンライン授業の一環として、Erik Darpö 特任准教授（G30／大学院多元数理科学研究科）の担当講義 “Basic Mathematics”において、S30講義室にてVidyoを利用しての講義撮影が行われました。教室の二段式黒板の全体をはっきりと映し出した高画質の映像は、名古屋大学のe-Learningシステム（NUCT）上でMP4形式にて受講者に配布され、オンデマンド形式での講義を実現しました。
 
-![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2020/10/MathematicsBasic.png)
+![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/mathematicsbasic.png)
 
 S30(専用端末VidyoRoom)\
 単独で授業の録画システムとして使用。カメラ映像のみを記録(HD quality)
@@ -103,7 +103,7 @@ S30(専用端末VidyoRoom)\
 
 大阪市立大学が開催する集中講義『電子・物理工学特別講義（現代の量子論）』にて、谷村省吾教授（情報学研究科）が講師を務めるにあたり、新型コロナウイルス感染対策の一環として、Vidyoを用いてオンライン講義が行われました。
 
-![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2020/10/%E9%9B%BB%E5%AD%90%E3%83%BB%E7%89%A9%E7%90%86%E5%B7%A5%E5%AD%A6%E7%89%B9%E5%88%A5%E8%AC%9B%E7%BE%A9.png)
+![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/physics_special_class.png)
 
 名大側：C36(専用端末VidyoRoom)\
 受講者：PC(Vidyo配信専用リンクにて視聴)
@@ -114,7 +114,7 @@ S30(専用端末VidyoRoom)\
 
 千葉大学開催の『現代の量子論（基礎物理学特別講義IV）』にて谷村省吾教授（情報学研究科）が講師を務めるにあたり、C36講義室にてZoom・Vidyoを使用したオンライン講義が行われました。講義はZoomにてライブ配信を行い、さらにVidyoでも追再生用にストリーミング配信・録画を行うというハイブリッド形式にて実施され、国内外からおよそ40名の参加者を数えました。
 
-![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/05/20210303_Lecture.png)
+![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/20210303_lecture.png)
 
 名大側：C36 (Zoomおよび専用端末VidyoRoom)\
 受講者：PC (ZoomおよびVidyo配信専用リンクにて視聴)
@@ -125,13 +125,13 @@ Zoomで双方向形式での講義を行うと同時に、Vidyoの特性でも�
 
 感染状況によって一部対面授業が可能となったことを受け、2021年春学期 物理学基礎１（担当：市來淨與准教授、田代寛之特任准教授）において、対面とオンラインを織り交ぜた形態で講義を実施しました。講義はVidyo設置教室であるS30講義室で行われ、オンライン受講者に向けては、VidyoとTeamsを使ったハイブリッド形式で配信を行いました。
 
-![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/09/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-55.png)
+![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/screenshot_55.png)
 
 Vidyo配信の様子。教室設置カメラにて大型二段式黒板を明瞭に映し出し、細かな板書も問題無く確認可能。
 
 Teamsでも講義を同時配信し、教室プロジェクタで映した資料をTeams上で共有してオンラインで確認出来る様にしました。
 
-![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/09/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-8902-1024x478.png)
+![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/screenshot_8902.png)
 
 Teams上での資料共有の様子。質問等はTeamsチャットでも対応可能。
 
@@ -143,7 +143,7 @@ Teams上での資料共有の様子。質問等はTeamsチャットでも対応�
 \
 **Vidyo画面とZoom画面の対比**
 
-![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2021/09/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2021-09-16-150101-2-1024x391.png)
+![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/screenshot_2021_09_16_150101_2.png)
 
 Vidyo（左）：講義室に設置されたカメラでホワイトボード全体を映し出し、高画質映像で配信しながら録画。配信は300名まで視聴可能（視聴のみ）\
 Zoom（右）：外付けカメラをTAが操作して説明部分をクローズアップ。参加型のためチャット・通話での質疑応答が可能
