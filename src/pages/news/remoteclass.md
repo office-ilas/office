@@ -22,8 +22,8 @@ S1X,C36,S30,ACELab,物理実験室に導入しました。合わせて岐阜大�
 ※その他Teams・Zoomなどを利用した遠隔授業については、[こちら](https://office.ilas.nagoya-u.ac.jp/%e5%85%a8%e5%ad%a6%e6%95%99%e8%82%b2%e6%a3%9f%e3%81%a7%e8%a1%8c%e3%81%86%e9%81%a0%e9%9a%94%e6%8e%88%e6%a5%ad%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/)
 を参考にしてください。
 
-## **活用事例**\
-    **2019年4月　名古屋大学・岐阜大学　英語部会合同FD**
+## **活用事例**
+    ## **2019年4月　名古屋大学・岐阜大学　英語部会合同FD**
     ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/fd1.png)
     ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/fd2.png)
     ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/fd3.png)
@@ -31,7 +31,7 @@ S1X,C36,S30,ACELab,物理実験室に導入しました。合わせて岐阜大�
     名大側：S1X教室(専用端末VidyoRoom)\
     岐大側：PC(フリーソフトVidyoConnect)\
     
-   **2019年春学期　G30 for Everybody :[Studium Genelare](http://bio.nagoya-u.ac.jp/G30StudiumGenerale/)**
+   ## **2019年春学期　G30 for Everybody :[Studium Genelare](http://bio.nagoya-u.ac.jp/G30StudiumGenerale/)**
    ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_019_05_16_12h04m17s520)
    ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h06m07s005)
    ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h07m37s968)
