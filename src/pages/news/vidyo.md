@@ -51,7 +51,7 @@ Studium Generale : Ingrained Habits: Kitchen Cars, Koppe Pan, and Dietary Transf
 
 岐阜大学で開催される教養講演会をストリーミングにて中継。岐阜大学1C講義室にS1X教室からVidyoにて参加すると共にストリーミング放送しました。詳しくは講演会のHPで。
 
-![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2019/05/2019-05-31-15.45.08.jpg)
+![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2019/05/2019_05_31_15.45.08.jpg)
 
 名大側：S1X(専用端末VidyoRoom)\
 岐大側：1C教室(専用端末VidyoRoom)
