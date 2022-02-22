@@ -32,18 +32,18 @@ tags:
 
 #### 2019年春学期　G30 for Everybody : [Studium Generale](http://bio.nagoya-u.ac.jp/G30StudiumGenerale/)
 
-* ![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2019/05/vlcsnap-2019-05-16-12h04m17s520.png)
-* ![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2019/05/vlcsnap-2019-05-16-12h06m07s005.png)
-* ![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2019/05/vlcsnap-2019-05-16-12h07m37s968.png)
-* ![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2019/05/vlcsnap-2019-05-16-12h08m16s744.png)
-* ![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2019/05/vlcsnap-2019-05-16-12h08m38s797.png)
+* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_019_05_16_12h04m17s520.png)
+* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vlcsnap_2019_05_16_12h06m07s005.png)
+* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h07m37s968.png)
+* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h08m16s744.png)
+* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h08m38s797.png)
 
 S1X(専用端末VidyoRoom)\
 単独で授業の録画システムとして使用。スライドと講師映像を合成した状態で同時に録画(HD quality)
 
 G30 for Everybody のプログラムとして実施されている “Open University” 企画である “Studiom Generale” の一部講義を、本遠隔講義システム(Vidyo)にてストリーミング配信しています。詳しい情報は Studium Generale のHPをご覧下さい。
 
-![](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2019/05/2019-05-21-18.36.42.jpg)
+![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/2019_05_21_18.36.42.png)
 
 Studium Generale : Ingrained Habits: Kitchen Cars, Koppe Pan, and Dietary Transformation in Postwar Japan
 
