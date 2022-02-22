@@ -23,7 +23,7 @@ S1X,C36,S30,ACELab,物理実験室に導入しました。合わせて岐阜大�
 を参考にしてください。
 
 ## **活用事例**
-    ## **2019年4月　名古屋大学・岐阜大学　英語部会合同FD**
+    2019年4月　名古屋大学・岐阜大学　英語部会合同FD
     ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/fd1.png)
     ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/fd2.png)
     ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/fd3.png)
