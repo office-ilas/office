@@ -39,11 +39,11 @@ S1X,C36,S30,ACELab,物理実験室に導入しました。合わせて岐阜大�
    ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h08m38s797)
    S1X(専用端末VidyoRoom)
    単独で授業の録画システムとして使用。スライドと講師映像を合成した状態で同時に\
-   録画(HD quality)\
+   録画(HD quality)
    
    G30 for Everybody のプログラムとして実施されている “Open \
    University” 企画である “Studiom Generale” の一部講義を、本遠隔講義システム(Vidyo)にてストリーミング配信しています。詳しい情報は \
-   Studium Generale のHPをご覧下さい。\
+   Studium Generale のHPをご覧下さい。
    
    
    
