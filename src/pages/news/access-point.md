@@ -34,7 +34,7 @@ CALL1-4
 ※一部理系基礎科目を含む/ including some of Natural Science Basic Courses
 
 ## <p style="color:red">【下記リンク要修正】</p>
-[時間割B表](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/Timetable-B.pdf)に記載します。
+[時間割B表](https://office.ilas.nagoya-u.ac.jp/files/Timetable-B.pdf)に記載します。
 
 ## **教養教育院アクセスポイントの利用について**
 

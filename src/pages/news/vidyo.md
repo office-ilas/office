@@ -17,30 +17,30 @@ tags:
 
 #### 2019年4月　名古屋大学・岐阜大学　英語部会合同FD
 
-* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/fd1.png)
+* ![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/fd1.png)
 
   ![]()
-* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/fd2.png)
-* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/fd3.png)
-* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/fd4.png)
+* ![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/fd2.png)
+* ![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/fd3.png)
+* ![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/fd4.png)
 
 名大側：S1X教室(専用端末VidyoRoom)\
 岐大側：PC(フリーソフトVidyoConnect)
 
 #### 2019年春学期　G30 for Everybody : [Studium Generale](http://bio.nagoya-u.ac.jp/G30StudiumGenerale/)
 
-* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_019_05_16_12h04m17s520.png)
-* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h06m07s005.png)
-* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h07m37s968.png)
-* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h08m16s744.png)
-* ![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/vlcsnap_2019_05_16_12h08m38s797.png)
+* ![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/vlcsnap_019_05_16_12h04m17s520.png)
+* ![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/vlcsnap_2019_05_16_12h06m07s005.png)
+* ![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/vlcsnap_2019_05_16_12h07m37s968.png)
+* ![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/vlcsnap_2019_05_16_12h08m16s744.png)
+* ![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/vlcsnap_2019_05_16_12h08m38s797.png)
 
 S1X(専用端末VidyoRoom)\
 単独で授業の録画システムとして使用。スライドと講師映像を合成した状態で同時に録画(HD quality)
 
 G30 for Everybody のプログラムとして実施されている “Open University” 企画である “Studiom Generale” の一部講義を、本遠隔講義システム(Vidyo)にてストリーミング配信しています。詳しい情報は Studium Generale のHPをご覧下さい。
 
-![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/2019_05_21_18.36.42.jpg)
+![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/2019_05_21_18.36.42.jpg)
 
 Studium Generale : Ingrained Habits: Kitchen Cars, Koppe Pan, and Dietary Transformation in Postwar Japan
 
@@ -48,7 +48,7 @@ Studium Generale : Ingrained Habits: Kitchen Cars, Koppe Pan, and Dietary Transf
 
 岐阜大学で開催される教養講演会をストリーミングにて中継。岐阜大学1C講義室にS1X教室からVidyoにて参加すると共にストリーミング放送しました。詳しくは講演会のHPで。
 
-![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/2019_05_31_15.45.08.jpg)
+![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/2019_05_31_15.45.08.jpg)
 
 名大側：S1X(専用端末VidyoRoom)\
 岐大側：1C教室(専用端末VidyoRoom)
@@ -57,9 +57,9 @@ Studium Generale : Ingrained Habits: Kitchen Cars, Koppe Pan, and Dietary Transf
 
 G30 for Everybody のプログラムとして実施されている “Open University” 企画である “Studiom Generale” の一部講義を、Vidyoにてストリーミング配信しています。また、秋学期よりS1X教室と岐阜大学サテライトキャンパスを結び、 岐阜大学サテライトキャンパスにて講義のライブ中継を実施。受講生は[meikai君](https://office.ilas.nagoya-u.ac.jp/meikai/)への回答などを通して講義へ参加しています。 詳しい情報は Studium Generale のHPをご覧下さい。
 
-![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/191206_sg_rec_1.jpeg)
+![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/191206_sg_rec_1.jpeg)
 
-![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/191206_sg_webcast_1.png)
+![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/191206_sg_webcast_1.png)
 
 Studium Generale : Cultural Differences in Business\
 名大側：S1X(専用端末VidyoRoom)\
@@ -69,7 +69,7 @@ Studium Generale : Cultural Differences in Business\
 
 名古屋大学 数理・データ科学教育研究センターが開設している『実践データサイエンティスト育成プログラム』の講義の一部を岐阜大学と連携し、Vidyoを用いての遠隔講義を実施しています。 社会人学生を含む、名古屋大学・岐阜大学双方の受講生が講義に同時参加しています。
 
-![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/img_0061.jpg)
+![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/img_0061.jpg)
 
 実世界データ処理学：オープンデータ推進と地域情報化\
 名大側：S30(専用端末VidyoRoom)\
@@ -79,7 +79,7 @@ Studium Generale : Cultural Differences in Business\
 
 新型コロナウイルス感染対策により全授業のオンライン化が進められた中、物理学実験ではVidyoを活用しての遠隔実験が行われました。物性実験（超電導）では、実験室にて教員とTAが実際に実験を行っている様子・実験機器の計測の様子の2画面を同時配信し、学生が計測画面から自分で数値を読み取ることで個々に実験を体感してもらうという授業を行いました。
 
-![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/physics_experiment.png)
+![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/physics_experiment.png)
 
 実験機器の計測画面 (①) と実験全体を表示する画面 (②) の2画面の動画配信\
 名大側：物理学実験室(専用端末VidyoRoom)\
@@ -91,7 +91,7 @@ Studium Generale : Cultural Differences in Business\
 
 オンライン授業の一環として、Erik Darpö 特任准教授（G30／大学院多元数理科学研究科）の担当講義 “Basic Mathematics”において、S30講義室にてVidyoを利用しての講義撮影が行われました。教室の二段式黒板の全体をはっきりと映し出した高画質の映像は、名古屋大学のe-Learningシステム（NUCT）上でMP4形式にて受講者に配布され、オンデマンド形式での講義を実現しました。
 
-![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/mathematicsbasic.png)
+![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/mathematicsbasic.png)
 
 S30(専用端末VidyoRoom)\
 単独で授業の録画システムとして使用。カメラ映像のみを記録(HD quality)
@@ -100,7 +100,7 @@ S30(専用端末VidyoRoom)\
 
 大阪市立大学が開催する集中講義『電子・物理工学特別講義（現代の量子論）』にて、谷村省吾教授（情報学研究科）が講師を務めるにあたり、新型コロナウイルス感染対策の一環として、Vidyoを用いてオンライン講義が行われました。
 
-![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/physics_special_class.png)
+![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/physics_special_class.png)
 
 名大側：C36(専用端末VidyoRoom)\
 受講者：PC(Vidyo配信専用リンクにて視聴)
@@ -111,7 +111,7 @@ S30(専用端末VidyoRoom)\
 
 千葉大学開催の『現代の量子論（基礎物理学特別講義IV）』にて谷村省吾教授（情報学研究科）が講師を務めるにあたり、C36講義室にてZoom・Vidyoを使用したオンライン講義が行われました。講義はZoomにてライブ配信を行い、さらにVidyoでも追再生用にストリーミング配信・録画を行うというハイブリッド形式にて実施され、国内外からおよそ40名の参加者を数えました。
 
-![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/20210303_lecture.png)
+![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/20210303_lecture.png)
 
 名大側：C36 (Zoomおよび専用端末VidyoRoom)\
 受講者：PC (ZoomおよびVidyo配信専用リンクにて視聴)
@@ -122,13 +122,13 @@ Zoomで双方向形式での講義を行うと同時に、Vidyoの特性でも�
 
 感染状況によって一部対面授業が可能となったことを受け、2021年春学期 物理学基礎１（担当：市來淨與准教授、田代寛之特任准教授）において、対面とオンラインを織り交ぜた形態で講義を実施しました。講義はVidyo設置教室であるS30講義室で行われ、オンライン受講者に向けては、VidyoとTeamsを使ったハイブリッド形式で配信を行いました。
 
-![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/screenshot_55.png)
+![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/screenshot_55.png)
 
 Vidyo配信の様子。教室設置カメラにて大型二段式黒板を明瞭に映し出し、細かな板書も問題無く確認可能。
 
 Teamsでも講義を同時配信し、教室プロジェクタで映した資料をTeams上で共有してオンラインで確認出来る様にしました。
 
-![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/screenshot_8902.png)
+![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/screenshot_8902.png)
 
 Teams上での資料共有の様子。質問等はTeamsチャットでも対応可能。
 
@@ -140,7 +140,7 @@ Teams上での資料共有の様子。質問等はTeamsチャットでも対応�
 \
 **Vidyo画面とZoom画面の対比**
 
-![](https://hlc1.ilas.nagoya-u.ac.jp/~kyoikuin/vidyo/screenshot_2021_09_16_150101_2.png)
+![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/screenshot_2021_09_16_150101_2.png)
 
 Vidyo（左）：講義室に設置されたカメラでホワイトボード全体を映し出し、高画質映像で配信しながら録画。配信は300名まで視聴可能（視聴のみ）\
 Zoom（右）：外付けカメラをTAが操作して説明部分をクローズアップ。参加型のためチャット・通話での質疑応答が可能
