@@ -27,7 +27,7 @@ jobs:
         with:
           # 「switches: -avzr --delete」だと、実行はできても戻り値がエラーになる。
           # １．--omit-dir-timesで「failed to set times onエラー」は防止可。
-          # ２．-aオプションは-rlptgoDと等価。このうちpgoDは問題らしい？。 
+          # ２．-aオプションは-rlptgoDと等価、うちpgoDがWEBサーバのオーナ設定によっては問題になる。 
           switches: -rlOtcv --delete
           path: public/
           remote_path: ${{ secrets.DEPLOY_PATH }}
@@ -37,7 +37,8 @@ jobs:
           remote_key: ${{ secrets.DEPLOY_KEY }}
 
       # Netlifyにデプロイ。「--prod」を付けないとプレビューDeployになるので注意。
-      - run: npx netlify-cli deploy --prod --dir=./public
+      - name: deployments to Netlify
+        run: npx netlify-cli deploy --prod --dir=./public
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
