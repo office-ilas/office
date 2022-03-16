@@ -27,8 +27,8 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
 
-  - name: "pages"
-    label: "Pages"
+  - name: "pagesTOP"
+    label: "PagesTOP"
     files:
       - file: "src/pages/index.md"
         label: "Top Page"
@@ -40,13 +40,14 @@ collections:
           - { label: Description, name: description, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
 
-      - file: "src/pages/pages/students-guide.md"
-        label: "students-guide.md"
-        name: "students-guide.md"
-        fields:
-          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: Description, name: description, widget: string }
-          - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - { label: "Tags", name: "tags", widget: "list" }
+  - name: "pages"
+    label: "Pages"
+    folder: "src/pages/pages"
+    create: true
+    fields:
+      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: Description, name: description, widget: string }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
