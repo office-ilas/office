@@ -8,13 +8,8 @@ function ContactPage() {
   return (
     <Layout>
 
-      <form
-        className='contact_form'
-        name="Contact Form"
-        method="POST"
-        data-netlify="true"
-        action="/pages/success"
-      >
+{/*      <form className='contact_form' name="Contact Form" method="POST" data-netlify="true" action="/pages/success"> */}
+      <form className='contact_form' name="Contact Form" method="POST" action="/pages/success"></form>
         <input type="hidden" name="form-name" value="Contact Form" />
         <h1 className='contactHeader'>CONTACT US</h1>
         <label>お名前：</label><input type="text" name="name" className="contact__field" placeholder="お名前を入力して下さい"></input>
