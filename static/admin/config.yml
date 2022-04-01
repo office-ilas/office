@@ -17,11 +17,13 @@ collections:
     label: "News and Updates"
     folder: "src/pages/news"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    #slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{fields.slug}}"
     fields:
       - { label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Description", name: "description", widget: "text" }
 #      - { label: "Featured Image", name: "featuredimage", widget: image }
       - { label: "Body", name: "body", widget: "markdown" }
