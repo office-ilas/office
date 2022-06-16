@@ -22,13 +22,13 @@ This is a summary of hands-on workshop on online-lecture. You can find presented
 ・場所：教養教育院S1X
 
 ・NUCT資料  
-　・NUCT全般 [(PDF)](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/online/01_NUCT-Teams-HLC-20210329_2.pdf)  
+　□NUCT全般 [(PDF)](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/online/01_NUCT-Teams-HLC-20210329_2.pdf)  
 ・Ｔeams資料  
-　・授業でのMicrosoft Teamsの活用 [(PDF)](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/online/02_Using_Microsoft_Teams_in_the_class_20210317_jp.pdf)  
-　・Using Microsoft Teams in the class [(PDF)](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/online/Using_Microsoft_Teams_in_the_class_20210317.pdf)  
-　・補足資料, Additional [(PDF)](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/online/TeamsAdditional.pdf)  
+　□授業でのMicrosoft Teamsの活用 [(PDF)](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/online/02_Using_Microsoft_Teams_in_the_class_20210317_jp.pdf)  
+　□Using Microsoft Teams in the class [(PDF)](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/online/Using_Microsoft_Teams_in_the_class_20210317.pdf)  
+　□補足資料, Additional [(PDF)](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/online/TeamsAdditional.pdf)  
 ・Useful info.  
-　・[NUCT活用集2021年度春版](https://ct.nagoya-u.ac.jp/access/content/public/NUCT%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B%E9%9B%86_2021.pdf) (講義内容の引継ぎ）  
+　□[NUCT活用集2021年度春版](https://ct.nagoya-u.ac.jp/access/content/public/NUCT%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B%E9%9B%86_2021.pdf) (講義内容の引継ぎ）  
 
 ワークショップの動画　（視聴には名大IDとPWが必要です)  
 ・[NUCT+Teams](https://auth-mfa.nagoya-u.ac.jp/cas/login?service=https://nuvideo.media.nagoya-u.ac.jp/embed/8a769db1229c4d3b90399d52de424ae608263d51) (1:25:01)  
@@ -41,7 +41,7 @@ This is a summary of hands-on workshop on online-lecture. You can find presented
 ・場所：教養教育院 S1X
 
 ・NUSS資料  
-　・[PDF](https://nuss.nagoya-u.ac.jp/s/jwQpmGGw6rLwHDR)
+　□[PDF](https://nuss.nagoya-u.ac.jp/s/jwQpmGGw6rLwHDR)
  
 **第4回ワークショップ（NUCT + Zoom）  
 4th Workshop (NUCT + Zoom)**
@@ -53,12 +53,12 @@ This is a summary of hands-on workshop on online-lecture. You can find presented
 　日本語の資料は既に多数ありますので、今回はそれらを用います。
 ・[配付資料](https://www.ilas.nagoya-u.ac.jp/PDF/NUCT-Zoom-HLC-20200413-handout.pdf)（抜粋版）（PDF, 1.1 MB）  
 ・NUCT  
-　・[はじめに：ツール＆ロール、練習用NUCT](https://media.itc.nagoya-u.ac.jp/studio/ondemand_teaching_materials_guide/deta/03_teacher_using_01.pdf)  
-　・[サイト情報ツール](https://media.itc.nagoya-u.ac.jp/studio/ondemand_teaching_materials_guide/deta/04_teacher_siteinfo_02.pdf)  
-　・[リソースツール](https://media.itc.nagoya-u.ac.jp/studio/ondemand_teaching_materials_guide/deta/06_teacher_resource_04.pdf)  
-　・[NUCTで学生を迷子にしないために](https://nuss.nagoya-u.ac.jp/s/eQRzmABCjzMrqJZ)  
+　□[はじめに：ツール＆ロール、練習用NUCT](https://media.itc.nagoya-u.ac.jp/studio/ondemand_teaching_materials_guide/deta/03_teacher_using_01.pdf)  
+　□[サイト情報ツール](https://media.itc.nagoya-u.ac.jp/studio/ondemand_teaching_materials_guide/deta/04_teacher_siteinfo_02.pdf)  
+　□[リソースツール](https://media.itc.nagoya-u.ac.jp/studio/ondemand_teaching_materials_guide/deta/06_teacher_resource_04.pdf)  
+　□[NUCTで学生を迷子にしないために](https://nuss.nagoya-u.ac.jp/s/eQRzmABCjzMrqJZ)  
 ・Zoom  
-　・[ビデオ会議ツールの活用について](https://media.itc.nagoya-u.ac.jp/studio/Online-Meeting-Tools-Utilizing-Instructions.pdf)  
+　□[ビデオ会議ツールの活用について](https://media.itc.nagoya-u.ac.jp/studio/Online-Meeting-Tools-Utilizing-Instructions.pdf)  
 ・[オンライン授業に初めて関わる教員のための教授法]()  
 ・[上記をまとめたもの (PDF, 23.5 MB)](https://www.ilas.nagoya-u.ac.jp/PDF/NUCT-Zoom-HLC-20200413.pdf)  
 
@@ -91,7 +91,7 @@ This is a summary of hands-on workshop on online-lecture. You can find presented
 
 ワークショップの動画（視聴には名大IDとPWが必要です）  
 ・[NUCT Overview (1:12:24)](https://auth-mfa.nagoya-u.ac.jp/cas/login?service=https://nuvideo.media.nagoya-u.ac.jp/embed/59dc655e3205f9d68ac1a241e9958679dc9dfae9/autostart/false/caption/true)  
-　・出だし部分で音声がまわり、聞きにくいです。予めご了承下さい。  
+　□出だし部分で音声がまわり、聞きにくいです。予めご了承下さい。  
 ・[NUCT Chat, Forum (0:32:54)](https://auth-mfa.nagoya-u.ac.jp/cas/login?service=https://nuvideo.media.nagoya-u.ac.jp/embed/aec5a85387c7a503a1f94385c40bd7665254b133/autostart/false/caption/true)  
 ・[Zoom and QA (0:17:23)](https://auth-mfa.nagoya-u.ac.jp/cas/login?service=https://nuvideo.media.nagoya-u.ac.jp/embed/aec5a85387c7a503a1f94385c40bd7665254b133/autostart/false/caption/true)  
 
