@@ -60,7 +60,7 @@ const Navbar = class extends React.Component {
               
               <div className="navbar-link">
               {/*  <Link to="/src/"> */}
-                  <div className="navbar-item">資料</div>
+                  <div className="navbar-item">資料など(準備中)</div>
               {/*  </Link> */}
               </div>
               
