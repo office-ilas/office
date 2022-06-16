@@ -20,12 +20,13 @@ Classes conducted remotely using a PC with video and audio files, regardless of 
 C. Remote classes using simultaneous interactive methods	 
 Remote classes conducted from a PC using Microsoft Teams, Zoom, etc., according to the timetable.
 
-From [this page](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/G30/01_Spring2022_G30-Timetable-Class_Implementation_Method-HP.pdf) , there is a timetable with information on the methods of conducting classes, therefore, please refer to it when taking courses. (<font color="red">The revised parts are written in red. Updated on June 1st.</font> )
+From [this page](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/G30/01_Spring2022_G30-Timetable-Class_Implementation_Method-HP.pdf) , there is a timetable with information on the methods of conducting classes, therefore, please refer to it when taking courses. (<font color="red">The revised parts are written in red. Updated on June 15.</font> )
 
 Some courses may be conducted using several different methods.  
-Ex: ・A in principle, but B in some classes  
-　　・C in principle, but A in some classes  
-　　・Combination of B and C  
+Ex: 
+    ・A in principle, but B in some classes  
+    ・C in principle, but A in some classes  
+    ・Combination of B and C  
 
 **Access Point**  
 In principle, remote classes B and C should be taken from home.  
