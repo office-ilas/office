@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 【要検討】2021年度全学教育科目履修の手引
+title: 2021年度全学教育科目履修の手引
 date: 2021-09-21T06:18:22.073Z
 description: |-
   全学教育科目履修の手引
@@ -10,7 +10,7 @@ tags:
 ---
 
 
-## <p style="color:red">【要検討】同内容のページを、固定ページとしても掲載してある。現状は同内容を異なる二つのファイルで公開しており非効率。固定ページの方を主にし、本ページはそちらへのリンクにする程度にする？</p>
+
 
 〇2021年度全学教育科目履修の手引【項目別】\
 ・[表紙](https://office.ilas.nagoya-u.ac.jp/files/s-guide/s-guide-cover.pdf)\
