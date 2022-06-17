@@ -15,7 +15,7 @@ tags:
 
 ＜講義室予約状況確認表＞
 
-[予約状況確認表](https://nuss.nagoya-u.ac.jp/s/iPmBC3EApzgARLC)
+[予約状況確認表](https://nuss.nagoya-u.ac.jp/s/7nGS6JWagD4RYSf)
 
 ＜講義室利用申請対象＞\
 下記のすべてに該当する団体を対象とする。\
@@ -63,7 +63,7 @@ tags:
 　　[利用者登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeBpICVKsOtzX1b_gJfCtMAr5-TxL2o_aV1535QVmxfysKa5A/viewform?vc=0&c=0&w=1&flr=0)より利用者情報を入力し，利用者登録をすること。\
 　　登録フォーム送信の上，学生支援課に提出し承認済みの\
 　　「感染症予防対策申請書」を教養教育院事務室宛\
-　　[kyoikuin@adm.nagoya-u.ac.jp](mailto:kyoikuin@adm.nagoya-u.ac.jp)にメールにて提出する。\
+　　kyoikuin[at]adm.nagoya-u.ac.jp にメールにて提出する。\
 ２．5営業日以内に教養教育院事務室から利用者登録IDと共に登録が完了\
 　　した通知を団体責任者のメールアドレスへ送信する。\
 　　（「感染症予防対策申請書」の提出がない場合は，利用者登録IDの\
@@ -77,7 +77,7 @@ tags:
 ６．予約が取れた後，何らかの理由でキャンセルを希望する場合は\
 　　[予約キャンセルフォーム](https://forms.gle/qou9mpmoWpuvhhoq8)よりキャンセルを行うこと。\
 　　予約の変更を希望する場合も、本フォームでキャンセルした上で、\
-　　改めて希望する日時・講義室について[予約申請フォーム](https://forms.gle/Mm96G8jjQgN6kmVy5)から入力すること。\
+　　改めて希望する日時・講義室について[予約申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLScqIFjTG8ow6eukVS_C6QqkWLCGltxG1SayjzBEbt0hvmXXlw/viewform?vc=0&c=0&w=1&flr=0)から入力すること。\
 ７．利用日当日には利用の注意を遵守し，講義室を使用すること。\
 　　（無断利用や戸締り忘れが発覚した場合は，当該団体に利用停止などの\
 　　　措置をとることがある。）\
@@ -89,7 +89,7 @@ tags:
 　必ず責任者変更を行うこと。\
 １．[責任者変更届](./責任者変更届.docx)を記入する。\
 　　※フォーマットに記載の注意事項を必ず読むこと。\
-２．教養教育院事務室宛（[kyoikuin@adm.nagoya-u.ac.jp](mailto:kyoikuin@adm.nagoya-u.ac.jp)）にメールにて\
+２．教養教育院事務室宛（kyoikuin[at]adm.nagoya-u.ac.jp ）にメールにて\
 　　変更届を提出する。\
 　　※現責任者のメールアドレスから送ること。\
 　　※フォーマットに必ずパスワードをかけ、別メールでパスワードを\
@@ -100,6 +100,6 @@ tags:
 
 ＜問い合わせ先＞\
 教養教育院事務室\
-Email: [kyoikuin@adm.nagoya-u.ac.jp](mailto:kyoikuin@adm.nagoya-u.ac.jp)
+Email: kyoikuin[at]adm.nagoya-u.ac.jp 
 
 <!--EndFragment-->
