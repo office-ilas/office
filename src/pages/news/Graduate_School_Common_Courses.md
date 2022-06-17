@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 大学院共通科目
 date: 2022-06-01T05:05:31.133Z
-description: 名古屋大学
+description: 大学院共通科目/Graduate School Common Courses
 tags:
- - G30
+ - 履修
 ---
 <!--StartFragment-->
 
