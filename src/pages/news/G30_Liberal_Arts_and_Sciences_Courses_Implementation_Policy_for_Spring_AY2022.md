@@ -2,9 +2,10 @@
 templateKey: blog-post
 title: 【G30】Liberal Arts and Sciences Courses Implementation Policy for Spring AY2022
 date: 2022-06-01T05:05:31.133Z
-description: 名古屋大学
+description: Liberal Arts and Sciences Courses Implementation Policy for Spring AY2022
 tags:
  - G30
+ - 履修
 ---
 <!--StartFragment-->
 
