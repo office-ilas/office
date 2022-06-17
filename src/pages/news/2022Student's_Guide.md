@@ -2,9 +2,11 @@
 templateKey: blog-post
 title: 【重要】2022年度全学教育科目履修の手引 STUDENTS’ GUIDE
 date: 2022-06-01T05:05:31.133Z
-description: 名古屋大学
+description: 2022年度全学教育科目履修の手引 STUDENTS’ GUIDE
 tags:
- - G30
+ - 履修
+ - 施設
+ - 講義室
 ---
 <!--StartFragment-->
 
