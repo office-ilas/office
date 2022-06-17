@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: 【重要】2022年度春学期履修手続きに関する注意事項
 date: 2022-06-01T05:05:31.133Z
-description: 名古屋大学
+description: 2022年度春学期履修手続きに関する注意事項
 tags:
- - G30
+ - 履修
 ---
 <!--StartFragment-->
 
@@ -29,7 +29,7 @@ tags:
 <font color="red">※理系基礎科目「複素関数論」（0034134）と、文系基礎科目「心理学Ⅰ・Ⅱ」及び「経済学A・B」に読み替えられる、新カリキュラム科目「心理学」及び「経済学」は、履修登録期間4月2日～5日の該当期間に履修登録を行うようにしてください。</font>
 
 
-<font color="red">※履修登録の際は、[こちら](https://office.ilas.nagoya-u.ac.jp/2022-spring-course-time-table/) もご確認ください。</font>  
+<font color="red">※履修登録の際は、[こちら](https://office-ilas.netlify.app/news/2022-COURSE-TIME-TABLE/)もご確認ください。</font>  
 ※更新箇所は、朱書きとなっています。  
 
 
