@@ -9,6 +9,7 @@ tags:
   - 履修
   - 施設
   - サークル
+  - 講義室
 ---
 
 # [全学教育棟本館　ILAS Main Building]
