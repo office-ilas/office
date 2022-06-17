@@ -2,9 +2,11 @@
 templateKey: blog-post
 title: オンライン授業の講習会
 date: 2022-06-01T05:05:31.133Z
-description: 名古屋大学
+description: オンライン授業の講習会/hands-on workshop on online-lecture
 tags:
- - G30
+ - Teams
+ - ハイブリッド
+ - 遠隔授業
 ---
 
 <!--StartFragment-->
@@ -59,14 +61,11 @@ This is a summary of hands-on workshop on online-lecture. You can find presented
  　□[NUCTで学生を迷子にしないために](https://nuss.nagoya-u.ac.jp/s/eQRzmABCjzMrqJZ)  
 ・Zoom  
  　□[ビデオ会議ツールの活用について](https://media.itc.nagoya-u.ac.jp/studio/Online-Meeting-Tools-Utilizing-Instructions.pdf)  
-・[オンライン授業に初めて関わる教員のための教授法]()  
 ・[上記をまとめたもの (PDF, 23.5 MB)](https://www.ilas.nagoya-u.ac.jp/PDF/NUCT-Zoom-HLC-20200413.pdf)  
 
 ワークショップの動画（視聴には名大IDとPWが必要です）  
 ・[お役⽴ちサイトのご紹介、NUCT（1:23:27）](https://auth-mfa.nagoya-u.ac.jp/cas/login?service=https://nuvideo.media.nagoya-u.ac.jp/embed/29c7a69f1c100c334cedb1ee84db951b0bbe37ba/autostart/true/caption/true)  
 ・[Zoom、教授法、Q&A（0:59:36）](https://auth-mfa.nagoya-u.ac.jp/cas/login?service=https://nuvideo.media.nagoya-u.ac.jp/embed/1316852cbba972854cff54bdae328d753301c9ac/autostart/true/caption/true)  
-
-[Zoomによる問い合わせ窓口の試行：4/13 13:00-17:00]()
 
 **第3回ワークショップ（英語担当教員向け）  
 3rd Workshop for English class lecturers**
@@ -86,7 +85,7 @@ This is a summary of hands-on workshop on online-lecture. You can find presented
 ワークショップのスライド  
 ・[NUCT (PDF, 6.8 MB)](https://www.ilas.nagoya-u.ac.jp/PDF2/Online-teaching-and-learning-at-NU-HLC200408.pdf)  
 ・[Zoom (PDF, 6.2 MB)](https://www.ilas.nagoya-u.ac.jp/PDF2/zoom_startup.pdf)  
-・[事前準備資料 ICT requirements](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2020/04/ICT_requirements.pdf)  
+・[事前準備資料 ICT requirements](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/online/ICT_requirements.pdf)  
 ・[Chromeでストリーミングを視聴するには](https://www.ilas.nagoya-u.ac.jp/PDF2/enable_streaming.pdf)  
 
 ワークショップの動画（視聴には名大IDとPWが必要です）  
