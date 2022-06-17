@@ -42,7 +42,7 @@ CALL1-4
 平日　8：30～18：00
 
 【講義室等の場所】\
-[こちら](/news/access_ilas_rooms/)からご確認ください。
+[こちら](https://office-ilas.netlify.app/news/access_ilas_rooms/)からご確認ください。
 
 【利用方法・注意事項】\
 １）予約制ではありませんので、直接指定のアクセスポイントへ\
