@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 大学院共通科目
+title: 大学院共通科目/Graduate School Common Courses
 date: 2022-06-01T05:05:31.133Z
 description: 大学院共通科目/Graduate School Common Courses
 tags:
@@ -10,8 +10,7 @@ tags:
 
 目次　Table of Contents
 
-・名古屋大学大学院共通科目の編成・実施方針（カリキュラム・ポリシー）  
-・Curriculum Scheme and Policies of Nagoya University Graduate School Common Courses  
+・名古屋大学大学院共通科目の編成・実施方針（カリキュラム・ポリシー）  /Curriculum Scheme and Policies of Nagoya University Graduate School Common Courses  
 ・大学院共通科目一覧／List of Nagoya University Graduate School Common Courses  
 ・ライティングセンター「リサーチ・スキルズ」の案内 ／”Mei-Writing” Writing and Presentation Courses.  
 ・授業案内（シラバス）／Course Information (Syllabus)  
