@@ -16,9 +16,9 @@ tags:
 **2022年度入学生用**：[2022年度春学期 履修手続きに関する注意事項](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/2022-spring_Precautions_regarding_course_procedures/01_2022-spring_Precautions_regarding_course_procedures_for_AY2022_students_0411.pdf)（4.11更新）  
 ※3月末まで、シラバスは[簡易版](https://syllabus.adm.nagoya-u.ac.jp/)をご確認ください。  
 　4月以降、Campusmateより詳細なシラバスをご確認いただけます。  
-[※履修登録ができない・登録方法が分からないなどの方のために、学生相談サポーターによる履修相談を4月4日（月）に行います。](https://office.ilas.nagoya-u.ac.jp/%e5%ad%a6%e7%94%9f%e7%9b%b8%e8%ab%87%e3%82%b5%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%bc%e3%81%ab%e3%82%88%e3%82%8b%e5%b1%a5%e4%bf%ae%e7%9b%b8%e8%ab%87%e3%81%ae%e5%ae%9f%e6%96%bd%e3%81%ab%e3%81%a4%e3%81%84-2/)  
+※履修登録ができない・登録方法が分からないなどの方のために、学生相談サポーターによる履修相談を4月4日（月）に行います。
 
-[理学部1年生へ　金曜1限・金曜2限の履修登録について(4.4更新）](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2022/04/%E7%90%86%E5%AD%A6%E9%83%A81%E5%B9%B4%E7%94%9F%E5%90%84%E4%BD%8D2.pdf)
+理学部1年生へ　金曜1限・金曜2限の履修登録について(終了）　　
 
 **2021年度以前入学生用**：[2022年度春学期 履修手続きに関する注意事項（4.11更新）](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/2022-spring_Precautions_regarding_course_procedures/02_2022-spring_Precautions_regarding_course_procedures_for_before_AY2021_students_0411.pdf)  
 ※更新は、黄色マーカー箇所となります。  
