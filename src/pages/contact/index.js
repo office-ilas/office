@@ -10,7 +10,7 @@ const ContactUsPage = () => (
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">お問い合わせ</h2>
+              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">お問い合わせ/CONTACT</h2>
               <h3 className="is-size-4 has-text-weight-bold">名古屋大学</h3>
               <a href="http://www.nagoya-u.ac.jp/contact-us/index.html">http://www.nagoya-u.ac.jp/contact-us/index.html</a>
               <br />

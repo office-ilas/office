@@ -59,7 +59,7 @@ export default class BlogIndexPage extends React.Component {
 	  </div>*/}
 	    
         <section className="section">
-	  <h1 className="title is-size-2 is-bold-light">お知らせ</h1> 
+	  <h1 className="title is-size-2 is-bold-light">お知らせ/NEWS</h1> 
           <div className="container">
             <div className="content">
               <BlogRoll />
