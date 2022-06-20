@@ -33,7 +33,7 @@ const Navbar = class extends React.Component {
 
   render() {
     return (
-      <nav className="navbar is-transparent" role="navigation" aria-label="main-navigation">
+      <nav className="navbar is-success" role="navigation" aria-label="main-navigation">
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
@@ -68,7 +68,9 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/tags/">
                 カテゴリ/CATEGORY
               </Link>
+              {/* </div> */}
 
+              {/* <div className="navbar-end"> */}
               <Link className="navbar-item" to="/contact/">
                 お問い合わせ/CONTACT
               </Link>
