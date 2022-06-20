@@ -22,11 +22,11 @@ const Navbar = class extends React.Component {
         // set the class in state for the navbar accordingly
         this.state.active
           ? this.setState({
-              navBarActiveClass: "is-active"
-            })
+            navBarActiveClass: "is-active"
+          })
           : this.setState({
-              navBarActiveClass: ""
-            });
+            navBarActiveClass: ""
+          });
       }
     );
   };
@@ -55,38 +55,22 @@ const Navbar = class extends React.Component {
             </button>
           </div>
           <div id="navMenu" className={`navbar-menu ${this.state.navBarActiveClass}`}>
-            
-            <div className="navbar-item has-dropdown is-hoverable">
-              
-              <div className="navbar-link">
-              {/*  <Link to="/src/"> */}
-                  <div className="navbar-item">資料など(準備中)</div>
-              {/*  </Link> */}
-              </div>
-              
-              {/* <div className="navbar-dropdown"> 
-                <Link to="/pages/students-guide/">
-                  <div className="navbar-item">全学教育科目履修の手引 STUDENTS' GUIDE </div>
-                </Link>      
-              </div>*/}
-            </div>
-            
 
             <div className="navbar-start has-text-centered">
-              {/*
-              <Link className="navbar-item" to="/awards/">
-                表彰
-              </Link>
+              {/*  
+              <div className="navbar-item">
+              資料【準備中】/DOCUMENTS【COMING SOON】
+              </div>
               */}
               <Link className="navbar-item" to="/news/">
-            お知らせ(全件）
-        </Link>
-	       <Link className="navbar-item" to="/tags/">
-            お知らせ(カテゴリ別）
+                お知らせ/NEWS
+              </Link>
+              <Link className="navbar-item" to="/tags/">
+                カテゴリ/CATEGORY
               </Link>
 
               <Link className="navbar-item" to="/contact/">
-                お問い合わせ
+                お問い合わせ/CONTACT
               </Link>
               {/* <Link className="navbar-item" to="/contact/examples">
                 Form Examples
