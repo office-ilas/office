@@ -23,7 +23,7 @@ tags:
 
 **以下の自習スペースも利用可能です。**\
 ・全学教育棟本館１階　服部ホール\
-・全学教育棟本館２階　ラウンジ\
+・全学教育棟本館２階　ラウンジ
 
 **以下の講義室は座席に電源コンセントが設置されています。**\
 ＜全学教育棟本館＞\
@@ -31,13 +31,13 @@ C13,C14,C15,C23,C25,C33,C35,C43\
 S10,S11,S20,S21,S30\
 S1X,S2Y\
 ＜全学教育棟A館＞\
-A21,A31\
+A21,A31
 
 ## **言語科目・基礎セミナー専用/ Languages Classes**
-※一部理系基礎科目を含む/ including some of Natural Science Basic Courses
 
-## <p style="color:red">【下記リンク要修正】</p>
-[時間割B表](https://office.ilas.nagoya-u.ac.jp/files/Timetable-B.pdf)に記載します。
+[時間割B表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/03_0425-2022-spring_course_time_table_B.pdf
+![image](https://user-images.githubusercontent.com/98520812/174752713-da6ed4d3-8f91-4b4c-98ee-0d235539e3e9.png)
+)に記載します。
 
 ## **教養教育院アクセスポイントの利用について**
 
