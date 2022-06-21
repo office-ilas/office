@@ -24,9 +24,7 @@ C13，C14，C15，C23，C25，C33，C35\
 S10，S11，S20，S21，S30\
 S1X，S2X，S2Y\
 サブラボA\
-CALL1-4
-
-\
+CALL1-4\
 [全学教育棟教室使用状況及びアクセスポイント一覧](https://nuss.nagoya-u.ac.jp/s/dymQBzDdn2RmF3x)
 
 ](https://nuss.nagoya-u.ac.jp/s/dymQBzDdn2RmF3x)
