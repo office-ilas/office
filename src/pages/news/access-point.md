@@ -27,11 +27,7 @@ S1X，S2X，S2Y\
 CALL1-4\
 [全学教育棟教室使用状況及びアクセスポイント一覧](https://nuss.nagoya-u.ac.jp/s/dymQBzDdn2RmF3x)
 
-](https://nuss.nagoya-u.ac.jp/s/dymQBzDdn2RmF3x)
-## **言語科目・基礎セミナー専用/ Languages Classes**[
-
-](https://nuss.nagoya-u.ac.jp/s/dymQBzDdn2RmF3x)
-
+## **言語科目・基礎セミナー専用/ Languages Classes**
 ※一部理系基礎科目を含む/ including some of Natural Science Basic Courses
 
 ## <p style="color:red">【下記リンク要修正】</p>
