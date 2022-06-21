@@ -13,8 +13,8 @@ tags:
 2022年度春学期　全学教育科目時間割は以下の各ファイルを参照してください。
 
 
-[時間割表について](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/01_Table_of_contents_and_timetable_2022.pdf)  
-[授業時間割A表](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/02_2022_Timetable_A_Table_0328.pdf)  
+[時間割表について](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/01_Table_of_contents_and_timetable_2022.pdf)  
+[授業時間割A表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/02_2022_Timetable_A_Table_0328.pdf)  
 [授業時間割Ｂ表](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/03_0425-2022-spring_course_time_table_B.pdf)：春学期のみ  
 （講義室・授業方法掲載，言語・基礎セミナーの講義室は対面授業で使用しない場合に専用のアクセスポイントとして使用可）  
 [2022年度基礎セミナーテーマ一覧](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/04_2022_First_Year_Seminar_Theme_List.pdf)  
