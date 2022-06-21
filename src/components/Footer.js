@@ -9,6 +9,13 @@ import twitter from "../img/social/twitter.svg";
 import youtube from "../img/social/youtube.svg";
 // import github from "../img/github-icon.svg";
 
+import access from '../img/banner/banner-access.png'
+import ilas from '../img/banner/banner-ilas.png'
+import meiwriting from '../img/banner/banner-mei-writing.png'
+import nu from '../img/banner/banner-nu.png'
+import ocw from '../img/banner/banner-ocw.png'
+import portal from '../img/banner/banner-portal.png'
+
 const Footer = class extends React.Component {
   render() {
     return (
@@ -23,55 +30,39 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered has-background-grey-light has-text-white-ter">
           <div className="container has-background-grey-light has-text-white-ter">
             <div className="columns">
-              <div className="column is-4">
-                <section className="menu">
-                  <ul className="menu-list">
-                    <li>
-                      <a className="navbar-item" href="https://www.nagoya-u.ac.jp">
-                        名古屋大学
-                      </a>
-                    </li>
-                    <li>
-                      <a className="navbar-item" href="https://www.ilas.nagoya-u.ac.jp/">
-                        名古屋大学教養教育院
-                      </a>
-                    </li>
-                    <li>
-                      <a className="navbar-item" href="https://portal.nagoya-u.ac.jp/">
-                        名古屋大学ポータル
-                      </a>
-                    </li>
-                    <li>
-                      <a className="navbar-item" href="https://ocw.nagoya-u.jp/">
-                        名大の授業
-                      </a>
-                    </li>
-                  </ul>
-                </section>
+              <div className="column is-2">
+              <a href="https://www.nagoya-u.ac.jp/">
+              <img src={nu} alt="名古屋大学" />  
+              </a>
               </div>
-              <div className="column is-4">
-                <section>
-                  <ul className="menu-list">
-                    <li>
-                      <a className="navbar-item" href="http://meiwriting.ilas.nagoya-u.ac.jp/">
-                        名古屋大学ライティングセンター
-                      </a>
-                    </li>
-                    <li>
-                      <a className="navbar-item" href="https://elearn.ilas.nagoya-u.ac.jp/access/">
-                        AccESS
-                      </a>
-                    </li>
-
-                    <li>
-                      <Link className="navbar-item" to="/contact/">
-                        お問い合わせ
-                      </Link>
-                    </li>
-                  </ul>
-                </section>
+              <div className="column is-2">
+              <a href="https://www.ilas.nagoya-u.ac.jp/">
+              <img src={ilas} alt="名古屋大学教養教育院" /> 
+              </a>
               </div>
-              <div className="column is-4 social">
+              <div className="column is-2">
+              <a href="https://portal.nagoya-u.ac.jp/">
+              <img src={portal} alt="名古屋大学ポータル" /> 
+              </a>
+              </div>
+              <div className="column is-2">
+              <a href="https://ocw.nagoya-u.jp/">
+              <img src={ocw} alt="名大の授業" /> 
+              </a>
+              </div>
+              <div className="column is-2">
+              <a href="http://meiwriting.ilas.nagoya-u.ac.jp/">
+              <img src={meiwriting} alt="名古屋大学ライティングセンター"  /> 
+              </a>
+              </div>
+              <div className="column is-2">
+              <a href="https://elearn.ilas.nagoya-u.ac.jp/access/">
+              <img src={access} alt="AccESS" />
+              </a>
+              </div>
+            </div>
+            <div className="columns">
+              <div className="column is-12 social">
                 岐大
                 <a title="twitter" href="https://twitter.com/GifuUniv_PR">
                   <img className="fas fa-lg" src={twitter} alt="Twitter" style={{ width: "1em", height: "1em" }} />
