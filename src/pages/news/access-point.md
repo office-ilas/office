@@ -19,9 +19,7 @@ tags:
 
 ## **教養教育院アクセスポイント/ All ILAS Courses**
 
-
 [アクセスポイント一覧](https://nuss.nagoya-u.ac.jp/s/dymQBzDdn2RmF3x)
-
 
 **以下の自習スペースも利用可能です。**\
 ・全学教育棟本館１階　服部ホール\
