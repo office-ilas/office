@@ -19,11 +19,12 @@ tags:
 （講義室・授業方法掲載，言語・基礎セミナーの講義室は対面授業で使用しない場合に専用のアクセスポイントとして使用可）  
 [2022年度基礎セミナーテーマ一覧](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/04_2022_First_Year_Seminar_Theme_List.pdf)  
 [行事予定表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/05_2022_event_schedule.pdf)  
-[2022年度学年暦](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/06_2022_academic_year_calendar_Japanese_20220222.pdf)  
+[2022年度学年暦](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/06_2022_academic_year_calendar_Japanese_20220222.pdf) 
+
 講義室配置図等（2022.3現在）  
 　[全学教育棟](https://office-ilas.netlify.app/news/access_ilas_rooms/)  
 　[運動施設（東山地区）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/07_List_of_sports_facility_map_20210127.pdf)  
-  [東山地区キャンパスマップ](https://www.nagoya-u.ac.jp/extra/map/index.html)  
+　[東山地区キャンパスマップ](https://www.nagoya-u.ac.jp/extra/map/index.html)  
 
 （上記を一覧にした内容＜[2022 COURSE TIME TABLE](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/08_2022-COURSE-TIME-TABLE.pdf)＞2022.3.15時点　春学期・秋学期通年分）
 　
