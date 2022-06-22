@@ -22,7 +22,7 @@ tags:
 [2022年度学年暦](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/06_2022_academic_year_calendar_Japanese_20220222.pdf)  
 講義室配置図等（2022.3現在）  
 　[全学教育棟](https://office-ilas.netlify.app/news/access_ilas_rooms/)  
-　[運動施設（東山地区）](https://officetest.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/07_List_of_sports_facility_map_20210127.pdf)  
+　[運動施設（東山地区）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/07_List_of_sports_facility_map_20210127.pdf)  
   [東山地区キャンパスマップ](https://www.nagoya-u.ac.jp/extra/map/index.html)  
 
 （上記を一覧にした内容＜[2022 COURSE TIME TABLE](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/08_2022-COURSE-TIME-TABLE.pdf)＞2022.3.15時点　春学期・秋学期通年分）
