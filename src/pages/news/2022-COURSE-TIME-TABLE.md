@@ -34,6 +34,6 @@ tags:
 
 なお、授業時間割Ｂ表で、当初予定から 変更となった箇所は、 **赤字**で表示して更新しますので、最新状況を確認してください。
 
-<font color="red">※全学教育科目の履修手続きに関しては、[こちら](https://office-ilas.netlify.app/news/2022-spring_Precautions_regarding_course_procedures/))をご確認ください。</font>
+<font color="red">※全学教育科目の履修手続きに関しては、[こちら](https://office-ilas.netlify.app/news/2022-spring_Precautions_regarding_course_procedures/)をご確認ください。</font>
 
 <!--EndFragment-->
