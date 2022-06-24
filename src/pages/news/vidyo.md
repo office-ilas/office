@@ -75,7 +75,7 @@ Studium Generale : Cultural Differences in Business\
 名大側：S30(専用端末VidyoRoom)\
 岐大側：工学部(専用端末VidyoRoom)
 
-#### **2020年 春学期　[物理学実験](https://office.ilas.nagoya-u.ac.jp/%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e3%81%a7%e3%81%ae%e7%89%a9%e7%90%86%e5%ad%a6%e5%ae%9f%e9%a8%93%e3%81%ae%e5%8f%96%e3%82%8a%e7%b5%84%e3%81%bf/#2)**
+#### **2020年 春学期　物理学実験**
 
 新型コロナウイルス感染対策により全授業のオンライン化が進められた中、物理学実験ではVidyoを活用しての遠隔実験が行われました。物性実験（超電導）では、実験室にて教員とTAが実際に実験を行っている様子・実験機器の計測の様子の2画面を同時配信し、学生が計測画面から自分で数値を読み取ることで個々に実験を体感してもらうという授業を行いました。
 
@@ -85,7 +85,7 @@ Studium Generale : Cultural Differences in Business\
 名大側：物理学実験室(専用端末VidyoRoom)\
 受講側：PC(フリーソフトTeam Viewer)
 
-遠隔による実験については[オンラインでの物理学実験の取り組み](https://office.ilas.nagoya-u.ac.jp/%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e3%81%a7%e3%81%ae%e7%89%a9%e7%90%86%e5%ad%a6%e5%ae%9f%e9%a8%93%e3%81%ae%e5%8f%96%e3%82%8a%e7%b5%84%e3%81%bf/)のページでも詳しく紹介されていますのでぜひご覧下さい。
+遠隔による実験については[オンラインでの物理学実験の取り組み](https://ac.thers.ac.jp/news/online_physics_experiment/)のページでも詳しく紹介されていますのでぜひご覧下さい。
 
 #### **2020年 春学期　Basic Mathematics**
 
