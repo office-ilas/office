@@ -13,9 +13,9 @@ tags:
 ---
 2022年4月11日から，下記の通りアクセスポイントを開設します。
 
-**言語系科目（英語・初修外国語）・基礎セミナー**については，科目ごとに割り当てられたアクセスポイントがあり、受講生専用となります。**その他の科目**は、その他のアクセスポイントを利用してください。
+<font color="red">言語系科目（英語・初修外国語）・基礎セミナー</font>については，科目ごとに割り当てられたアクセスポイントがあり、受講生専用となります。<font color="red">その他の科目</font>は、その他のアクセスポイントを利用してください。
 
-**学内Wi-Fiの使用方法**は[情報連携推進本部のホームページ](http://icts.nagoya-u.ac.jp/ja/services/nuwnet/)を確認してください。初回は利用者登録が必要ですので**事前に済ませてください**。
+<font color="red">学内Wi-Fiの使用方法</font>は[情報連携推進本部のホームページ](http://icts.nagoya-u.ac.jp/ja/services/nuwnet/)を確認してください。初回は利用者登録が必要ですので<font color="red">事前に済ませてください</font>。
 
 ## **教養教育院アクセスポイント/ All ILAS Courses**
 
@@ -34,7 +34,6 @@ S1X,S2Y\
 A21,A31
 
 ## **言語科目・基礎セミナー専用/ Languages Classes**
-
 
 [時間割B表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/03_0425-2022-spring_course_time_table_B.pdf)に記載します。
 
