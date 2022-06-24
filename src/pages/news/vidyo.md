@@ -11,7 +11,7 @@ tags:
 
 2019年4月より岐阜大学等との遠隔講義・収録・配信の可能なビデオ会議システムVidyoを活用した教室を名古屋大学全学教育棟のS1X,C36,S30,ACELab,物理実験室に導入しました。合わせて岐阜大学にも1C教室,サテライト,工学部1,工学部2の4教室にも本システムの端末が設置されました。
 
-※その他Teams・Zoomなどを利用した遠隔授業については、[こちら](https://office.ilas.nagoya-u.ac.jp/%e5%85%a8%e5%ad%a6%e6%95%99%e8%82%b2%e6%a3%9f%e3%81%a7%e8%a1%8c%e3%81%86%e9%81%a0%e9%9a%94%e6%8e%88%e6%a5%ad%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/)を参考にしてください。
+※その他Teams・Zoomなどを利用した遠隔授業については、[こちら](https://office-ilas.netlify.app/news/about-online-learning/)を参考にしてください。
 
 ## 活用事例
 
@@ -55,7 +55,7 @@ Studium Generale : Ingrained Habits: Kitchen Cars, Koppe Pan, and Dietary Transf
 
 #### 2019年秋学期　G30 for Everybody : [Studium Generale](http://bio.nagoya-u.ac.jp/G30StudiumGenerale/)
 
-G30 for Everybody のプログラムとして実施されている “Open University” 企画である “Studiom Generale” の一部講義を、Vidyoにてストリーミング配信しています。また、秋学期よりS1X教室と岐阜大学サテライトキャンパスを結び、 岐阜大学サテライトキャンパスにて講義のライブ中継を実施。受講生は[meikai君](https://office.ilas.nagoya-u.ac.jp/meikai/)への回答などを通して講義へ参加しています。 詳しい情報は Studium Generale のHPをご覧下さい。
+G30 for Everybody のプログラムとして実施されている “Open University” 企画である “Studiom Generale” の一部講義を、Vidyoにてストリーミング配信しています。また、秋学期よりS1X教室と岐阜大学サテライトキャンパスを結び、 岐阜大学サテライトキャンパスにて講義のライブ中継を実施。受講生は[meikai君](https://office-ilas.netlify.app/news/meikai/)への回答などを通して講義へ参加しています。 詳しい情報は Studium Generale のHPをご覧下さい。
 
 ![](https://office.ilas.nagoya-u.ac.jp/files/vidyo/191206_sg_rec_1.jpeg)
 
