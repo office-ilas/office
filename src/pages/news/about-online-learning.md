@@ -47,7 +47,7 @@ tags:
 
 ###### [2019年11月～2020年1月　名古屋大学 数理・データ科学教育研究センター 実践データサイエンティスト育成プログラム](https://office.ilas.nagoya-u.ac.jp/files/distance-learning/ex-vidyo1-201911.pdf)
 
-###### [2019年秋学期　G30 for Everybody : Studium Generale](https://office.ilas.nagoya-u.ac.jp/files/distance-learning/ex-vidyo3-2019Autumn-G30-for-Everybody-Studium-Generale.pdf)
+###### [2019年秋学期　G30 for Everybody : Studium Generale](https://office.ilas.nagoya-u.ac.jp/files/distance-learning/ex-vidyo2-2019Autumn-G30-for-Everybody-Studium-Generale.pdf)
 
 ###### [2019年春学期　G30 for Everybody : Studium Generale](https://office.ilas.nagoya-u.ac.jp/files/distance-learning/ex-vidyo3-2019Spring-G30-for-Everybody-Studium-Generale.pdf)
 
