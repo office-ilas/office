@@ -17,8 +17,7 @@ tags:
 
 This is a summary of hands-on workshop on online-lecture. You can find presented materials and videos here.
 
-**第6回ワークショップ (NUCT + Teams)  
-6th Workshop (NUCT + Teams)**
+##  **第6回ワークショップ (NUCT + Teams) / 6th Workshop (NUCT + Teams)**
 
 ・日時：2021年3月30日（火）　13:00～  
 ・場所：教養教育院S1X
@@ -36,8 +35,7 @@ This is a summary of hands-on workshop on online-lecture. You can find presented
 ・[NUCT+Teams](https://auth-mfa.nagoya-u.ac.jp/cas/login?service=https://nuvideo.media.nagoya-u.ac.jp/embed/8a769db1229c4d3b90399d52de424ae608263d51) (1:25:01)  
 ・[Chat](https://nuss.nagoya-u.ac.jp/s/xBZnTD3CELwHJsA)  
 
-**第5回ワークショップ（NUCT + [NUSS] ）  
-5th Workshop (NUCT + [NUSS] )**
+##  **第5回ワークショップ（NUCT + [NUSS] ） / 5th Workshop (NUCT + [NUSS] )**
 
 ・日時：2020年9月9日（水）・9月11日（金）　10：00～  
 ・場所：教養教育院 S1X
@@ -45,8 +43,7 @@ This is a summary of hands-on workshop on online-lecture. You can find presented
 ・NUSS資料  
  　□[PDF](https://nuss.nagoya-u.ac.jp/s/jwQpmGGw6rLwHDR)
  
-**第4回ワークショップ（NUCT + Zoom）  
-4th Workshop (NUCT + Zoom)**
+##  **第4回ワークショップ（NUCT + Zoom） / 4th Workshop (NUCT + Zoom)**
 
 ・日時：2020年4月13日（月）　10：00～  
 ・場所：教養教育院 S1X
@@ -67,15 +64,13 @@ This is a summary of hands-on workshop on online-lecture. You can find presented
 ・[お役⽴ちサイトのご紹介、NUCT（1:23:27）](https://auth-mfa.nagoya-u.ac.jp/cas/login?service=https://nuvideo.media.nagoya-u.ac.jp/embed/29c7a69f1c100c334cedb1ee84db951b0bbe37ba/autostart/true/caption/true)  
 ・[Zoom、教授法、Q&A（0:59:36）](https://auth-mfa.nagoya-u.ac.jp/cas/login?service=https://nuvideo.media.nagoya-u.ac.jp/embed/1316852cbba972854cff54bdae328d753301c9ac/autostart/true/caption/true)  
 
-**第3回ワークショップ（英語担当教員向け）  
-3rd Workshop for English class lecturers**
+##  **第3回ワークショップ（英語担当教員向け） / 3rd Workshop for English class lecturers**
 
 ・日時：2020年4月10日（金）　14:00～  
 ・場所：教養教育院 S1X  
 ・資料は第2回ワークショップと同じです。  
 
-**第2回ワークショップ  
-2nd Workshop**
+##  **第2回ワークショップ / 2nd Workshop**
 
 ・日時：2020年4月8日 10:00〜12:00  
 ・場所：教養教育院 S1X 教室  
@@ -94,8 +89,7 @@ This is a summary of hands-on workshop on online-lecture. You can find presented
 ・[NUCT Chat, Forum (0:32:54)](https://auth-mfa.nagoya-u.ac.jp/cas/login?service=https://nuvideo.media.nagoya-u.ac.jp/embed/aec5a85387c7a503a1f94385c40bd7665254b133/autostart/false/caption/true)  
 ・[Zoom and QA (0:17:23)](https://auth-mfa.nagoya-u.ac.jp/cas/login?service=https://nuvideo.media.nagoya-u.ac.jp/embed/aec5a85387c7a503a1f94385c40bd7665254b133/autostart/false/caption/true)  
 
-**第１回ワークショップ（G30の先生向け）  
-Hand-on Workshop: Online teaching and learning at NU**
+##  **第１回ワークショップ（G30の先生向け） / Hand-on Workshop: Online teaching and learning at NU**
 
 詳細は[こちら](https://www.ilas.nagoya-u.ac.jp/en/covid-19.html)をご覧下さい。
 
