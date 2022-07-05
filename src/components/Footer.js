@@ -63,17 +63,7 @@ const Footer = class extends React.Component {
             </div>
             <div className="columns">
               <div className="column is-12 social">
-                岐大
-                <a title="twitter" href="https://twitter.com/GifuUniv_PR">
-                  <img className="fas fa-lg" src={twitter} alt="Twitter" style={{ width: "1em", height: "1em" }} />
-                </a>
-                <a title="youtube" href="https://www.gifu-u.ac.jp/about/publication/glg/PV_2015.html#opening">
-                  <img src={youtube} alt="youtube" style={{ width: "1em", height: "1em" }} />
-                </a>
-                <br />
-                <br />
-                名大
-                <a title="twitter" href="https://twitter.com/NagoyaUniv_info">
+                <a title="twitter" href="https://twitter.com/NagoyaUniv_ilas">
                   <img className="fas fa-lg" src={twitter} alt="Twitter" style={{ width: "1em", height: "1em" }} />
                 </a>
                 <a title="youtube" href="https://www.youtube.com/user/NagoyaUniversityPR">
