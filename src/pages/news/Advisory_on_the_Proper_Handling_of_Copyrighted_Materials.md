@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 著作物の適切な管理等について（注意喚起） Advisory on the Proper Handling of Copyrighted Materials
 date: 2022-06-01T05:05:31.133Z
-description: 名古屋大学
+description: 著作物の適切な管理等について
 tags:
  - G30
 ---
