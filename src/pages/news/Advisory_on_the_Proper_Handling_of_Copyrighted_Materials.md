@@ -4,7 +4,7 @@ title: 著作物の適切な管理等について（注意喚起） Advisory on 
 date: 2022-06-01T05:05:31.133Z
 description: 著作物の適切な管理等について
 tags:
- - G30
+ - 遠隔授業
 ---
 <!--StartFragment-->
 
