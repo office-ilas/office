@@ -20,8 +20,6 @@ tags:
 
 [アクセスポイント一覧](https://nuss.nagoya-u.ac.jp/s/dymQBzDdn2RmF3x)
 
-[7月23日(土)の教室使用状況（アクセスポイントは服部ホールをご利用ください）](https://nuss.nagoya-u.ac.jp/s/LoyHRxesEQJKd9x)
-
 **以下の自習スペースも利用可能です。**\
 ・全学教育棟本館１階　服部ホール\
 ・全学教育棟本館２階　ラウンジ
