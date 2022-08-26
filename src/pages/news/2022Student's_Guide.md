@@ -26,7 +26,7 @@ tags:
 ・[Ⅷ 自然災害等に伴う授業及び学期末試験の取扱い](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022Student's_Guide/08-Handling_of_classes_and_exams_due_to_disasters.pdf)  
 ・[Ⅸ 学生への情報連絡の手段等](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022Student's_Guide/09-Means_for_information_to_students.pdf)  
 ・[Ⅹ 学部・学科別授業科目区分ごとの履修基準一覧（2022 年度入学生用）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022Student's_Guide/10-List_of_course_criteria_for_each_faculty_for_students_enrolled_in_2022.pdf)  
-<font color="red">【2022.5.26情報学部について訂正】</font>  
+<font color="red">【2022.5.26情報学部について訂正】【2022.8.法学部について訂正】</font>  
 ・[XI 各授業科目及び履修に関する注意事項](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022Student's_Guide/11-Notes_on_each_course.pdf)  
 ・[XII 関係資料（全学教育科目規程）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022Student's_Guide/12-1-Related_materials_regulations_for_LAS_courses.pdf)  
 ・[全学教育棟配置図](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022Student's_Guide/12-2-Lecture_room_layout_such_as_the_ILAS_building.pdf)  
@@ -52,6 +52,8 @@ p.42　情報学部（コンピュータ科学科）　自然系基礎科目の�
 【正】①　微分積分学Ⅰ・Ⅱ，線形代数学Ⅰ・Ⅱ，物理学基礎Ⅰ・Ⅱ，物理学実験を含む　　計<font color="red">14単位</font>を修得すること。  
 2022.6.3　XI 各授業科目及び履修に関する注意事項  
 p.102　国際理解科目の履修対象年次を修正（赤字部分）  
+2022.8.26　Ⅹ 学部・学科別授業科目区分ごとの履修基準一覧（2022 年度入学生用）  
+p.34　法学部（人間・社会情報学科）　学部便覧に合わせた文言変更  
 
 
 <!--EndFragment-->
