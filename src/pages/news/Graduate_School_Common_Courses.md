@@ -75,6 +75,6 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 ・2022年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2022-spring-Course_Registration_Procedures.pdf)　秋学期（Fall） 
 
 **授業実施方法／Teaching Methods**  
-・2022年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/09_2022-spring-Teaching_Methods.pdf)　[秋学期（Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/19_2022-fall-Teaching_Methods.pdf)
+・2022年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/09_2022-spring-Teaching_Methods.pdf)　[秋学期（Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/19_2022_fall_Teaching_Methods.pdf)
 
 <!--EndFragment-->
