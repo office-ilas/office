@@ -43,7 +43,7 @@ The primary objective is to cultivate globally competent researchers and profess
 
 「大学院共通科目一覧」をクリックして下さい。2022年度名古屋大学大学院共通科目授業案内が表示されます。  
 
-<font color="red">（「体験型講義エンプロイアビリティ」の開講時期が春学期に変更になりました（4/7掲載）。）</font>  
+ 
 
 Please click “List of Nagoya University Graduate School Common Courses”. Nagoya University Graduate School Common Courses Course Information Academic Year 2022 will be displayed.  
 
