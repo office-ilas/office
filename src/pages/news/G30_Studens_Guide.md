@@ -1,0 +1,66 @@
+---
+templateKey: blog-post
+title: 【Spring Semester AY2022】Course Registration for G30 International Program Students
+date: 2022-06-01T05:05:31.133Z
+description: Course Registration for G30 International Program Students
+tags:
+ - G30
+ - 履修
+---
+<!--StartFragment-->
+
+
+**Table of Contents**
+
+・[Course Registration Periods](#1)  
+・[Timetable](#2)  
+・[Syllabus](#3)  
+・[Course Registration Procedures](#4)  
+
+International Program Students can register for the Liberal Arts and Sciences courses during the designated periods via Nagoya University Portal.  
+*URL: https://portal.nagoya-u.ac.jp
+
+For Implementation Policy for Spring AY2022, please refer to [this page](https://office.ilas.nagoya-u.ac.jp/files/kyoki/G30/01_Spring2022_G30-Timetable-Class_Implementation_Method-HP.pdf) .    
+
+
+<a id="1"></a>
+##  **Course Registration Periods:**
+
+・For first year students  
+　March 18 (Fri) 9:00 – March 28 (Mon) 12:00, 2022  
+　April 3 (Sun) 13:00 – April 4 (Mon) 18:00, 2022  
+
+・For second year students and above  
+　March 18 (Fri) 9:00 – March 28 (Mon) 12:00, 2022  
+　April 2 (Sat) 9:00 – April 3 (Sun) 12:30, 2022  
+　April 4 (Mon) 18:30 – April 5 (Tue) 11:00, 2022  
+
+
+**Refer to the following materials for registration:**  
+
+<a id="2"></a>
+##  【Timetable】  
+・[Timetable A](https://office.ilas.nagoya-u.ac.jp/files/kyoki/G30/02_Spring2022_TimetableAHP.pdf)  
+・[Timetable B](https://office.ilas.nagoya-u.ac.jp/files/kyoki/G30/03_Spring2022_G30-Timetable-B-HP.pdf) <font color="red"> (Updated on May 27. The revised parts are written in red.)</font>  
+・[Course Implementation Policy](https://office.ilas.nagoya-u.ac.jp/files/kyoki/G30/01_Spring2022_G30-Timetable-Class_Implementation_Method-HP.pdf) （Timetable with information on the methods of conducting classes) <font color="red">(Updated on June 1st. The revised parts are written in red.)</font>  
+
+<a id="3"></a>
+##  【Syllabus】  
+・[Precautions for Syllabus](https://office.ilas.nagoya-u.ac.jp/files/kyoki/G30/04_Precautions-for-Course-Registration.pdf)　　
+・[Syllabus Term G-II](https://office.ilas.nagoya-u.ac.jp/files/kyoki/G30/05_Syllabus-Term-G-II_AY2022.pdf)  
+・[Syllabus Term G-IV](https://office.ilas.nagoya-u.ac.jp/files/kyoki/G30/06_Syllabus-Term-G-IV_AY2022.pdf)  
+
+<a id="4"></a>
+##  【Course Registration Procedures】  
+・[Course Registration Procedures](https://office.ilas.nagoya-u.ac.jp/files/kyoki/G30/07_2022_Spring_G30_Course-Registration-Procedures.pdf)    <font color="red">(Updated on March 19. There is a revision on p11 about registration procedure for Information Literacy. The revised parts are written in red.)
+</font>  
+ 
+ー Course Registration Guide ー  
+・[Course Registration Guide – part 1](https://office.ilas.nagoya-u.ac.jp/files/kyoki/G30/08_AY_2021_Liberal_Arts_and_Sciences_Course_Registration_Guide_for_International_Programs_Students_01_revised0921.pdf) <font color="red"> (The contents are applicable to the international programs for Spring AY2022 .)</font>    
+・[Course Registration Guide – part 2](https://office.ilas.nagoya-u.ac.jp/files/kyoki/G30/09_AY_2021_Liberal_Arts_and_Sciences_Course_Registration_Guide_for_International_Programs_Students_02_revised0921.pdf) <font color="red">(The contents are applicable to the international programs for Spring AY2022 .)</font>  
+・[Academic Schedule for Liberal Arts and Sciences (Spring Semester, AY2022)](https://office.ilas.nagoya-u.ac.jp/wp-content/uploads/2022/03/AY2022Academic-Schedule_SpringAY2022.pdf)  
+
+Uploaded on March 15.
+
+
+<!--EndFragment-->
