@@ -39,7 +39,7 @@ The primary objective is to cultivate globally competent researchers and profess
 
 
 <a id="3"></a>
-##  [**大学院共通科目一覧／List of Nagoya University Graduate School Common Courses**](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/01_2022_List_of_Graduate_School_Common_Courses20220407_compressed.pdf)
+##  [**大学院共通科目一覧／List of Nagoya University Graduate School Common Courses**](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/11_2022_List_of_Graduate_School_Common_Courses.pdf)
 
 「大学院共通科目一覧」をクリックして下さい。2022年度名古屋大学大学院共通科目授業案内が表示されます。  
 
@@ -72,7 +72,7 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 
 <a id="6"></a>
 ##  **履修登録の手続き／Course Registration Procedures**  
-・2022年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2022-spring-Course_Registration_Procedures.pdf)　秋学期（Fall） 
+・2022年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2022-spring-Course_Registration_Procedures.pdf)　[秋学期（Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/18_2022_fall_Course_Registration_Procedures.pdf) 
 
 **授業実施方法／Teaching Methods**  
 ・2022年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/09_2022-spring-Teaching_Methods.pdf)　[秋学期（Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/19_2022_fall_Teaching_Methods.pdf)
