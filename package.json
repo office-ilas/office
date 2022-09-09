@@ -22,12 +22,13 @@
     "gatsby-source-filesystem": "^4.22.0",
     "gatsby-transformer-remark": "^5.22.0",
     "gatsby-transformer-sharp": "^4.22.0",
+    "graphql": "^15.4.0",
     "lodash": "^4.17.21",
     "lodash-webpack-plugin": "^0.11.6",
     "netlify-cms-app": "^2.15.72",
     "netlify-cms-media-library-cloudinary": "^1.3.10",
     "netlify-cms-media-library-uploadcare": "^0.5.10",
-    "prop-types": "^15.7.2",
+    "prop-types": "^15.8.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0",
@@ -49,9 +50,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^2.2.1",
+    "prettier": "^2.7.1",
     "sass": "1.32.13",
-    "webpack": "^5.37.0"
+    "webpack": "^5.24.2"
   },
   "resolutions": {
     "graphql": "^15.4.0",
