@@ -24,6 +24,8 @@ jobs:
           node-version: 16.x
       - run: yarn install
       - run: yarn build
+        env:
+        GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}
 
       # rsync 
       - name: rsync deployments to hlc1

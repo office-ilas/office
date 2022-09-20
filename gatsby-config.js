@@ -1,8 +1,4 @@
 module.exports = {
-  // flags: {
-  //   DEV_SSR: true
-  // },
-  // pathPrefix: `~yamazato`,　//チェック用
   siteMetadata: {
     title: "ILAS OFFICE",
     description: "ILAS OFFICE in Nagoya University.",
@@ -12,6 +8,17 @@ module.exports = {
     }
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          `${process.env.GOOGLE_ANALYTICS_ID}`,
+           ],
+        pluginConfig: {
+          head: true,
+        },
+      },
+    },
     `gatsby-plugin-image`,
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support

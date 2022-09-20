@@ -8,6 +8,7 @@
     "gatsby": "^4.22.1",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-google-analytics": "^4.22.0",
+    "gatsby-plugin-google-gtag": "^4.23.0",
     "gatsby-plugin-image": "^2.22.0",
     "gatsby-plugin-netlify": "^5.0.1",
     "gatsby-plugin-netlify-cms": "^6.22.0",
