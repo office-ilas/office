@@ -9,7 +9,7 @@ tags:
   - サークル
 ---
 <!--StartFragment-->
-
+　
 講義室の利用には，①利用者登録（初回のみ）と②予約申請（貸出の都度）が必要です。初めての方は[利用者登録](https://docs.google.com/forms/d/e/1FAIpQLSeBpICVKsOtzX1b_gJfCtMAr5-TxL2o_aV1535QVmxfysKa5A/viewform?vc=0&c=0&w=1&flr=0)からお願いします。
 
 ## **＜お知らせ＞**
