@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: 教養教育院アクセスポイント/ ILAS Remote Learning Spaces
-date: 2021-12-27T06:22:39.896Z
-description: 全学教育棟では2022年4月11日，アクセスポイントを開設しました。
+date: 2022-09-28T06:22:39.896Z
+description: 全学教育棟秋学期アクセスポイントの開設
 #featuredimage: /img/cat-onlinelecture.png
 tags:
  - 講義室
@@ -11,15 +11,22 @@ tags:
  - 施設
  - サークル
 ---
-2022年4月11日から，下記の通りアクセスポイントを開設します。
+2022年10月3日からのアクセスポイント開設のお知らせです。
 
 <font color="red">言語系科目（英語・初修外国語）・基礎セミナー</font>については，科目ごとに割り当てられたアクセスポイントがあり、受講生専用となります。<font color="red">その他の科目</font>は、その他のアクセスポイントを利用してください。
 
-<font color="red">学内Wi-Fiの使用方法</font>は[情報連携推進本部のホームページ](http://icts.nagoya-u.ac.jp/ja/services/nuwnet/)を確認してください。初回は利用者登録が必要ですので<font color="red">事前に済ませてください</font>。
+<font color="red">学内Wi-Fiの使用方法</font>は[情報連携推進本部のホームページ］(http://icts.nagoya-u.ac.jp/ja/services/nuwnet/)を確認してください。初回は利用者登録が必要ですので<font color="red">事前に済ませてください</font>。
 
 ## **教養教育院アクセスポイント/ All ILAS Courses**
 
-[アクセスポイント一覧] <font color="red">※秋学期授業開始まで開室はありません。図書館や各学部の自習スペースを活用ください。</font>
+[アクセスポイント一覧] 
+
+[月曜日](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/monday.pdf)\
+[火曜日](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/tuesday.pdf)\
+[水曜日](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/wednesday.pdf)\
+[木曜日](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/thursday.pdf)\
+[金曜日](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/friday.pdf)
+
 
 **以下の自習スペースも利用可能です。**\
 ・全学教育棟本館１階　服部ホール\
@@ -35,7 +42,7 @@ A21,A31
 
 ## **言語科目・基礎セミナー専用/ Languages Classes**
 
-[時間割B表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/03_0425-2022-spring_course_time_table_B.pdf)に記載します。
+[時間割B表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022-COURSE-TIME-TABLE/03_0908-2022-fall_course_time_table_B.pdf)を確認ください。
 
 
 ## **教養教育院アクセスポイントの利用について**
