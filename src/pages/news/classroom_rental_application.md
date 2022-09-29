@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: （学生向け）全学教育棟講義室貸出について
-date: 2022-09-26T06:18:23.073Z
+date: 2022-09-26T06:18:24.073Z
 description: 全学教育棟講義室の利用には，利用者登録（初回のみ）と予約申請（貸出の都度）が必要です。
 tags:
   - 履修
@@ -33,7 +33,7 @@ tags:
 ## **＜講義室予約状況確認表＞**
 
 \
- **[予約状況確認表](https://nuss.nagoya-u.ac.jp/s/ezBKmxGrBW5j6zj)**
+ **[予約状況確認表](https://nuss.nagoya-u.ac.jp/s/rJXMi22gL2BsKNn)**
 
 \
 ※予約が希望通り取れた場合は、２営業日以内に予約状況確認表に反映される。\
