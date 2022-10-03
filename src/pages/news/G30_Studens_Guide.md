@@ -15,7 +15,7 @@ tags:
 ・[Schedule](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/2_Schedule_Fall2022.pdf)  
 ・[Academic Calender](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/2-2_Academic_Calendar_for_AY2022.pdf)  
 ・[Liberal Arts and Sciences Courses Registration Guide](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/3_Liberal_Arts_and_Sciences_Course_Registration_Guide_for_G30_Program_Students.pdf)  
-・[Graduation Requirements for Each Program](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/4_Graduation_Requirements_for_Each_Program.pdf)  
+・[Graduation Requirements for Each Program](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/4_Graduation_Requirements_for_Each_Program(Eco_revised).pdf)  <font color=“red”>Required Credits List for Eco Students(p22) is revised in Oct.3</font>\
 ・[Liberal Arts and Sciences Main Building](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/5_1Liberal_Arts_and_Sciences_Main_Building.pdf)  
 ・[Libeal Arts and Sciences Building A](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/5_2Liberal_Arts_and_Sciences_Building_A.pdf)  
 ・[Exercise Facility Map](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/5_3Exercise_Facility_Map_eng.pdf)  
@@ -26,7 +26,7 @@ tags:
 
  
 〇AY2022 Liberal Arts and Sciences Course Students' Guide for G30【Combined】（The same contents as the above）  
-[・ALL](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/AY2022_Liberal_Arts_and_Sciences_Course_Registration_Guide_for_International_Programs_Students.pdf)  
+[・ALL](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/7_2022_Students_Guide(Cover_revised).pdf) <font color=“red”>Required Credits List for Eco Students(p22) is revised in Oct.3</font> 
 
 
 〇AY2021 Liberal Arts and Sciences Course Students' Guide for G30【for References】
