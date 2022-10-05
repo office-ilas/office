@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 教養教育院アクセスポイント/ ILAS Remote Learning Spaces
-date: 2022-09-28T06:22:39.896Z
+date: 2022-09-28T06:22:40.896Z
 description: 全学教育棟秋学期アクセスポイントの開設
 #featuredimage: /img/cat-onlinelecture.png
 tags:
@@ -13,9 +13,10 @@ tags:
 ---
 2022年10月3日からのアクセスポイント開設のお知らせです。
 
-<font color="red">言語系科目（英語・初修外国語）・基礎セミナー</font>については，科目ごとに割り当てられたアクセスポイントがあり、受講生専用となります。<font color="red">その他の科目</font>は、その他のアクセスポイントを利用してください。
+<font color="red">言語系科目（英語・初修外国語）・基礎セミナー</font>については，科目ごとに割り当てられたアクセスポイントがあり、受講生専用となります。\
+<font color="red">その他の科目</font>は、その他のアクセスポイントを利用してください。
 
-<font color="red">学内Wi-Fiの使用方法</font>は[情報連携推進本部のホームページ］(http://icts.nagoya-u.ac.jp/ja/services/nuwnet/)を確認してください。初回は利用者登録が必要ですので<font color="red">事前に済ませてください</font>。
+<font color="red">学内Wi-Fiの使用方法</font>は[情報連携推進本部のホームページ](http://icts.nagoya-u.ac.jp/ja/services/nuwnet/)を確認してください。初回は利用者登録が必要ですので<font color="red">事前に済ませてください</font>。
 
 ## **教養教育院アクセスポイント/ All ILAS Courses**
 
