@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 【重要】2022年度全学教育科目履修の手引 STUDENTS’ GUIDE
-date: 2022-06-01T05:05:31.133Z
+date: 2022-11-04T05:05:31.133Z
 description: 2022年度全学教育科目履修の手引 STUDENTS’ GUIDE
 tags:
  - 履修
@@ -28,6 +28,7 @@ tags:
 ・[Ⅹ 学部・学科別授業科目区分ごとの履修基準一覧（2022 年度入学生用）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022Student's_Guide/10-List_of_course_criteria_for_each_faculty_for_students_enrolled_in_2022.pdf)  
 <font color="red">【2022.5.26情報学部について訂正】【2022.8.法学部について訂正】</font>  
 ・[XI 各授業科目及び履修に関する注意事項](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022Student's_Guide/11-Notes_on_each_course.pdf)  
+<font color="red">【2022.11.4自然系基礎科目について訂正】</font> 
 ・[XII 関係資料（全学教育科目規程）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022Student's_Guide/12-1-Related_materials_regulations_for_LAS_courses.pdf)  
 ・[全学教育棟配置図](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022Student's_Guide/12-2-Lecture_room_layout_such_as_the_ILAS_building.pdf)  
 ・[地震対応マニュアル](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022Student's_Guide/12-3.ILAS_Earthquake_Response_Manual.pdf)  
@@ -54,6 +55,8 @@ p.42　情報学部（コンピュータ科学科）　自然系基礎科目の�
 p.102　国際理解科目の履修対象年次を修正（赤字部分）  
 2022.8.26　Ⅹ 学部・学科別授業科目区分ごとの履修基準一覧（2022 年度入学生用）  
 p.34　法学部（人間・社会情報学科）　学部便覧に合わせた文言変更  
-
+2022.11.4　XI 各授業科目及び履修に関する注意事項
+P.109　自然系基礎科目「化学基礎II」の対象学部に医学部を追加
+P.109　自然系基礎科目「化学実験」の対象学部に医学部（医）を追加
 
 <!--EndFragment-->
