@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title:2022年度秋学期の授業日程／Regarding course schedule (Fall semester AY2022)
-date: 2022-11-07T05:05:31.133Z
+title: 2022年度秋学期の授業日程／Regarding course schedule (Fall semester AY2022)
+date: 2022-11-07T06:05:31.133Z
 description: 2022年度秋学期の授業日程／Regarding course schedule (Fall semester AY2022)
 tags:
  - 履修
