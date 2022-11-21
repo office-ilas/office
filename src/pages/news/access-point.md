@@ -22,8 +22,6 @@ tags:
 
 **【アクセスポイント一覧】**
 
-11/19(土)は対面授業のみでアクセスポイントの開放はありません。指定の教室で受講してください。
-
 [月曜日](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/monday.pdf)\
 [火曜日](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/tuesday.pdf)\
 [水曜日](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/wednesday.pdf)\
