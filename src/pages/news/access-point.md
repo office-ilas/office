@@ -26,9 +26,10 @@ tags:
 [火曜日](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/tuesday.pdf)\
 [水曜日](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/wednesday.pdf)\
 [木曜日](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/thursday.pdf)\
-[金曜日](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/friday.pdf)
-
-
+[金曜日](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/friday.pdf)\
+\
+※【金曜日】サブラボは終日閉室します。センターラボ（全学教育棟A館1階 A11講義室）をご利用ください。\
+\
 **以下の自習スペースも利用可能です。**\
 ・全学教育棟本館１階　服部ホール\
 ・全学教育棟本館２階　ラウンジ
