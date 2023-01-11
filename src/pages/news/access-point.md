@@ -21,8 +21,7 @@ tags:
 ## **教養教育院アクセスポイント/ All ILAS Courses**
 
 **【アクセスポイント一覧】**
-\
-<font color="red">※1月10日（火）は金曜開講授業日です。アクセスポイントは金曜日をご確認ください。
+
 \
 [月曜日](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/monday.pdf)\
 [火曜日](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/tuesday.pdf)\
