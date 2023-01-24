@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 教養教育院アクセスポイント/ ILAS Remote Learning Spaces
-date: 2022-09-28T06:30:40.896Z
+date: 2022-09-28T06:35:40.896Z
 description: 全学教育棟秋学期アクセスポイントの開設
 #featuredimage: /img/cat-onlinelecture.png
 tags:
@@ -20,7 +20,7 @@ tags:
 
 ## **教養教育院アクセスポイント/ All ILAS Courses**
 
-【試験・授業期間（1月26日（木）～2月8日（水））のアクセスポイント一覧】
+**【試験・授業期間（1月26日（木）～2月8日（水））のアクセスポイント一覧】**
 
 [1月26日（木）～2月1日（水）](https://office.ilas.nagoya-u.ac.jp/files/kyoka/Remote_Learning_Spaces/1st_week_access_point.pdf)
 
