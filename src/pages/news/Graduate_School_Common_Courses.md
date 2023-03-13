@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 大学院共通科目/Graduate School Common Courses
-date: 2022-06-05T05:05:31.133Z
+date: 2023-03-13T05:05:31.133Z
 description: 大学院共通科目/Graduate School Common Courses
 tags:
  - 履修
@@ -41,11 +41,11 @@ The primary objective is to cultivate globally competent researchers and profess
 
 \
 <a id="3"></a>
-##  [**大学院共通科目授業案内／Nagoya University Graduate School Common Courses Information**](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/10_2022_Graduate_School_Common_Courses_Information.pdf)
+##  [**大学院共通科目授業案内／Nagoya University Graduate School Common Courses Information**](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/10_2023_Graduate_School_Common_Courses_Information.pdf)
 
 \
 <a id="4"></a>
-##  [**大学院共通科目一覧／List of Nagoya University Graduate School Common Courses**](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/11_2022_List_of_Graduate_School_Common_Courses.pdf)
+##  [**大学院共通科目一覧／List of Nagoya University Graduate School Common Courses**](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/11_2023_List_of_Graduate_School_Common_Courses.pdf)
 
 コースナンバリング・コードの意味は[こちら](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/02_Course-Numbering-Code-for-Nagoya-University-Graduate-School-Courses-ja.pdf)をご覧下さい。  
 Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/03_Course-Numbering-Code-for-Nagoya-University-Graduate-School-Courses.pdf) to view the configuration of code for course numbering.  
@@ -54,10 +54,7 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 <a id="5"></a>
 ##  **履修登録の手続き／Course Registration Procedures**  
 ---
- 2022年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2022-spring-Course_Registration_Procedures.pdf)　[秋学期（Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/18_2022_fall_Course_Registration_Procedures.pdf) 
-
- **<授業実施方法／Teaching Methods>**  
-2022年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/09_2022-spring-Teaching_Methods.pdf)　[秋学期（Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/19_2022_fall_Teaching_Methods.pdf)
+ 2023年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2023_spring_Course_Registration_Procedures.pdf)
 
 \
 <a id="6"></a>
@@ -71,9 +68,7 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 *Syllabus (Full version) is available from Nagoya University Portal.  
 　Nagoya University Portal → Student Affairs “Course registration and grading” → Syllabus “Search Syllabus” </font>  
 
- 2022年度　[春学期シラバス（Syllabus Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2022-spring-syllabus.pdf)［簡易版Simplified Version］\
- 2022年度　[秋学期シラバス（Syllabus Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/14_2022_fall_syllabus.pdf)［簡易版Simplified Version］   
-
+ 2023年度[春学期シラバス（Syllabus Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2023_spring-syllabus.pdf)［簡易版Simplified Version］\
 
 
 
@@ -88,8 +83,13 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 ---
 <a id="5"></a>
 ##  **参考　For Reference**
-[2021年度大学院共通科目授業案内 AY2021Nagoya University Graduate School Common Courses Information](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/05_2021List_of_Graduate_School_Common_Courses_20210922_compressed.pdf)
-\
+2022年度　[春学期シラバス（Syllabus Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2022-spring-syllabus.pdf)［簡易版Simplified Version］\
+2022年度　[秋学期シラバス（Syllabus Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/14_2022_fall_syllabus.pdf)［簡易版Simplified Version］   
+
+<a id="3"></a>
+## 2022年度 [**大学院共通科目授業案内／Nagoya University Graduate School Common Courses Information**](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/10_2022_Graduate_School_Common_Courses_Information.pdf)
+
+
 2021年度春学期シラバス簡易版AY2021Syllabus Spring[Simplified Version][1/2](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/06_2021-spring-syllabus-01.pdf) ,[2/2](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/07_2021-spring-syllabus-02.pdf)　\
 [2021年度秋学期シラバス簡易版  AY2021Syllabus Fall [Simplified Version]](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/2021-fall-syllabus.pdf)
 
