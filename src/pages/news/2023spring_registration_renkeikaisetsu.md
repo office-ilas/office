@@ -15,7 +15,7 @@ tags:
 両大学の強みのある地域連携や国際関係分野の科目を共有し質の高い教育を目指します。\
 学生の皆さんは、自大学以外で開講される連携開設科目も自大学の科目として受講可能となります。\
 全学教育科目の岐阜大学連携開設科目を履修する場合は、以下に注意し履修登録、受講をして下さい。\
-[令和 5 年度（2023 年度）春学期岐阜大学連携開設科目一覧](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023spring_registration_renkeikaisetsu/2023spring_renkeikaisetsu_courese_list_and_spring_schedule)\
+[令和 5 年度（2023 年度）春学期岐阜大学連携開設科目一覧](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023spring_registration_renkeikaisetsu/2023spring_renkeikaisetsu_courese_list_and_spring_schedule.pdf)\
 
   
 ### **1.履修の条件等について** 
@@ -31,7 +31,7 @@ tags:
 ### **3.受講について**
 岐阜大学の授業日程で受講することになりますが、名古屋大学の授業日と重なる場合は、名古屋大学の授業に出席し、岐阜大学連携開設科目については授業担当教員の指示に従ってください。
 両大学の授業日は、
-[令和 5 年度（2023 年度）前・春学期授業開講日](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023spring_registration_renkeikaisetsu/2023spring_renkeikaisetsu_courese_list_and_spring_schedule)を参照してください。 
+[令和 5 年度（2023 年度）前・春学期授業開講日](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023spring_registration_renkeikaisetsu/2023spring_renkeikaisetsu_courese_list_and_spring_schedule.pdf)を参照してください。 
 
 
 ### **4.履修取り下げ(岐阜大学における履修取消)について**
