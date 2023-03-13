@@ -15,7 +15,7 @@ tags:
 両大学の強みのある地域連携や国際関係分野の科目を共有し質の高い教育を目指します。\
 学生の皆さんは、自大学以外で開講される連携開設科目も自大学の科目として受講可能となります。\
 全学教育科目の岐阜大学連携開設科目を履修する場合は、以下に注意し履修登録、受講をして下さい。\
-[令和 5 年度（2023 年度）春学期岐阜大学連携開設科目一覧]((https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023spring_registration_renkeikaisetsu/2023spring_renkeikaisetsu_courese_list_and_spring_schedule)\)
+[令和 5 年度（2023 年度）春学期岐阜大学連携開設科目一覧](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023spring_registration_renkeikaisetsu/2023spring_renkeikaisetsu_courese_list_and_spring_schedule)\
 
   
 ### **1.履修の条件等について** 
@@ -25,7 +25,7 @@ tags:
 
 ### **2.履修登録について**
  履修登録期間に名大ポータルから、他の全学教育科目とともに履修登録を行ってください。『履修登録』入力期間（4月5日（水）11:00迄）に履修登録を行ってください。『履修登録の修正（追加・削除）』入力期間には、履修登録は出来ません。\
-　科目ごとに定員を設けております。定員を超えた場合は抽選処理が行われます。\
+　科目ごとに定員を設けております。定員を超えた場合は抽選処理が行われます。
   
  
 ### **3.受講について**
@@ -59,10 +59,10 @@ LMS は 2023 年度から東海国立大学機構で統一され、これまで�
 ・[アントレプレナーシップ入門](https://syllabus.adm.nagoya-u.ac.jp/data/2023/00_2023_W22000032301.html)\
 ・[岐阜の自然と人：森，川，湿地の利用とその保全](https://syllabus.adm.nagoya-u.ac.jp/data/2023/00_2023_W22000033201.html)\
 ・[現代社会とボランティア・地域活動](https://syllabus.adm.nagoya-u.ac.jp/data/2023/00_2023_W22000033301.html)\
-・[高年次教養セミナーI（集中：5回/135分）](https://syllabus.adm.nagoya-u.ac.jp/data/2023/00_2023_W23000030014.html)\
+・[高年次教養セミナーI（集中：5回/135分）](https://syllabus.adm.nagoya-u.ac.jp/data/2023/00_2023_W23000030014.html)
 
 
-**問い合わせ先**
+###**問い合わせ先**
 　 kyoikuin (at) adm.nagoya-u.ac.jp\
    (at)を@へ置き換えてください。
 
