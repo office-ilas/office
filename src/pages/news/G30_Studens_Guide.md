@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 【Fall Semester AY2022】Students' Guide for G30 Students
+title: 【For Students enrolled in AY2022】Students' Guide for G30 Students
 date: 2022-09-08T05:05:31.133Z
 description: Course Registration for G30  Students
 tags:
