@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 【重要】2023年度全学教育科目履修の手引 STUDENTS’ GUIDE
-date: 2023-3-14T05:05:31.133Z
+date: 2023-3-14T06:05:31.133Z
 description: 2023年度全学教育科目履修の手引 STUDENTS’ GUIDE
 tags:
  - 履修
@@ -33,7 +33,7 @@ tags:
 ・[キャンパスマップ(東山）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2023Student's_Guide/12_4_back_cover_Nagoya_University_Higashiyama_district_layout.pdf)  
 
  
-〇2023年度全学教育科目履修の手引【連結】（内容は上記と同様です）
+〇2023年度全学教育科目履修の手引【連結】（内容は上記と同様です）\
 [2023年度全学教育科目履修の手引 全編](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2023Student's_Guide/2023_Student's_Guide.pdf)   
 [2023年度全学教育科目履修の手引　1/2](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2023Student's_Guide/2023_Student's_Guide_1.pdf)  
 [2023年度全学教育科目履修の手引　2/2](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2023Student's_Guide/2023_Student's_Guide_2.pdf)  
