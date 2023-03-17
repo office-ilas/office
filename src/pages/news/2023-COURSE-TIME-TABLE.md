@@ -18,6 +18,7 @@ tags:
 [授業時間割B表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2023-COURSE-TIME-TABLE/03_0313-2023-course_time_table_B.pdf)  
 [2023年度基礎セミナーテーマ一覧](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2023-COURSE-TIME-TABLE/04_2023_First_Year_Seminar_Theme_List.pdf)  
 [行事予定表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2023-COURSE-TIME-TABLE/05_2023_event_schedule.pdf)  
+[2023年度学年暦](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2023-COURSE-TIME-TABLE/06_2023_academic_year_calendar_Japanese.pdf) 
 
 
 講義室配置図等（2023.3現在）  
@@ -32,6 +33,6 @@ tags:
 
 なお、授業時間割Ｂ表で、当初予定から 変更となった箇所は、 **赤字**で表示して更新しますので、最新状況を確認してください。
 
-<font color="red">※全学教育科目の履修手続きに関しては、[こちら](https://office-ilas.netlify.app/news/2023-spring_Precautions_regarding_course_procedures/)(※準備中)をご確認ください。</font>
+<font color="red">※全学教育科目の履修手続きに関しては、[こちら](https://office-ilas.netlify.app/news/2023-spring_Precautions_regarding_course_procedures/)をご確認ください。</font>
 
 <!--EndFragment-->
