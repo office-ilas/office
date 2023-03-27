@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 大学院共通科目/Graduate School Common Courses
-date: 2023-03-13T05:05:31.133Z
+date: 2023-03-14T05:05:31.133Z
 description: 大学院共通科目/Graduate School Common Courses
 tags:
  - 履修
@@ -41,7 +41,8 @@ The primary objective is to cultivate globally competent researchers and profess
 
 \
 <a id="3"></a>
-##  [**大学院共通科目授業案内／Nagoya University Graduate School Common Courses Information**](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/10_2023_Graduate_School_Common_Courses_Information.pdf)
+##  [**大学院共通科目授業案内／Nagoya University Graduate School Common Courses Information**](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/10_2023_Graduate_School_Common_Courses_Information.pdf)\
+## <font color="red">※体験型講義「マネジメント」の開講期が秋学期から春学期に変更になりました。履修登録は、4月2日から名大ポータルで可能です。（3月27日更新）</font> 
 
 \
 <a id="4"></a>
