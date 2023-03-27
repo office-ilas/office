@@ -15,7 +15,7 @@ tags:
 ## **■2023年度新入生向けガイダンス動画は[こちら](https://nuss.nagoya-u.ac.jp/s/bbMqnRDXQErfLec)**
 
 <a id="1"></a>
-## **■音声なしPDF版は[こちら](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023_Guidance_PDF)**
+## **■音声なしPDF版は[こちら](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023_Guidance_Video/2023_Guidance_PDF)**
 
 <a id="1"></a>
 ## **■関係資料**
