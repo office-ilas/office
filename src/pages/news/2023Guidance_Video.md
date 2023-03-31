@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 2023年度新入生向け　全学教育科目履修ガイダンス動画
-date: 2023-03-27T05:05:31.133Z
+date: 2023-03-27T05:06:31.133Z
 description: 履修関係
 tags:
  - 履修
@@ -12,7 +12,7 @@ tags:
 学部ガイダンスの説明に加え、この動画の説明も参照してください。
 
 <a id="1"></a>
-## **■2023年度新入生向けガイダンス動画は[こちら](https://nuss.nagoya-u.ac.jp/s/bbMqnRDXQErfLec)**
+## **■2023年度新入生向けガイダンス動画は[こちら](https://nuss.nagoya-u.ac.jp/s/bbMqnRDXQErfLec?dir=undefined&openfile=134597480)**
 
 <a id="1"></a>
 ## **■音声なしPDF版は[こちら](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023_Guidance_Video/2023_Guidance_PDF.pdf)**
