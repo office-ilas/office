@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 【重要】2022年度全学教育科目履修の手引 STUDENTS’ GUIDE
-date: 2022-11-04T05:06:31.133Z
+date: 2022-11-04T05:07:31.133Z
 description: 2022年度全学教育科目履修の手引 STUDENTS’ GUIDE
 tags:
  - 履修
@@ -33,6 +33,7 @@ tags:
 <font color="red">【2022.11.4自然系基礎科目について訂正】</font> \
 <font color="red">【2023.3.27自然系基礎科目について訂正】</font> \
 <font color="red">【2023.3.27初修外国語について訂正】</font> \
+<font color="red">【2023.3.31初修外国語について訂正】</font> \
 ・[XII 関係資料（全学教育科目規程）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022Student's_Guide/12-1-Related_materials_regulations_for_LAS_courses.pdf)  \
 ・[全学教育棟配置図](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022Student's_Guide/12-2-Lecture_room_layout_such_as_the_ILAS_building.pdf)  
 ・[地震対応マニュアル](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2022Student's_Guide/12-3.ILAS_Earthquake_Response_Manual.pdf)  
@@ -68,6 +69,8 @@ P.109　自然系基礎科目「地球科学基礎II」の対象学部に情報�
 2023.3.27 XI 各授業科目及び履修に関する注意事項\
 P.87　言語文化科目　初修外国語　⑤複数の初修外国語を履修したい場合の１）から経済学部を削除\
 2023.3.27　Ⅹ 学部・学科別授業科目区分ごとの履修基準一覧（2022 年度入学生用）\
-P.37　経済学部　〔言語文化科目の履修基準〕の2.初修外国語　"履修言語の変更が認められた場合は，変更後の言語の【初修外国語】基礎 1，基礎2，初級完成を履修することにより"から，「初級完成」を削除
+P.37　経済学部　〔言語文化科目の履修基準〕の2.初修外国語　"履修言語の変更が認められた場合は，変更後の言語の【初修外国語】基礎 1，基礎2，初級完成を履修することにより"から，「初級完成」を削除\
+2023.3.31 XI 各授業科目及び履修に関する注意事項\
+P.88 言語文化科目　初修外国語 ⑦ 再履修 読み替え可能な科目に関する表をわかりやすくするために更新
 
 <!--EndFragment-->
