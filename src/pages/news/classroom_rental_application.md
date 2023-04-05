@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: （学生向け）全学教育棟講義室貸出について
-date: 2023-04-03T06:18:30.073Z
+date: 2023-04-03T06:19:00.073Z
 description: 全学教育棟講義室の利用には，利用者登録（初回のみ）と予約申請（貸出の都度）が必要です。
 tags:
   - 施設
@@ -9,7 +9,7 @@ tags:
 ---
 <!--StartFragment-->
 
-講義室の利用には，①利用者登録（初回のみ）と②予約申請（貸出の都度）が必要です。初めての方は[利用者登録](https://docs.google.com/forms/d/e/1FAIpQLSeBpICVKsOtzX1b_gJfCtMAr5-TxL2o_aV1535QVmxfysKa5A/viewform?vc=0&c=0&w=1&flr=0)からお願いします。
+講義室の利用には，①利用者登録（初回のみ）と②予約申請（貸出の都度）が必要です。初めての方は[利用者登録](https://docs.google.com/forms/d/e/1FAIpQLSfWMEbj00bJb0g7gLkXA5nt9WSDtlvW9JeHygGM9fjY-hWD4A/viewform?usp=sf_link)からお願いします。
 
 ## **＜お知らせ＞**
 **・2023年度春学期の講義室貸出について** <font color="red">2023.4.3更新</font>\
@@ -20,7 +20,7 @@ tags:
 **・感染症予防対策申請書について** <font color="red">2023.4.3更新</font>\
 2022年度までは、利用者登録の際に、学生支援課に提出し承認済みの「感染症予防対策申請書」の\
 提出を必須としておりましたが、2023年4月以降は「感染症予防対策申請書」の提出は不要とします。\
-初めて講義室の予約を行う際には、[利用者登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeBpICVKsOtzX1b_gJfCtMAr5-TxL2o_aV1535QVmxfysKa5A/viewform?vc=0&c=0&w=1&flr=0)より利用者情報を入力し、利用者登録をしてください。\
+初めて講義室の予約を行う際には、[利用者登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfWMEbj00bJb0g7gLkXA5nt9WSDtlvW9JeHygGM9fjY-hWD4A/viewform?usp=sf_link)より利用者情報を入力し、利用者登録をしてください。\
 \
 **・全学教育棟A館講義室の土曜日貸出について** <font color="red">2023.4.3更新</font>\
 2023年度春学期については、下記の日程で、全学教育棟A館講義室の土曜日貸出を行います。\
@@ -93,7 +93,7 @@ tags:
 ## **＜予約申請方法＞**
 
 １．講義室の貸出許可を受けるには利用者登録が必要となる。\
-　　[利用者登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeBpICVKsOtzX1b_gJfCtMAr5-TxL2o_aV1535QVmxfysKa5A/viewform?vc=0&c=0&w=1&flr=0)より利用者情報を入力し，利用者登録をすること。\
+　　[利用者登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfWMEbj00bJb0g7gLkXA5nt9WSDtlvW9JeHygGM9fjY-hWD4A/viewform?usp=sf_link)より利用者情報を入力し，利用者登録をすること。\
 　　<del>登録フォーム送信の上，学生支援課に提出し承認済みの「感染症予防対策申請書」を教養教育院事務室宛\
 　　kyoikuin\[at]adm.nagoya-u.ac.jp にメールにて提出する。</del>\
 ２．5営業日以内に教養教育院事務室から利用者登録IDと共に登録が完了した通知を団体責任者のメールアドレスへ送信する。\
