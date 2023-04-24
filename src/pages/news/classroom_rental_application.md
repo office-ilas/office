@@ -40,7 +40,7 @@ tags:
 ## **＜講義室予約状況確認表＞**
 
 \
- **[予約状況確認表](https://nuss.nagoya-u.ac.jp/s/rJXMi22gL2BsKNn)**
+ **[予約状況確認表](https://nuss.nagoya-u.ac.jp/s/yYp4Fd7je8DXict)**
 
 \
 ※予約が希望通り取れた場合は，２営業日以内に予約状況確認表に反映される。\
