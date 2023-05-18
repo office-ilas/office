@@ -51,7 +51,7 @@ const Footer = class extends React.Component {
               </a>
               </div>
               <div className="column is-2">
-              <a href="http://meiwriting.ilas.nagoya-u.ac.jp/">
+              <a href="https://www.ilas.nagoya-u.ac.jp/Meiwriting_AWU/">
               <img src={meiwriting} alt="名古屋大学ライティングセンター"  /> 
               </a>
               </div>
