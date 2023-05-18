@@ -13,19 +13,19 @@ tags:
 
 
 ## **1. 開講科目とシラバス**
-**講座１　[化学実験で調べてみよう](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023summer_intensive_seminar.pdf)（[シラバス](https://syllabus.adm.nagoya-u.ac.jp/data/2023/00_2023_W12000010012.html)）** 定員5名\
+**講座１　[化学実験で調べてみよう](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023summer_intensive_seminar/2023summer_intensive_seminar.pdf)（[シラバス](https://syllabus.adm.nagoya-u.ac.jp/data/2023/00_2023_W12000010012.html)）** 定員5名\
 　　　　　※基礎セミナーとして単位認定\
 担当：珠玖　良昭（教養教育院）\
 開講日：8/7,8,9,10,21\
 開講場所：全学教育棟化学実験室，図書館
 
-**講座２　[物理実験で調べてみよう](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023summer_intensive_seminar.pdf)（[シラバス](https://syllabus.adm.nagoya-u.ac.jp/data/2023/00_2023_W12000010013.html)）** 定員5名\
+**講座２　[物理実験で調べてみよう](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023summer_intensive_seminar/2023summer_intensive_seminar.pdf)（[シラバス](https://syllabus.adm.nagoya-u.ac.jp/data/2023/00_2023_W12000010013.html)）** 定員5名\
 　　　　　※基礎セミナーとして単位認定\
 担当：井村　敬一郎（教養教育院）\
 開講日：8/7,8,9,10,21\
 開講場所：全学教育棟物理実験室
 
-**講座３　[時事問題で学ぶファシリテーション](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023summer_intensive_seminar.pdf)（[シラバス](https://syllabus.adm.nagoya-u.ac.jp/data/2023/00_2023_W12000010011.html)）** 定員5名\
+**講座３　[時事問題で学ぶファシリテーション](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023summer_intensive_seminar/2023summer_intensive_seminar.pdf)（[シラバス](https://syllabus.adm.nagoya-u.ac.jp/data/2023/00_2023_W12000010011.html)）** 定員5名\
 　　　　　※基礎セミナーとして単位認定\
 担当：児玉　英明\
 開講日：8/17,18,21,22,23\
