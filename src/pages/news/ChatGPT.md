@@ -3,8 +3,8 @@ templateKey: blog-post
 title: 全学教育科目における生成系AIの利用に際しての留意事項／Important notice regarding the use of the Generative AI for the Liberal Arts and Sciences courses 
 date: 2023-05-19T05:06:31.133Z
 description: 全学教育科目において生成系AIを利用する際の留意事項です。
-tags: - 履修
- - 
+tags:
+  - 履修
 ---
 <!--StartFragment-->
 (English version follows Japanese)
