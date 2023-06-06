@@ -24,23 +24,23 @@ const ForIlasPage = ({data})  => {
        }
 export default ForIlasPage
 
-export const query = graphql`
- query {
-  allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }, filter: { frontmatter: { templateKey
-    : { eq: "blog-post" } } }, limit:5) {
-                edges {
-                  node {
-                    id
-                    fields {
-                      slug
-                    }
-                    frontmatter {
-                      title
-                      date(formatString: "YYYY/MM/DD HH:MM")
-                    }
-                  }
-                }
-              }
-    
- }
- `
+export const query = graphql`{
+  allMarkdownRemark(
+    sort: {frontmatter: {date: DESC}}
+    filter: {frontmatter: {templateKey: {eq: "blog-post"}}}
+    limit: 5
+  ) {
+    edges {
+      node {
+        id
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+          date(formatString: "YYYY/MM/DD HH:MM")
+        }
+      }
+    }
+  }
+}`

@@ -59,33 +59,29 @@ BlogRoll.propTypes = {
 export default function BlogRollQuery() {
   return (
     <StaticQuery
-      query={graphql`
-        query {
-          allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }, filter: { frontmatter: { templateKey: { eq: "blog-post" } } }, limit:6) {
-            edges {
-              node {
-                excerpt(pruneLength: 100)
-                id
-                fields {
-                  slug
-                }
-                frontmatter {
-                  title
-                  templateKey
-                  date(formatString: "MMMM DD, YYYY")
-                  description
-                  ## featuredpost
-                  ## featuredimage {
-                  ##  childImageSharp {
-                  ##    gatsbyImageData(width: 240, quality: 100, layout: CONSTRAINED)
-                  ##  }
-                  ## }
-                }
-              }
-            }
-          }
+      query={graphql`{
+  allMarkdownRemark(
+    sort: {frontmatter: {date: DESC}}
+    filter: {frontmatter: {templateKey: {eq: "blog-post"}}}
+    limit: 6
+  ) {
+    edges {
+      node {
+        excerpt(pruneLength: 100)
+        id
+        fields {
+          slug
         }
-      `}
+        frontmatter {
+          title
+          templateKey
+          date(formatString: "MMMM DD, YYYY")
+          description
+        }
+      }
+    }
+  }
+}`}
       render={(data, count) => <BlogRoll data={data} count={count} />}
     />
   );
