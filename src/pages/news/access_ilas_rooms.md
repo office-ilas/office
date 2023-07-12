@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: 全学教育棟講義室へのアクセスについて
+title: 全学教育棟講義室等へのアクセスについて
 date: 2022-01-18T03:37:17.280Z
 description: |-
-  全学教育棟講義室へのアクセス方法を説明します。
+  全学教育棟東出入口からの各講義室へのアクセス方法です。
   This site introduces Access to ILAS Lecture Rooms.
 tags:
   - 履修
@@ -18,7 +18,7 @@ tags:
 
 ## １階 / １st Floor
 
-■　服部国際奨学財団ホール/ HISF Hall [(Map)](https://office.ilas.nagoya-u.ac.jp/files/ilas-map/map_HattoriHall.pdf)
+■　服部ホール/ HISF Hall [(Map)](https://office.ilas.nagoya-u.ac.jp/files/ilas-map/map_HattoriHall.pdf)
 
 ■　C10・C11・C12 [(Map)](https://office.ilas.nagoya-u.ac.jp/files/ilas-map/map_C10-12.pdf)
 
