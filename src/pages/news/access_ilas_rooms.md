@@ -26,9 +26,9 @@ tags:
 
 ■　S１X [(Map)](https://office.ilas.nagoya-u.ac.jp/files/ilas-map/map_S1X.pdf)
 
-■　S10・11 [(Map)](https://office.ilas.nagoya-u.ac.jp/files/ilas-map/map_S10-11.pdf)
+■　S10・S11 [(Map)](https://office.ilas.nagoya-u.ac.jp/files/ilas-map/map_S10-11.pdf)
 
-■　S12・S13・S14・S15・S16・S17・S18 [(Map)](https://office.ilas.nagoya-u.ac.jp/files/ilas-map/map_S12-18.pdf)
+■　S12・S13・S14・S15・S16・S17・S18・S19 [(Map)](https://office.ilas.nagoya-u.ac.jp/files/ilas-map/map_S12-19.pdf)
 
 ## ２階 / ２nd Floor
 
