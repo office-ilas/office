@@ -54,6 +54,8 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 <a id="5"></a>
 ##  **履修登録の手続き／Course Registration Procedures**  
 ---
+ 2023年度　[秋学期（Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2023_fall_Course_Registration_Procedures.pdf)
+ 
  2023年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2023_spring_Course_Registration_Procedures.pdf)
 
 \
