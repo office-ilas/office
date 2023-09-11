@@ -11,7 +11,7 @@ tags:
 
 2023年度秋学期の全学教育科目の履修登録は、以下のファイルをよく読んで行ってください。  
 
-[2023年度秋学期 履修手続きに関する注意事項](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023-Fall_Precautions_regarding_course_procedures/2023-Fall_Precautions_regarding_course_procedures.pdf) \
+[2023年度秋学期 履修手続きに関する注意事項](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2023-Fall_Precautions_regarding_course_procedures/2023-Fall_Precautions_regarding_course_procedures.pdf) 
 
 ※2021年度以前入学生がⅥ期以外の開講科目を履修する場合は、<font style="color:red">読み替え表</font>を必ず確認してください。  
 　読み替え表掲載箇所：  
