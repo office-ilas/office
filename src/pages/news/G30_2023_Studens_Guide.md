@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 【For Students enrolled in AY2022】Students' Guide for G30 Students
+title: 【For Students enrolled in AY2023】Students' Guide for G30 Students
 date: 2023-09-13
 description: Course Registration for G30  Students
 tags:
