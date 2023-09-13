@@ -23,9 +23,10 @@ tags:
 ・[Higashiyama Campus Map](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2023fall/5_5_Higashiyama_Campus_Map_eng.pdf)  
 ・[Major Earthquake Response Manual](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2023fall/6_Major_Earthquake_Response_Manual.pdf)  
 
-
+AY2023 Liberal Arts and Sciences Course Students' Guide for G30【Combined】（The same contents as the above）  
+[・ALL](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/7_2022_Students_Guide(Cover_revised).pdf)
  
-〇AY2022 Liberal Arts and Sciences Course Students' Guide for G30【Combined】（The same contents as the above）  
+〇AY2022 Liberal Arts and Sciences Course Students' Guide for G30【Combined】  
 [・ALL](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/7_2022_Students_Guide(Cover_revised).pdf)   
 
 
