@@ -48,6 +48,7 @@
     "netlify-build": "gatsby clean && gatsby build",
     "develop": "npm run clean && gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
+    "package update": "ncu -u && rm -rf node_modules yarn.lock && yarn install && yarn run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
