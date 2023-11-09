@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: TOEFL ITP及びCriteion試験の実施について
+title: TOEFL ITP及びCriterion試験の実施について
 date: 2023-11-09T05:05:31.133Z
 description: TOEFL ITP及びCriterion試験の実施について
 tags:
