@@ -17,7 +17,7 @@ tags:
 ・[Liberal Arts and Sciences Courses Registration Guide](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/3_Liberal_Arts_and_Sciences_Course_Registration_Guide_for_G30_Program_Students.pdf)  
 ・[Graduation Requirements for Each Program](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/4_Graduation_Requirements_for_Each_Program(Eco_revised).pdf)  <font color="red">Required Credits List for Eco Students(p22) is revised in Oct.3</font>\
 ・[Liberal Arts and Sciences Main Building](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/5_1Liberal_Arts_and_Sciences_Main_Building.pdf)  
-・[Libeal Arts and Sciences Building A](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/5_2Liberal_Arts_and_Sciences_Building_A.pdf)  
+・[Liberal Arts and Sciences Building A](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/5_2Liberal_Arts_and_Sciences_Building_A.pdf)  
 ・[Exercise Facility Map](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/5_3Exercise_Facility_Map_eng.pdf)  
 ・[Exercise Facilities](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/5_4Exercise_Facilities.pdf)  
 ・[Higashiyama Campus Map](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/5_5_Higashiyama_Campus_Map_eng.pdf)  
