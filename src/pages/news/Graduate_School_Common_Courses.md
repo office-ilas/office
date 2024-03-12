@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 大学院共通科目/Graduate School Common Courses
-date: 2024-03-12T18:00:00.000Z
+date: 2024-03-12T19:30:00.000Z
 description: 大学院共通科目/Graduate School Common Courses
 tags:
  - 履修
@@ -12,17 +12,16 @@ tags:
 <a id="0"></a>
 ## **目次／Table of Contents**
 ---
-・[名古屋大学大学院共通科目の編成・実施方針（カリキュラム・ポリシー)／](#1)[Curriculum Scheme and Policies of Nagoya University Graduate School Common Courses](#2)  
-・[大学院共通科目授業案内／Nagoya University Graduate School Common Courses Information](#3)  
-・[大学院共通科目一覧／List of Nagoya University Graduate School Common Courses](#4)  
-・[履修登録の手続き／Course Registration Procedures](#5)\
-・[授業案内（シラバス）／Course Information (Syllabus)](#6)  
-・[ライティングセンター「リサーチ・スキルズ」の案内 ／”Mei-Writing” Writing and Presentation Courses.](#7)  
+・[名古屋大学大学院共通科目の編成・実施方針（カリキュラム・ポリシー)／Curriculum Scheme and Policies of Nagoya University Graduate School Common Courses](#1)  
+・[大学院共通科目授業案内／Nagoya University Graduate School Common Courses Information](#2)  
+・[大学院共通科目一覧／List of Nagoya University Graduate School Common Courses](#3)  
+・[履修登録の手続き／Course Registration Procedures](#4)\
+・[授業案内（シラバス）／Course Information (Syllabus)](#5)  
+・[ライティングセンター「リサーチ・スキルズ」の案内 ／”Mei-Writing” Writing and Presentation Courses.](#6)  
 
 \
 <a id="1"></a>
 ##  **名古屋大学大学院共通科目の編成・実施方針（カリキュラム・ポリシー）／**
-<a id="2"></a>
 ##  **Curriculum Scheme and Policies of Nagoya University Graduate School Common Courses** 
 ---
 　学術研究者または高度職業人として国際的に活躍するための基盤となる,専門分野の枠組みを超えて共通な学力，資質・能力を涵養する。とくに,下記の４つのスキルの伸長を目標におき,カリキュラムを編成する。  
@@ -40,18 +39,18 @@ The primary objective is to cultivate globally competent researchers and profess
 (4)Collaboration：to communicate with and to lead a team of people from different academic, cultural, and language backgrounds.  
 
 \
-<a id="3"></a>
+<a id="2"></a>
 ##  [**大学院共通科目授業案内／Nagoya University Graduate School Common Courses Information**](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/10_2024_Graduate_School_Common_Courses_Information.pdf)
 
 \
-<a id="4"></a>
+<a id="3"></a>
 ##  [**大学院共通科目一覧／List of Nagoya University Graduate School Common Courses**](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/11_2024_List_of_Graduate_School_Common_Courses.pdf)
 
 コースナンバリング・コードの意味は[こちら](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/02_Course-Numbering-Code-for-Nagoya-University-Graduate-School-Courses-ja.pdf)をご覧ください。  
 Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/03_Course-Numbering-Code-for-Nagoya-University-Graduate-School-Courses.pdf) to view the configuration of code for course numbering.  
 
 \
-<a id="5"></a>
+<a id="4"></a>
 ##  **履修登録の手続き／Course Registration Procedures**  
 ---
 2024年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2024_spring_Course_Registration_Procedures.pdf)\
@@ -59,7 +58,7 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 
 
 \
-<a id="6"></a>
+<a id="5"></a>
 ##  **授業案内（シラバス）／ Course Information (Syllabus)**  
 ---
  ※大学院共通科目は開講延期，不開講となる可能性があります。このページにて随時最新情報をご確認ください。 \
@@ -77,7 +76,7 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 
 
 \
-<a id="7"></a>
+<a id="6"></a>
 ##  **「リサーチ・スキルズ」の構成 ／ The categories of “Research Skills” courses.**  
 ---
 <img src="https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/Reseach-Skills-categories-2021-768x520.jpg">
@@ -85,7 +84,7 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 
 
 ---
-<a id="5"></a>
+<a id="7"></a>
 ##  **参考　For Reference**
 <2023年度>\
 　2023年度　[春学期シラバス（Syllabus Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2023_spring-syllabus.pdf)［簡易版Simplified Version］\
