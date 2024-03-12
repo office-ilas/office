@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 大学院共通科目/Graduate School Common Courses
-date: 2024-03-12T00:00:00.000Z
+date: 2024-03-12T18:00:00.000Z
 description: 大学院共通科目/Graduate School Common Courses
 tags:
  - 履修
@@ -9,7 +9,7 @@ tags:
 <!--StartFragment-->
 
 
-<a id="1"></a>
+<a id="0"></a>
 ## **目次／Table of Contents**
 ---
 ・[名古屋大学大学院共通科目の編成・実施方針（カリキュラム・ポリシー)／](#1)[Curriculum Scheme and Policies of Nagoya University Graduate School Common Courses](#2)  
@@ -22,6 +22,7 @@ tags:
 \
 <a id="1"></a>
 ##  **名古屋大学大学院共通科目の編成・実施方針（カリキュラム・ポリシー）／**
+<a id="2"></a>
 ##  **Curriculum Scheme and Policies of Nagoya University Graduate School Common Courses** 
 ---
 　学術研究者または高度職業人として国際的に活躍するための基盤となる,専門分野の枠組みを超えて共通な学力，資質・能力を涵養する。とくに,下記の４つのスキルの伸長を目標におき,カリキュラムを編成する。  
@@ -53,8 +54,8 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 <a id="5"></a>
 ##  **履修登録の手続き／Course Registration Procedures**  
 ---
- 2024年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2024_spring_Course_Registration_Procedures.pdf)\
- 2024年度　秋学期（Fall）
+ &emsp;2024年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2024_spring_Course_Registration_Procedures.pdf)\
+ &emsp;2024年度　秋学期（Fall）
 
 
 \
@@ -69,8 +70,8 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 *Syllabus (Full version) is available from Nagoya University Portal.  
 　Nagoya University Portal → Student Affairs “Course registration and grading” → Syllabus “Search Syllabus” </font>  
 
- 2024年度　[春学期シラバス（Syllabus Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2024_spring-syllabus.pdf)［簡易版Simplified Version］\
- 2024年度　[秋学期シラバス（Syllabus Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2024_fall-syllabus.pdf)［簡易版Simplified Version］
+ &emsp;2024年度　[春学期シラバス（Syllabus Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2024_spring-syllabus.pdf)［簡易版Simplified Version］\
+ &emsp;2024年度　[秋学期シラバス（Syllabus Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2024_fall-syllabus.pdf)［簡易版Simplified Version］
 
 
 
@@ -87,18 +88,18 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 <a id="5"></a>
 ##  **参考　For Reference**
 <2023年度>\
-2023年度　[春学期シラバス（Syllabus Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2023_spring-syllabus.pdf)［簡易版Simplified Version］\
-2023年度　[秋学期シラバス（Syllabus Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2023_fall-syllabus.pdf)［簡易版Simplified Version］   
+&emsp;2023年度　[春学期シラバス（Syllabus Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2023_spring-syllabus.pdf)［簡易版Simplified Version］\
+&emsp;2023年度　[秋学期シラバス（Syllabus Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2023_fall-syllabus.pdf)［簡易版Simplified Version］   
 
 
 <2022年度>\
-2022年度　[春学期シラバス（Syllabus Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2022-spring-syllabus.pdf)［簡易版Simplified Version］\
-2022年度　[秋学期シラバス（Syllabus Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/14_2022_fall_syllabus.pdf)［簡易版Simplified Version］   
+&emsp;2022年度　[春学期シラバス（Syllabus Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2022-spring-syllabus.pdf)［簡易版Simplified Version］\
+&emsp;2022年度　[秋学期シラバス（Syllabus Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/14_2022_fall_syllabus.pdf)［簡易版Simplified Version］   
 
 
 <2021年度>\
-2021年度　春学期シラバス（Syllabus Spring）[1/2](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/06_2021-spring-syllabus-01.pdf) ,[2/2](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/07_2021-spring-syllabus-02.pdf)［簡易版Simplified Version］\
-2021年度　[秋学期シラバス（Syllabus Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/2021-fall-syllabus.pdf)［簡易版Simplified Version］
+&emsp;2021年度　春学期シラバス（Syllabus Spring）[1/2](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/06_2021-spring-syllabus-01.pdf) ,[2/2](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/07_2021-spring-syllabus-02.pdf)［簡易版Simplified Version］\
+&emsp;2021年度　[秋学期シラバス（Syllabus Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/2021-fall-syllabus.pdf)［簡易版Simplified Version］
 
 
 
