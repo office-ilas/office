@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 【重要】2024年度全学教育科目履修の手引 STUDENTS’ GUIDE
-date: 2024-3-12T17:30:00.000Z
+date: 2024-3-12T18:00:00.000Z
 description: 2024年度全学教育科目履修の手引 STUDENTS’ GUIDE
 tags:
  - 履修
@@ -26,8 +26,8 @@ tags:
 ・[Ⅷ 自然災害等に伴う授業及び学期末試験の取扱い](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/08_Handling_of_classes_and_exams_due_to_disasters.pdf)  
 ・[Ⅸ 学生への情報連絡の手段等](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/09_Means_for_information_to_students.pdf)  
 ・[Ⅹ 学部・学科別授業科目区分ごとの履修基準一覧（2024 年度入学生用）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/10_List_of_course_criteria_for_each_faculty_for_students_enrolled_in_2024.pdf)  \
-・[XI 各授業科目及び履修に関する注意事項](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/11_Notes_on_each_course.pdf)  \
-・[XII 関係資料（全学教育科目規程）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/12_1_Related_materials_regulations_for_LAS_courses.pdf)  \
+・[Ⅺ 各授業科目及び履修に関する注意事項](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/11_Notes_on_each_course.pdf)  \
+・[Ⅻ 関係資料（全学教育科目規程）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/12_1_Related_materials_regulations_for_LAS_courses.pdf)  \
 ・[全学教育棟（本館・A館）講義室配置図](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/12_2_Lecture_room_layout_such_as_the_ILAS_building.pdf)  
 ・[地震対応マニュアル](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/12_3_ILAS_Earthquake_Response_Manual.pdf)  
 ・[キャンパスマップ（東山）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/12_4_back_cover_Nagoya_University_Higashiyama_district_layout.pdf)  
