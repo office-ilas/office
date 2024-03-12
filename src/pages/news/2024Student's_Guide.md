@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 【重要】2024年度全学教育科目履修の手引 STUDENTS’ GUIDE
-date: 2024-3-12T00:00:00.000Z
+date: 2024-3-12T17:30:00.000Z
 description: 2024年度全学教育科目履修の手引 STUDENTS’ GUIDE
 tags:
  - 履修
@@ -34,9 +34,9 @@ tags:
 
  
 〇2024年度全学教育科目履修の手引【連結】（内容は上記と同様です）\
-　[2024年度全学教育科目履修の手引 全編](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/2024_Student's_Guide.pdf)   
-　[2024年度全学教育科目履修の手引 1/2](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/2024_Student's_Guide_1.pdf)  
-　[2024年度全学教育科目履修の手引 2/2](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/2024_Student's_Guide_2.pdf)  
+&emsp;[2024年度全学教育科目履修の手引 全編](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/2024_Student's_Guide.pdf)   
+&emsp;[2024年度全学教育科目履修の手引 1/2](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/2024_Student's_Guide_1.pdf)  
+&emsp;[2024年度全学教育科目履修の手引 2/2](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/2024_Student's_Guide_2.pdf)  
 
 
 
