@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 2024年度学部新入生向け 全学教育科目履修ガイダンス動画
-date: 2024-03-25T09:30:00.133Z
+date: 2024-03-25T11:00:00.133Z
 description: 履修関係
 tags:
  - 履修
@@ -12,7 +12,7 @@ tags:
 学部ガイダンスの説明に加え、こちらの動画の内容も確認してください。
 
 <a id="1"></a>
-## **■2024年度新入生向けガイダンス動画は[こちら](https://nuss.nagoya-u.ac.jp/s/WM7LYXPPDDJ2LnW)**
+## **■2024年度新入生向けガイダンス動画は[こちら](https://nuss.nagoya-u.ac.jp/s/MtbxCxS34RkFBni)**
 
 <a id="1"></a>
 ## **■音声なしPDF版は[こちら](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2024_Guidance_Video/2024_Guidance_PDF.pdf)**
