@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 新入生英語プレイスメント・テストの実施について
-date: 2024-03-28T13:30:00.133Z
+date: 2024-03-28T14:00:00.000Z
 description: 新入生英語プレイスメント・テストの実施について
 tags:
  - 履修
