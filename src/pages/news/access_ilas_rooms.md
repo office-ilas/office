@@ -32,7 +32,7 @@ tags:
 
 ## ２階 / ２nd Floor
 
-■　学生ラウンジ/ Students’ Lounge [(Map)](https://office.ilas.nagoya-u.ac.jp/files/ilas-map/map_Students-Lounge.pdf)
+■　服部ラウンジ/ HATTORI Lounge [(Map)](https://office.ilas.nagoya-u.ac.jp/files/ilas-map/map_Hattori-Lounge.pdf)
 
 ■　C20・C21・C22 [(Map)](https://office.ilas.nagoya-u.ac.jp/files/ilas-map/map_C20-22-1.pdf)
 
