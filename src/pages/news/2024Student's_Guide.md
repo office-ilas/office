@@ -14,6 +14,7 @@ tags:
 〇2024年度全学教育科目履修の手引【項目別】  
 ・[表紙](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/00_1_cover.pdf)  
 ・[2024年度全学教育に関する行事予定表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/00_2_2024_Event_schedule_for_LAS_courses.pdf)  
+<font color="red">　【2024.6.21秋学期履修登録Web入力期間について訂正】</font>\
 ・[2024年度学年暦](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/00_3_2024_Year_calendar.pdf)  
 ・[目次](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/00_4_Table_of_contents.pdf)  
 ・[Ⅰはじめに](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/01_Introduction.pdf)  
@@ -39,5 +40,8 @@ tags:
 &emsp;[2024年度全学教育科目履修の手引 2/2](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2024Student's_Guide/2024_Student's_Guide_2.pdf)  
 
 
+〇変更（修正）について\
+2024.6.21　2024年度全学教育に関する行事予定表\
+P.2　秋学期履修登録Web入力期間を修正
 
 <!--EndFragment-->
