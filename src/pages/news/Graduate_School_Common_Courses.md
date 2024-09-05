@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 大学院共通科目/Graduate School Common Courses
-date: 2024-03-12T19:30:00.000Z
+date: 2024-09-04T19:30:00.000Z
 description: 大学院共通科目/Graduate School Common Courses
 tags:
  - 履修
@@ -53,8 +53,11 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 <a id="4"></a>
 ##  **履修登録の手続き／Course Registration Procedures**  
 ---
-2024年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2024_spring_Course_Registration_Procedures.pdf)\
-2024年度　秋学期（Fall）
+2024年度　[秋学期（Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2024_fall_Course_Registration_Procedures.pdf)
+
+2024年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2024_spring_Course_Registration_Procedures.pdf)
+
+
 
 
 \
@@ -69,8 +72,9 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 *Syllabus (Full version) is available from Nagoya University Portal.  
 　Nagoya University Portal → Student Affairs “Course registration and grading” → Syllabus “Search Syllabus” </font>  
 
-2024年度　[春学期シラバス（Syllabus Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2024_spring-syllabus.pdf)［簡易版Simplified Version］\
-2024年度　[秋学期シラバス（Syllabus Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2024_fall-syllabus.pdf)［簡易版Simplified Version］
+2024年度　[秋学期シラバス（Syllabus Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2024_fall-syllabus.pdf)［簡易版Simplified Version］\
+2024年度　[春学期シラバス（Syllabus Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2024_spring-syllabus.pdf)［簡易版Simplified Version］
+
 
 
 
