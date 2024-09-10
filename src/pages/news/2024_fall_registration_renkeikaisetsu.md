@@ -54,7 +54,7 @@ tags:
 名古屋大学の授業科目と同様に、名古屋大学ポータルから「修得科目確認（成績確認）」で確認してください。
 
 
-### **《春学期シラバス（簡易版）》**
+### **《秋学期シラバス（簡易版）》**
 ・[人類学入門](https://syllabus.adm.nagoya-u.ac.jp/data/2024/00_2024_W22000041206.html)\
 ・[Amishのライフスタイルから現代社会を考える](https://syllabus.adm.nagoya-u.ac.jp/data/2024/00_2024_W22000041207.html)\
 ・[古今のものづくり](https://syllabus.adm.nagoya-u.ac.jp/data/2024/00_2024_W22000041301.html)\
