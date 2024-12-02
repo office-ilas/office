@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: （(For Students) About the Use of Classrooms in the Liberal Arts and Sciences Building
+title: (For Students) About the Use of Classrooms in the Liberal Arts and Sciences Building
 date: 2024-09-4T06:19:00.073Z
 description: To use classrooms in the Liberal Arts and Sciences Building, you need to sign up (first time only) and make a reservation (each time you use a room).
 tags:
