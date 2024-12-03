@@ -107,7 +107,7 @@ User registration is required to obtain permission to use classrooms.<br>
 with a user ID to the e-mail address of the person in charge of the group.</li>
 <li>Check the Reservation Status Confirmation Table to see which classrooms are available.</li>
 <li>Please make a reservation via the <a href="https://docs.google.com/forms/d/e/1FAIpQLScqIFjTG8ow6eukVS_C6QqkWLCGltxG1SayjzBEbt0hvmXXlw/viewform?vc=0&c=0&w=1&flr=0"> Reservation Application Form</a> using the ID obtained at the user registration.</li>
-<li>If the reservation is made as requested, it will be reflected in the <a href="https://nuss.nagoya-u.ac.jp/s/rJXMi22gL2BsKNn)">Reservation Status Confirmation Table</a> within two business days.<br>
+<li>If the reservation is made as requested, it will be reflected in the <a href="https://nuss.nagoya-u.ac.jp/s/rJXMi22gL2BsKNn">Reservation Status Confirmation Table</a> within two business days.<br>
 <font color="red">※Reservation is not completed only by submitting the Reservation Application Form.</font>
 <li>If you wish to cancel your reservation for any reason after it has confirmed,  
 you must cancel it via the <a href=https://forms.gle/qou9mpmoWpuvhhoq8)">Reservation Cancellation Form</a>.<br>
