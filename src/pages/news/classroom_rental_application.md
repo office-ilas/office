@@ -9,9 +9,8 @@ tags:
 ---
 <!--StartFragment-->
 
-<p style="text-align: right;">※Click  <a href="https://office.ilas.nagoya-u.ac.jp/news/En_classroom_rental_application//">here</a> for the English version. </p>
-
 講義室の利用には，①利用者登録（初回のみ）と②予約申請（貸出の都度）が必要です。初めての方は[利用者登録](https://docs.google.com/forms/d/e/1FAIpQLSfWMEbj00bJb0g7gLkXA5nt9WSDtlvW9JeHygGM9fjY-hWD4A/viewform?usp=sf_link)からお願いします。
+<p style="text-align: right;">※Click  <a href="https://office.ilas.nagoya-u.ac.jp/news/En_classroom_rental_application//">here</a> for the English version. </p>
 
 ## **＜お知らせ＞**
 **・2024年度秋学期の講義室貸出について** <font color="red">2024.9.4更新</font>\
