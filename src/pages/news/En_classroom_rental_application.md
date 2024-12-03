@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: (For Students) About the Use of Classrooms in the Liberal Arts and Sciences Building
-date: 2024-09-04
+date: 2024-09-4T06:19:00.073Z
 description: Please read the following instructions carefully if you wish to use a classroom in the Liberal Arts & Sciences Building.
 tags:
   - 施設
@@ -110,7 +110,7 @@ with a user ID to the e-mail address of the person in charge of the group.</li>
 <li>If the reservation is made as requested, it will be reflected in the <a href="https://nuss.nagoya-u.ac.jp/s/rJXMi22gL2BsKNn">Reservation Status Confirmation Table</a> within two business days.<br>
 <font color="red">※Reservation is not completed only by submitting the Reservation Application Form.</font>
 <li>If you wish to cancel your reservation for any reason after it has confirmed,  
-you must cancel it via the <a href=https://forms.gle/qou9mpmoWpuvhhoq8">Reservation Cancellation Form</a>.<br>
+you must cancel it via the <a href="https://forms.gle/qou9mpmoWpuvhhoq8">Reservation Cancellation Form</a>.<br>
 If you wish to reschedule a reservation, cancel the reservation using this form, and reapply via the <a href="https://docs.google.com/forms/d/e/1FAIpQLScqIFjTG8ow6eukVS_C6QqkWLCGltxG1SayjzBEbt0hvmXXlw/viewform?vc=0&c=0&w=1&flr=0">Reservation Application Form</a>.</li>
 <li>On the day of use, please follow the rules and regulations for the use of the classroom.<br>
 (If unauthorized use or an unlocked status is found, the relevant group may face measures such as suspension of use.）</li>
