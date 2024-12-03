@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: (For Students) About the Use of Classrooms in the Liberal Arts and Sciences Building
 date: 2024-09-04
-description: To use classrooms in the Liberal Arts and Sciences Building, you need to sign up (first time only) and make a reservation (each time you use a room).
+description: Please read the following instructions carefully if you wish to use a classroom in the Liberal Arts & Sciences Building.
 tags:
   - 施設
   - サークル
@@ -83,7 +83,7 @@ please submit the reservation form again.</li>
 </ul>
 <br>
 
-**< Cautions for use** ><br>
+**Cautions for use** 
 <ul>
 <li>Use classrooms without interfering with classes, research, or other extracurricular activities.<br>
 　（For instrumental or choral practice, use only Building A.）</li>
@@ -100,33 +100,35 @@ please submit the reservation form again.</li>
 
 ## **＜How to make a reservation＞**
 
-User registration is required to obtain permission to use classrooms.\
-１．Please fill out the required information on the [User Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfWMEbj00bJb0g7gLkXA5nt9WSDtlvW9JeHygGM9fjY-hWD4A/viewform?usp=sf_link) to sign up.<br>
-２．Within 5 business days, the ILAS Office will send a notification of completed registration \
-　　with a user ID to the e-mail address of the person in charge of the group.\
-３．Check the Reservation Status Confirmation Table to see which classrooms are available.\
-４．Please make a reservation via the [Reservation Application Form](https://docs.google.com/forms/d/e/1FAIpQLScqIFjTG8ow6eukVS_C6QqkWLCGltxG1SayjzBEbt0hvmXXlw/viewform?vc=0&c=0&w=1&flr=0) using the ID obtained at the user registration.\
-５．If the reservation is made as requested, it will be reflected in the [Reservation Status Confirmation Table](https://nuss.nagoya-u.ac.jp/s/rJXMi22gL2BsKNn)\
-　　within two business days.\
-　　Reservation is not completed only by submitting the Reservation Application Form.\
-６．If you wish to cancel your reservation for any reason after it has confirmed,  
-　　you must cancel it via the [Reservation Cancellation Form](https://forms.gle/qou9mpmoWpuvhhoq8)\
-　　If you wish to reschedule a reservation, cancel the reservation using this form, and reapply via the [Reservation Application Form](https://docs.google.com/forms/d/e/1FAIpQLScqIFjTG8ow6eukVS_C6QqkWLCGltxG1SayjzBEbt0hvmXXlw/viewform?vc=0&c=0&w=1&flr=0)\
-７．On the day of use, please follow the rules and regulations for the use of the classroom.\
-　　（If unauthorized use or an unlocked status is found, the relevant group may face measures such as suspension of use.）\
-８． If the classroom is locked, contact the Guard's Room.\
-９．After using a classroom, notify the Guard's Room in the Liberal Arts and Sciences Main Building that you have finished.
+User registration is required to obtain permission to use classrooms.<br>
+<ol>
+<li>Please fill out the required information on the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWMEbj00bJb0g7gLkXA5nt9WSDtlvW9JeHygGM9fjY-hWD4A/viewform?usp=sf_link">User Registration Form</a> to sign up.</li>
+<li>Within 5 business days, the ILAS Office will send a notification of completed registration </li>
+with a user ID to the e-mail address of the person in charge of the group.</li>
+<li>Check the Reservation Status Confirmation Table to see which classrooms are available.</li>
+<li>Please make a reservation via the <a href="https://docs.google.com/forms/d/e/1FAIpQLScqIFjTG8ow6eukVS_C6QqkWLCGltxG1SayjzBEbt0hvmXXlw/viewform?vc=0&c=0&w=1&flr=0"> Reservation Application Form</a> using the ID obtained at the user registration.</li>
+<li>If the reservation is made as requested, it will be reflected in the <a href="https://nuss.nagoya-u.ac.jp/s/rJXMi22gL2BsKNn)">Reservation Status Confirmation Table</a> within two business days.<br>
+<font color="red">※Reservation is not completed only by submitting the Reservation Application Form.</font>
+<li>If you wish to cancel your reservation for any reason after it has confirmed,  
+you must cancel it via the <a href=https://forms.gle/qou9mpmoWpuvhhoq8)">Reservation Cancellation Form</a>.<br>
+If you wish to reschedule a reservation, cancel the reservation using this form, and reapply via the <a href="https://docs.google.com/forms/d/e/1FAIpQLScqIFjTG8ow6eukVS_C6QqkWLCGltxG1SayjzBEbt0hvmXXlw/viewform?vc=0&c=0&w=1&flr=0">Reservation Application Form</a>.</li>
+<li>On the day of use, please follow the rules and regulations for the use of the classroom.<br>
+(If unauthorized use or an unlocked status is found, the relevant group may face measures such as suspension of use.）</li>
+<li>If the classroom is locked, contact the Guard's Room.</li>
+<li>After using a classroom, notify the Guard's Room in the Liberal Arts and Sciences Main Building that you have finished.</li>
+</ol>
 
-## **＜How to change the person in charge＞**  <font color="red">Updated on April 16, 2024</font> 　　
+## **＜How to change the person in charge＞**  <br>
+<p style="text-align: right;"><font color="red">Updated on April 16, 2024</font></p>
 
 
 　When there are any changes in the registered person in charge, follow the procedures below to update the information.
-
-１．Fill out the [Notification of Change in Person in Charge](https://forms.office.com/r/DpeDgGNhm3) form.\
-　　*Login with THERS account is necessary\
-　　*Be sure to read the notes in the form\
-２．After the change is confirmed by the office, a confirmation e-mail will be sent to both the current and new person in charge.\
-３．After receiving the confirmation e-mail, make a classroom reservation with the information on the new person in charge.
+<ol>
+<li>Fill out the <a href="https://forms.office.com/r/DpeDgGNhm3">Notification of Change in Person in Charge</a>.<br>
+*Login with THERS account is necessary<br>
+*Be sure to read the notes in the form<br>
+<li>After the change is confirmed by the office, a confirmation e-mail will be sent to both the current and new person in charge.
+<li>After receiving the confirmation e-mail, make a classroom reservation with the information on the new person in charge.
 
 
 
