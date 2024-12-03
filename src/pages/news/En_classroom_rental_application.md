@@ -62,7 +62,7 @@ please submit the reservation form again.</li>
 <li>Reservation status will be updated on this web page at 10:00 a.m. on weekdays.</li>
 <li>A classroom can only be used by one group at a time per day.<br>
 　（One group may use more than one lecture room at the same time.）</li>
-<li>Make reservations after confirming the availability of each classroom via the via the <a href="https://nuss.nagoya-u.ac.jp/s/rJXMi22gL2BsKNn">Reservation Status Confirmation Table.</a></li>
+<li>Make reservations after confirming the availability of each classroom via the <a href="https://nuss.nagoya-u.ac.jp/s/rJXMi22gL2BsKNn">Reservation Status Confirmation Table.</a></li>
 
 　【Main Building】\
 　　★：15:00～20:00\
@@ -110,7 +110,7 @@ with a user ID to the e-mail address of the person in charge of the group.</li>
 <li>If the reservation is made as requested, it will be reflected in the <a href="https://nuss.nagoya-u.ac.jp/s/rJXMi22gL2BsKNn">Reservation Status Confirmation Table</a> within two business days.<br>
 <font color="red">※Reservation is not completed only by submitting the Reservation Application Form.</font>
 <li>If you wish to cancel your reservation for any reason after it has confirmed,  
-you must cancel it via the <a href=https://forms.gle/qou9mpmoWpuvhhoq8)">Reservation Cancellation Form</a>.<br>
+you must cancel it via the <a href=https://forms.gle/qou9mpmoWpuvhhoq8">Reservation Cancellation Form</a>.<br>
 If you wish to reschedule a reservation, cancel the reservation using this form, and reapply via the <a href="https://docs.google.com/forms/d/e/1FAIpQLScqIFjTG8ow6eukVS_C6QqkWLCGltxG1SayjzBEbt0hvmXXlw/viewform?vc=0&c=0&w=1&flr=0">Reservation Application Form</a>.</li>
 <li>On the day of use, please follow the rules and regulations for the use of the classroom.<br>
 (If unauthorized use or an unlocked status is found, the relevant group may face measures such as suspension of use.）</li>
