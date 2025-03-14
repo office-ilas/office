@@ -23,7 +23,7 @@ tags:
 <font color="red">※下記も参照してください。</font> <br>
 　《関連資料》<br>
 &emsp;・ [2025年度基礎セミナーテーマ一覧](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2025-COURSE-TIME-TABLE/04_2025_First_Year_Seminar_Theme_List.pdf)  
-　・ [「国際理解科目・現代教養科目・超学部セミナー」受講学生数](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2025-Spring_Precautions_regarding_course_procedures/2025_Spring_enrollment_capacity.pdf)  <br>
+&emsp;・ [「国際理解科目・現代教養科目・超学部セミナー」受講学生数](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2025-Spring_Precautions_regarding_course_procedures/2025_Spring_enrollment_capacity.pdf)  <br>
 　《関連ページ》　　<br>
 [　・ 「2025年度全学教育科目授業時間割表・行事について」](https://office-ilas.netlify.app/news/2025-COURSE-TIME-TABLE/)<br>
 [　・ 「2025年度全学教育科目履修の手引」](https://office.ilas.nagoya-u.ac.jp/news/2025Student's_Guide/)
