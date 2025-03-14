@@ -18,15 +18,17 @@ tags:
 
 &emsp;[**・2025年度入学生用**](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2025-Spring_Precautions_regarding_course_procedures/2025-Spring_Precautions_regarding_course_procedures_Freshman.pdf) <br>
 
-&emsp;[**・2024年度以前入学生用**](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2025-Spring_Precautions_regarding_course_procedures/2025-Spring_Precautions_regarding_course_procedures_Others.pdf) 
+&emsp;[**・2024年度以前入学生用**](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2025-Spring_Precautions_regarding_course_procedures/2025-Spring_Precautions_regarding_course_procedures_Others.pdf) <br>
+
 
 <font color="red">※下記も参照してください。</font> <br>
 《関連資料》<br>
-&emsp;・ [2025年度基礎セミナーテーマ一覧](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2025-COURSE-TIME-TABLE/04_2025_First_Year_Seminar_Theme_List.pdf)  
+&emsp;・ [2025年度基礎セミナーテーマ一覧](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2025-COURSE-TIME-TABLE/04_2025_First_Year_Seminar_Theme_List.pdf) <br> 
 &emsp;・ [「国際理解科目・現代教養科目・超学部セミナー」受講学生数](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2025-Spring_Precautions_regarding_course_procedures/2025_Spring_enrollment_capacity.pdf)  <br>
-《関連ページ》　　<br>
+《関連ページ》<br>
 [　・ 「2025年度全学教育科目授業時間割表・行事について」](https://office-ilas.netlify.app/news/2025-COURSE-TIME-TABLE/)<br>
-[　・ 「2025年度全学教育科目履修の手引」](https://office.ilas.nagoya-u.ac.jp/news/2025Student's_Guide/)
+[　・ 「2025年度全学教育科目履修の手引」](https://office.ilas.nagoya-u.ac.jp/news/2025Student's_Guide/)<br>
+
 
 ※2021年度以前入学生が、履修登録する場合は、<font style="color:red">2021年度以前入学者の新旧授業科目読み替え表</font>を必ず確認してください。  
 　掲載場所:
