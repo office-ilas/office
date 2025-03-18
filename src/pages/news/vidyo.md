@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 遠隔講義システムVidyo
+title: 「2025年3月サービス終了」遠隔講義システムVidyo
 date: 2021-09-17T06:18:22.073Z
 description: 岐阜大学等との遠隔講義などに使える、ビデオ会議システム「Vidyo」の紹介です。
 tags:

@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: 即時回答システムmeikai君
+title: 「サービス終了」即時回答システムmeikai君
 date: 2020-04-07T06:18:22.073Z
-description: クリッカーの様な一問一答形式のレスポンスシステム
+description: クリッカーの様な一問一答形式のレスポンスシステムの紹介です
 tags:
   - ハイブリッド
   - 講義室
