@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: (For Students) About the Use of Classrooms in the Liberal Arts and Sciences Building
-date: 2024-09-4T06:19:00.073Z
+date: 2025-03-09
 description: Please read the following instructions carefully if you wish to use a classroom in the Liberal Arts & Sciences Building.
 tags:
   - 施設
@@ -14,14 +14,17 @@ First-time users are required to sign up for **[User Registration](https://docs.
 <p style="text-align: right;">※日本語版は <a href="https://office.ilas.nagoya-u.ac.jp/news/classroom_rental_application/">こちら</a> からご確認ください </p>
 
 ## **＜Notices＞**
-**・Lending of Classrooms for the Fall Semester AY2024**   　<font color="red">Updated on Sep.4,2024</font>\
-Classroom lending for the fall semester AY2024 will start on October 2 (Wed).\
-【Web reservations will be available from 9:00 a.m. on September 18 (Wed)】
+**・Lending of Classrooms for the Spring  Semester AY2025**   　<font color="red">Updated on Mar. 17, 2025</font>\
+Classroom lending for the spring semester AY2025 will start on May 7 (Wed).\
+【Web reservations will be available from 9:00 a.m. on April 23 (Wed)】<br>
+Classroom lending during April 10 to May 3, please contact Federation of Liberal Art Circles (FLAC aka "Bun-sa-ren").<br> 
+(Web resevation is unavailable during this period.)
 
 \
-**・Lending of classrooms in the Liberal Arts and Sciences Building A on Saturdays** 　<font color="red"> Updated on Sep. 4, 2024</font>\
-During the fall semester of 2024, classrooms in the Liberal Arts and Sciences Building A will be available on the following Saturdays.\
-　　・Oct. 5 (Sat), Oct. 12 (Sat), and Jan. 11 (Sat)
+**・Lending of classrooms in the Liberal Arts and Sciences Building A on Saturdays** 　<font color="red"> Updated on Mar. 17, 2025</font>\
+During the spring semester of 2025, classrooms in the Liberal Arts and Sciences Building A will be available on the following Saturdays. (The schedule might change.)\
+　　・Apr. 12, Apr.26, May 3, May 31, Jul 12, and Jul 19.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* For Apr. 12, Apr. 26, and May 3, web resevation is unavailable. Please contact Federation of Liberal Art Circles (FLAC aka "Bun-sa-ren"). 
 
 \
 **・Request for Power Saving** 　<font color="red">Updated on Oct. 31, 2022</font>\
@@ -119,7 +122,7 @@ If you wish to reschedule a reservation, cancel the reservation using this form,
 </ol>
 
 ## **＜How to change the person in charge＞**  <br>
-<p style="text-align: right;"><font color="red">Updated on April 16, 2024</font></p>
+
 
 
 　When there are any changes in the registered person in charge, follow the procedures below to update the information.
