@@ -28,6 +28,8 @@ tags:
 
 （上記を一覧にした内容＜[2025 COURSE TIME TABLE](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2025-COURSE-TIME-TABLE/08_2025-COURSE-TIME-TABLE.pdf)＞2025.3.13時点　春学期・秋学期通年分）
 
+[開講取りやめ科目一覧](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2025-COURSE-TIME-TABLE/09_2025_Course_Information_202503.pdf)　<font color="red">>※2025.3.27</font>
+
 [学部3年次以上対象の教養科目・言語文化科目の開講について](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2025-COURSE-TIME-TABLE/20_Poster.pdf)
 
 
