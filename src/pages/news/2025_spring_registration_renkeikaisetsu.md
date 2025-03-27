@@ -14,7 +14,7 @@ tags:
 
 
 
-[**令和7年度（2025年度）春学期岐阜大学連携開設科目の履修の手引き**](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2025_spring_registration_renkeikaisetsu/2025_spring_renkeikaisetsu_guide2.pdf)
+[**令和7年度（2025年度）春学期岐阜大学連携開設科目の履修の手引**](https://office.ilas.nagoya-u.ac.jp/files/kyomu/2025_spring_registration_renkeikaisetsu/2025_spring_renkeikaisetsu_guide2.pdf)
 
 
 
@@ -26,7 +26,7 @@ tags:
 
 
 
-### **《春学期シラバス》**
+### **《シラバス》**
 学内：[名古屋大学ポータル](https://portal.nagoya-u.ac.jp/portal) →「学務」→「履修・成績」→「シラバス」
 
 学外：[シラバス（簡易版）](https://syllabus.adm.nagoya-u.ac.jp/) →「2025年度」→「全学教育科目」→「現代教養科目」
@@ -34,7 +34,7 @@ tags:
 
 
 ### 《お問い合わせ》
-[こちら](https://forms.office.com/r/m6XeDprEQp)から
+こちらの[お問い合わせフォーム](https://forms.office.com/r/m6XeDprEQp)から
 
 
  
