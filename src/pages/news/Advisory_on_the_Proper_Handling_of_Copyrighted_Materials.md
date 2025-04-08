@@ -1,15 +1,16 @@
 ---
 templateKey: blog-post
 title: 著作物の適切な管理等について（注意喚起） Advisory on the Proper Handling of Copyrighted Materials
-date: 2022-06-01T05:05:31.133Z
-description: 著作物の適切な管理等について
+date: 2022-06-01T05:05:32.133Z
+description: 名古屋大学
 tags:
- - 遠隔授業
+ - G30
 ---
 <!--StartFragment-->
-
-**名古屋大学学生　各位／
-To All Nagoya University Students**
+NUCTは、TACTと読み替えてください。\
+※教育学習支援システムNUCT（Nagoya University Collaboration and course Tools）は東海国立大学機構統一のシステムとして、2023年4月よりTACT（タクト：Tokai Academic Combination Tools）に生まれ変わりました。\
+―――――――――――――――――――――――――――――――――――――――――――――――――――――――\
+## **名古屋大学学生　各位／To All Nagoya University Students**
 
 
 名古屋大学におけるICTを活用した遠隔授業（NUCT掲載の授業、Zoom・Vidyo等によるインターネット配信授業等）の受講にあたり、以下のことを遵守してください。\
