@@ -1,15 +1,15 @@
 ---
 templateKey: blog-post
 title: オンライン授業を受講する際の遵守事項
-date: 2021-11-06T06:18:22.073Z
+date: 2021-11-06T06:18:23.073Z
 description: 名古屋⼤学で ICT を活⽤した遠隔授業を受講するにあたり、遵守すべき事項をまとめました。
 tags:
   - 遠隔授業
 ---
 <!--StartFragment-->
 NUCTは、TACTと読み替えてください。\
-※教育学習支援システムNUCT（Nagoya University Collaboration and course Tools）は東海国立大学機構統一のシステムとして、2023年4月よりTACT（タクト：Tokai Academic Combination Tools）に生まれ変わりました。
-
+※教育学習支援システムNUCT（Nagoya University Collaboration and course Tools）は東海国立大学機構統一のシステムとして、2023年4月よりTACT（タクト：Tokai Academic Combination Tools）に生まれ変わりました。\
+―――――――――――――――――――――――――――――――――――――――――――――――――――――――\
 名古屋⼤学における ICT を活⽤した遠隔授業（NUCT 掲載の授業、Zoom・Vidyo 等によるインターネット配信授業等）の受講にあたり、以下のことを遵守してください。\
 遵守しなかった場合は、不正⾏為とみなされ、懲戒処分や当該期の修得単位が取り消されることがあります。また、著作権法上の権利の侵害に当たる場合や、個⼈情報の流出等により損害を与えた場合は、刑事罰を含め法的措置の対象となることがあります。
 
