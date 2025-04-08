@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 著作物の適切な管理等について（注意喚起） Advisory on the Proper Handling of Copyrighted Materials
-date: 2022-06-01T05:05:32.133Z
+date: 2022-06-01T05:05:33.133Z
 description: 名古屋大学
 tags:
  - G30
@@ -9,7 +9,7 @@ tags:
 <!--StartFragment-->
 NUCTは、TACTと読み替えてください。\
 ※教育学習支援システムNUCT（Nagoya University Collaboration and course Tools）は東海国立大学機構統一のシステムとして、2023年4月よりTACT（タクト：Tokai Academic Combination Tools）に生まれ変わりました。\
-―――――――――――――――――――――――――――――――――――――――――――――――――――――――\
+―――――――――――――――――――――――――――――――――――――――――――――――――――――――
 ## **名古屋大学学生　各位／To All Nagoya University Students**
 
 
