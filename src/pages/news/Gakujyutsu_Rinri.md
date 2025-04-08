@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: 2023年度新入生向け　学術の倫理と作法について
-date: 2023-03-27T05:06:31.133Z
+title: 新入生向け　学術の倫理と作法について
+date: 2023-03-27T05:06:32.133Z
 description: 履修関係
 tags:
  - 履修
