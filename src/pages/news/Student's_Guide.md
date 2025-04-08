@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 過年度の全学教育科目履修の手引 STUDENTS' GUIDE for previous years
-date: 2023-04-12T06:05:31.133Z
+date: 2023-03-12T06:05:31.133Z
 description: 過年度の全学教育科目履修の手引 STUDENTS' GUIDE for previous years
 tags:
  - 履修
