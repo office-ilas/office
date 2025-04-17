@@ -1,7 +1,7 @@
 {
   "name": "ILAS-Office-cms",
   "description": "ILAS-Office CMS project",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Shinya Yamamoto",
   "dependencies": {
     "bulma": "^1.0.3",
