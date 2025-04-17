@@ -25,9 +25,8 @@ jobs:
           cache: 'npm'
       # Node の実行（npm install, npm run build）
       - name: Build Project
-        run: |
-          npm install
-          npm run build
+      - run: npm install
+      - run: npm run build
         env:
           GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}
 
