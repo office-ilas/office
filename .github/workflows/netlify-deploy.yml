@@ -23,8 +23,11 @@ jobs:
         with:
           node-version-file: 'package.json'
           cache: 'npm'
-      - run: npm install
-      - run: npm run build
+      # Node の実行（npm install, npm run build）
+      - name: Build Project
+        run: |
+          npm install
+          npm run build
         env:
           GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}
 
