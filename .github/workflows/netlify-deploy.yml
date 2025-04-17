@@ -12,21 +12,41 @@ concurrency:
   group: ${{ github.ref }}
   cancel-in-progress: true
   
+# 以下，jobs の定義
 jobs:
+  # 「build」という名前のジョブを定義
   build:
+    # ubunts の最新版を指定
     runs-on: ubuntu-latest
 
+    # 実行する処理やコマンドを指定
     steps:
+      # レポジトリからの checkout を実行
       - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
+      #      - uses: enriikke/gatsby-gh-pages-action@v2
+      #        with:
+      #          access-token: ${{ secrets.ACCESS_TOKEN }}
+      #          gatsby-args: --prefix-paths
+      # Node のセットアップ
+      - name: Use Node.js latest
+        uses: actions/setup-node@v4
         with:
+          # node-version: "latest"
+          # node-version: "22.4.1"
           node-version-file: 'package.json'
-          cache: 'npm'
+          # cache: "yarn"
+          cache: "npm"
       # Node の実行（npm install, npm run build）
       - name: Build Project
-      - run: npm install
-      - run: npm run build
+        run: |
+          # yarn install
+          # yarn run build
+          npm install
+          npm run build
+      # 確認のためのリスト表示　必要なければ削除
+      - name: List output files
+        run: ls -laFG
+        
         env:
           GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}
 
