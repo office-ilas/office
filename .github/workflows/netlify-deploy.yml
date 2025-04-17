@@ -14,23 +14,23 @@ concurrency:
   
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
-          node-version: 18.x
-          cache: 'yarn'
-      - run: yarn install
-      - run: yarn build
+          node-version-file: 'package.json'
+          cache: 'npm'
+      - run: npm install
+      - run: npm build
         env:
           GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}
 
       # rsync 
       - name: rsync deployments to hlc1
-        uses: burnett01/rsync-deployments@5.1
+        uses: burnett01/rsync-deployments@5.2.1
         with:
           # 「switches: -avzr --delete」だと、実行はできても戻り値がエラーになる。
           # １．--omit-dir-timesで「failed to set times onエラー」は防止可。
