@@ -39,16 +39,15 @@ jobs:
       # Node の実行（npm install, npm run build）
       - name: Build Project
         run: |
-          # yarn install
-          # yarn run build
           npm install
           npm run build
+          env:
+            GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}          
       # 確認のためのリスト表示　必要なければ削除
       - name: List output files
         run: ls -laFG
         
-        env:
-          GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}
+
 
       # rsync 
       - name: rsync deployments to hlc1
