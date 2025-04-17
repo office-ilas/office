@@ -41,8 +41,8 @@ jobs:
         run: |
           npm install
           npm run build
-          env:
-            GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}          
+          # env:
+          #   GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}          
       # 確認のためのリスト表示　必要なければ削除
       - name: List output files
         run: ls -laFG
