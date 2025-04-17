@@ -24,7 +24,7 @@ jobs:
           node-version-file: 'package.json'
           cache: 'npm'
       - run: npm install
-      - run: npm build
+      - run: npm run build
         env:
           GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}
 
