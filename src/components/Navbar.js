@@ -38,17 +38,16 @@ const Navbar = class extends React.Component {
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
               {/* <img src={logo} alt="Academic Central" style={{ width: "88px" }} /> */}
-              <img src={officelogo} alt="Ilas Office" style={{ height: "88px" }} />
+              <img src={officelogo} alt="NU-ILAS Office" style={{ height: "88px" }} />
             </Link>
             {/* Hamburger menu */}
-            <button
-              className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-              data-target="navMenu"
-              onClick={() => this.toggleHamburger()}
-              // https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/master/docs/rules/no-static-element-interactions.md#how-do-i-resolve-this-error
-              role="menuitem"
-              tabIndex={0}
-            >
+          <button
+            className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+            aria-label="Nav button"
+            data-target="navMenu"
+            onClick={() => this.toggleHamburger()}
+            tabIndex={0}
+          >
               <span />
               <span />
               <span />
