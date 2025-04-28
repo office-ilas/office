@@ -15,7 +15,7 @@ tags:
 ・[Schedule](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2024fall/2_2024_FallSchedule_Fall.pdf)  
 ・[Academic Calendar](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2024fall/4_Academic_CalendarAY2024_20221222.pdf)  
 ・[Liberal Arts and Sciences Courses Registration Guide](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2024fall/3_Students_Guide_AY2024.pdf)  
-・[Graduation Requirements for Each Program](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2024fall/3_1_Only_Graduation_Requirement_StudentsGuide_AY2024.pdf)<font style="color:red">(Required Credits List for Biological Science Students (p20) is revised in Apr.25)</font>  
+・[Graduation Requirements for Each Program](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2024fall/3_1_Only_Graduation_Requirement_StudentsGuide_AY2024.pdf)<font style="color:red">(Required Credits List for Biological Science Students (p20) is revised on Apr. 25 AY2025)</font>  
 ・[Liberal Arts and Sciences Main Building](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2024fall/5_1_ILAS_main_building_map.pdf)  
 ・[Liberal Arts and Sciences Building A](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2024fall/5_2_Liberal_Arts_and_Sciences_Building_A.pdf)  
 ・[Exercise Facility Map](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2024fall/5_3_Exercise_Facility_Map_eng.pdf)  
@@ -24,13 +24,13 @@ tags:
 ・[Major Earthquake Response Manual](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2024fall/6_Major_Earthquake_Response_Manual.pdf)  
 
 AY2024 Liberal Arts and Sciences Course Students' Guide for G30【Combined】（The same contents as the above）  
-[・ALL](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2024fall/999_(All)_2024.pdf)<font style="color:red">(Required Credits List for Biological Science Students (p20) is revised in Apr.25)</font>
+[・ALL](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2024fall/999_(All)_2024.pdf)<font style="color:red">(Required Credits List for Biological Science Students (p20) is revised in Apr. 25 AY2025)</font>
 
 〇AY2023 Liberal Arts and Sciences Course Students' Guide for G30【Combined】  
-[・ALL](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2023fall/0_(All).pdf)<font style="color:red">Required Credits List for Physics (p18) and Biological Science Students (p20) is revised in Apr.25)</font>
+[・ALL](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2023fall/0_(All).pdf)<font style="color:red">(Required Credits List for Physics (p18) and Biological Science Students (p20) is revised on Apr. 25 AY2025)</font>
  
 〇AY2022 Liberal Arts and Sciences Course Students' Guide for G30【Combined】  
-[・ALL](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/7_2022_Students_Guide(Cover_revised).pdf)<font style="color:red">Required Credits List for Physics (p18) and Biological Science Students (p20) is revised in Apr.25)</font>  
+[・ALL](https://office.ilas.nagoya-u.ac.jp/files/kyomu/G30/2022fall/7_2022_Students_Guide(Cover_revised).pdf)<font style="color:red">(Required Credits List for Physics (p23) and Biological Science Students (p25) is revised in Apr. 25 AY2025)</font>  
 
 
 〇AY2021 Liberal Arts and Sciences Course Students' Guide for G30【for References】
