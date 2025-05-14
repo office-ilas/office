@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: (For Students) About the Use of Classrooms in the Liberal Arts and Sciences Building
-date: 2025-03-09
+date: 2025-03-10
 description: Please read the following instructions carefully if you wish to use a classroom in the Liberal Arts & Sciences Building.
 tags:
   - 施設
@@ -21,9 +21,9 @@ Classroom lending during April 10 to May 3, please contact Federation of Liberal
 (Web resevation is unavailable during this period.)
 
 \
-**・Lending of classrooms in the Liberal Arts and Sciences Building A on Saturdays** 　<font color="red"> Updated on Mar. 17, 2025</font>\
+**・Lending of classrooms in the Liberal Arts and Sciences Building A on Saturdays** 　<font color="red"> Updated on Mar. 17, 2025, Updated on May. 14, 2025</font>\
 During the spring semester of 2025, classrooms in the Liberal Arts and Sciences Building A will be available on the following Saturdays. (The schedule might change.)\
-　　・Apr. 12, Apr.26, May 3, May 31, Jul 12, and Jul 19.<br>
+　　・Apr. 12, Apr.26, May 3, May 31, Jul 12<del>, and Jul 19</del>.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* For Apr. 12, Apr. 26, and May 3, web resevation is unavailable. Please contact Federation of Liberal Art Circles (FLAC aka "Bun-sa-ren"). 
 
 \
