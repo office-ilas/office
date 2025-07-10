@@ -14,6 +14,12 @@ First-time users are required to sign up for **[User Registration](https://docs.
 <p style="text-align: right;">※日本語版は <a href="https://office.ilas.nagoya-u.ac.jp/news/classroom_rental_application/">こちら</a> からご確認ください </p>
 
 ## **＜Notices＞**
+**・Lecture Room Reservations During Non-Class Periods**   　<font color="red">Updated on Jul. 10, 2025</font>\
+Please note that lecture rooms used for extra-curricular activities will be unavailable during the non-class period, from July 23 (due to final exam preparations) until the beginning of the fall semester.\
+The reopening schedule for the fall semester will be announced on this website as it becomes available.
+
+
+\
 **・Lending of Classrooms for the Spring  Semester AY2025**   　<font color="red">Updated on Mar. 17, 2025</font>\
 Classroom lending for the spring semester AY2025 will start on May 7 (Wed).\
 【Web reservations will be available from 9:00 a.m. on April 23 (Wed)】<br>
