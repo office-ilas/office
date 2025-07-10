@@ -13,6 +13,11 @@ tags:
 <p style="text-align: right;">※Click  <a href="https://office.ilas.nagoya-u.ac.jp/news/En_classroom_rental_application//">here</a> for the English version. </p>
 
 ## **＜お知らせ＞**
+**・授業期間外の貸出について** <font color="red">2025.7.10更新</font>\
+授業期間外（試験準備7/23～秋学期開始まで）について講義室貸出は行いません。\
+秋学期以降の再開時期は順次ホームページでお知らせします。
+
+\
 **・2025年度春学期の講義室貸出について** <font color="red">2025.3.17更新</font>\
 2025年度春学期の全学教育棟講義室貸出については，5/7（水）以降の利用分から貸出を再開します。\
 【WEB予約受付開始日：4/23（水）午前9時00分】\
