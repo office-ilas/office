@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 教養教育院Webサイトの不具合について
-date: 2025-05-21T16:00:00.000Z
+date: 2025-08-07
 description: 教養教育院Webサイトの不具合について
 tags:
  -
