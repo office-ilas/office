@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 【重要】2025年度全学教育科目授業時間割表・行事等について
-date: 2025-03-14
+date: 2025-03-15
 description: 2025年度全学教育科目授業時間割表・行事・講義室等について
 tags:
  - 施設
