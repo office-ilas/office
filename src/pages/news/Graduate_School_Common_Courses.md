@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 大学院共通科目/Graduate School Common Courses
-date: 2025-03-10T19:30:00.000Z
+date: 2025-03-10T19:31:00.000Z
 description: 大学院共通科目/Graduate School Common Courses
 tags:
  - 履修
@@ -53,6 +53,7 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 <a id="4"></a>
 ##  **履修登録の手続き／Course Registration Procedures**  
 ---
+2025年度　[秋学期（Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2025_fall_Course_Registration_Procedures.pdf)\
 2025年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2025_spring_Course_Registration_Procedures.pdf)
 
 
