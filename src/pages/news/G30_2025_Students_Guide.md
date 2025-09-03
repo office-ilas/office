@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 【For Students enrolled in AY2025】Students' Guide for G30 Students
-date: 2025-09-05
+date: 2025-09-03
 description: Course Registration for G30  Students
 tags:
  - G30
