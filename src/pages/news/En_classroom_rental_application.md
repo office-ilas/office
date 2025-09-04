@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: (For Students) About the Use of Classrooms in the Liberal Arts and Sciences Building
-date: 2025-03-10
+date: 2025-03-11
 description: Please read the following instructions carefully if you wish to use a classroom in the Liberal Arts & Sciences Building.
 tags:
   - 施設
@@ -14,23 +14,14 @@ First-time users are required to sign up for **[User Registration](https://docs.
 <p style="text-align: right;">※日本語版は <a href="https://office.ilas.nagoya-u.ac.jp/news/classroom_rental_application/">こちら</a> からご確認ください </p>
 
 ## **＜Notices＞**
-**・Lecture Room Reservations During Non-Class Periods**   　<font color="red">Updated on Jul. 10, 2025</font>\
-Please note that lecture rooms used for extra-curricular activities will be unavailable during the non-class period, from July 23 (due to final exam preparations) until the beginning of the fall semester.\
-The reopening schedule for the fall semester will be announced on this website as it becomes available.
-
-
-\
-**・Lending of Classrooms for the Spring  Semester AY2025**   　<font color="red">Updated on Mar. 17, 2025</font>\
-Classroom lending for the spring semester AY2025 will start on May 7 (Wed).\
-【Web reservations will be available from 9:00 a.m. on April 23 (Wed)】<br>
-Classroom lending during April 10 to May 3, please contact Federation of Liberal Art Circles (FLAC aka "Bun-sa-ren").<br> 
-(Web resevation is unavailable during this period.)
+**・Lending of Classrooms for the Fall  Semester AY2025**   　<font color="red">Updated on Sep. 4, 2025</font>\
+Classroom lending for the fall semester AY2025 will start on October 2 (Thu).\
+【Web reservations will be available from 9:00 a.m. on September 18 (Thu)】<br>
 
 \
-**・Lending of classrooms in the Liberal Arts and Sciences Building A on Saturdays** 　<font color="red"> Updated on Mar. 17, 2025, Updated on May. 14, 2025</font>\
-During the spring semester of 2025, classrooms in the Liberal Arts and Sciences Building A will be available on the following Saturdays. (The schedule might change.)\
-　　・Apr. 12, Apr.26, May 3, May 31, Jul 12<del>, and Jul 19</del>.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* For Apr. 12, Apr. 26, and May 3, web resevation is unavailable. Please contact Federation of Liberal Art Circles (FLAC aka "Bun-sa-ren"). 
+**・Lending of Classrooms in the Liberal Arts and Sciences Building A on Saturdays** 　<font color="red"> Updated on Sep. 4, 2025</font>\
+During the fall semester of 2025, classrooms in the Liberal Arts and Sciences Building A will be available on the following Saturdays. (The schedule might change.)\
+　　・Oct. 11, Dec. 20 and Jan. 10<br>
 
 \
 **・Request for Power Saving** 　<font color="red">Updated on Oct. 31, 2022</font>\
