@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 大学院共通科目/Graduate School Common Courses
-date: 2025-03-10T19:32:00.000Z
+date: 2025-03-10T19:33:00.000Z
 description: 大学院共通科目/Graduate School Common Courses
 tags:
  - 履修
@@ -76,6 +76,7 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 ##  **「リサーチ・スキルズ」の構成 ／ The categories of “Research Skills” courses.**  
 ---
 <img src="https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/Reseach-Skills-categories-2021-768x520.jpg">
+
 ---
 
 
