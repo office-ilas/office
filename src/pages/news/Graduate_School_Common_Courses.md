@@ -77,11 +77,15 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 ---
 <img src="https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/Reseach-Skills-categories-2021-768x520.jpg">
 
+
+\
 **Beginning in April 2026, there are new courses for graduate students designed to strengthen logical thinking, academic presentation skills, and practical AI tool use in the age of AI.**
 Please see the flyer below for more information.
 
 <img src="https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/New Course Flyer 2026_768x1086.jpg">
----
+
+
+\
 <a id="7"></a>
 ##  **参考　For Reference**
 <2025年度>\
