@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 大学院共通科目/Graduate School Common Courses
-date: 2025-03-10T19:31:00.000Z
+date: 2025-03-10T19:32:00.000Z
 description: 大学院共通科目/Graduate School Common Courses
 tags:
  - 履修
@@ -40,11 +40,11 @@ The primary objective is to cultivate globally competent researchers and profess
 
 \
 <a id="2"></a>
-##  [**大学院共通科目授業案内／Nagoya University Graduate School Common Courses Information**](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/10_2025_Graduate_School_Common_Courses_Information.pdf)
+##  [**大学院共通科目授業案内／Nagoya University Graduate School Common Courses Information**](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/10_2026_Graduate_School_Common_Courses_Information.pdf)
 
 \
 <a id="3"></a>
-##  [**大学院共通科目一覧／List of Nagoya University Graduate School Common Courses**](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/11_2025_List_of_Graduate_School_Common_Courses.pdf)
+##  [**大学院共通科目一覧／List of Nagoya University Graduate School Common Courses**](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/11_2026_List_of_Graduate_School_Common_Courses.pdf)
 
 コースナンバリング・コードの意味は[こちら](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/02_Course-Numbering-Code-for-Nagoya-University-Graduate-School-Courses-ja.pdf)をご覧ください。  
 Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/03_Course-Numbering-Code-for-Nagoya-University-Graduate-School-Courses.pdf) to view the configuration of code for course numbering.  
@@ -53,8 +53,7 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 <a id="4"></a>
 ##  **履修登録の手続き／Course Registration Procedures**  
 ---
-2025年度　[秋学期（Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2025_fall_Course_Registration_Procedures.pdf)\
-2025年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2025_spring_Course_Registration_Procedures.pdf)
+2026年度　[春学期（Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/08_2026_spring_Course_Registration_Procedures.pdf)
 
 
 
@@ -78,15 +77,20 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 ---
 <img src="https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/Reseach-Skills-categories-2021-768x520.jpg">
 
+**Beginning in April 2026, there are new courses for graduate students designed to strengthen logical thinking, academic presentation skills, and practical AI tool use in the age of AI.**
+Please see the flyer below for more information.
 
-
+<img src="https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/New Course Flyer 2026_768x1086.jpg">
 ---
 <a id="7"></a>
 ##  **参考　For Reference**
+<2025年度>\
+ [シラバスSyllabus](https://syllabus.adm.nagoya-u.ac.jp/data/2025/80_2025.html)
+
+
 <2024年度>\
 　2024年度　[春学期シラバス（Syllabus Spring）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2024_spring-syllabus.pdf)［簡易版Simplified Version］\
 　2024年度　[秋学期シラバス（Syllabus Fall）](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/04_2024_fall-syllabus.pdf)［簡易版Simplified Version］
-
 
 
 <2023年度>\
