@@ -76,6 +76,7 @@ Please click [here](https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_Scho
 ##  **「リサーチ・スキルズ」の構成 ／ The categories of “Research Skills” courses.**  
 ---
 <img src="https://office.ilas.nagoya-u.ac.jp/files/kyoki/Graduate_School_Common_Courses/Reseach-Skills-categories-2021-768x520.jpg">
+---
 
 
 \
