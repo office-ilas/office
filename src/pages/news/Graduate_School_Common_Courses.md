@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 大学院共通科目/Graduate School Common Courses
-date: 2025-03-10T19:33:00.000Z
+date: 2025-03-10T19:34:00.000Z
 description: 大学院共通科目/Graduate School Common Courses
 tags:
  - 履修
@@ -91,7 +91,7 @@ Please see the flyer below for more information.
 <a id="7"></a>
 ##  **参考　For Reference**
 <2025年度>\
- [シラバスSyllabus](https://syllabus.adm.nagoya-u.ac.jp/data/2025/80_2025.html)
+ [シラバスSyllabus](https://syllabus.adm.nagoya-u.ac.jp/data/2025/80_2025.html)［簡易版Simplified Version］
 
 
 <2024年度>\
