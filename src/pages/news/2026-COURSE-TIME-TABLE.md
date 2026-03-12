@@ -16,6 +16,7 @@ tags:
 [時間割表について](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/01_Table_of_contents_and_timetable_2026.pdf)  
 [授業時間割A表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/02_2026_Timetable_A_Table_0312.pdf)  
 [授業時間割B表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/03_0312-2026-course_time_table_B.pdf)  
+[2026年度全学教育科目 国際理解科目（EMI科目）履修可能科目一覧](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/10_2026_EMI_list.pdf)
 [2026年度基礎セミナーテーマ一覧](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/04_2026_First_Year_Seminar_Theme_List.pdf)   
 [行事予定表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/05_2026_event_schedule.pdf)  
 [2026年度学年暦](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/06_2026_academic_year_calendar_Japanese.pdf) 
@@ -30,7 +31,7 @@ tags:
 
 [新規開講及び開講取りやめ科目一覧](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/09_2026_Course_Information_202603.pdf)　<font color="red">
 
-[学部3年次以上対象の教養科目・言語文化科目の開講について](準備中)
+[学部3年次以上対象の教養科目・言語文化科目の開講について] ※準備中
 
 
 授業時間割B表データは、しおり 機能により、閲覧したい期・曜日をすぐ検索できるように なっていますので、活用してください。
@@ -41,3 +42,4 @@ tags:
 )をご確認ください。</font>
 
 <!--EndFragment-->
+
