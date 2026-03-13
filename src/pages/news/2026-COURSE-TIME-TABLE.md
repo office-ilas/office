@@ -15,7 +15,7 @@ tags:
 
 [時間割表について](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/01_Table_of_contents_and_timetable_2026.pdf)  
 [授業時間割A表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/02_2026_Timetable_A_Table_0312.pdf)  
-[授業時間割B表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/03_0312-2026-course_time_table_B.pdf)  
+[授業時間割B表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/03_0313-2026-course_time_table_B.pdf)  
 [2026年度基礎セミナーテーマ一覧](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/04_2026_First_Year_Seminar_Theme_List.pdf)   
 [行事予定表](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/05_2026_event_schedule.pdf)  
 [2026年度学年暦](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/06_2026_academic_year_calendar_Japanese.pdf) 
@@ -43,6 +43,7 @@ tags:
 )をご確認ください。</font>
 
 <!--EndFragment-->
+
 
 
 
