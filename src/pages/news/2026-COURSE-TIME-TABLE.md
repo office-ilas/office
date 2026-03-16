@@ -32,7 +32,7 @@ tags:
 
 [2026年度全学教育科目 国際理解科目（EMI科目）履修可能科目一覧](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/10_2026_EMI_list.pdf)　
 
-[学部3年次以上対象の教養科目・言語文化科目の開講について] ※準備中
+[学部3年次以上対象の教養科目・言語文化科目の開講について](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/20_Poster_2026.pdf)　
 
 
 授業時間割B表データは、しおり 機能により、閲覧したい期・曜日をすぐ検索できるように なっていますので、活用してください。
