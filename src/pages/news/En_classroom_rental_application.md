@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: (For Students) About the Use of Classrooms in the Liberal Arts and Sciences Building
-date: 2025-03-11
+date: 2025-03-12
 description: Please read the following instructions carefully if you wish to use a classroom in the Liberal Arts & Sciences Building.
 tags:
   - 施設
@@ -14,14 +14,16 @@ First-time users are required to sign up for **[User Registration](https://docs.
 <p style="text-align: right;">※日本語版は <a href="https://office.ilas.nagoya-u.ac.jp/news/classroom_rental_application/">こちら</a> からご確認ください </p>
 
 ## **＜Notices＞**
-**・Lending of Classrooms for the Fall  Semester AY2025**   　<font color="red">Updated on Sep. 4, 2025</font>\
-Classroom lending for the fall semester AY2025 will start on October 2 (Thu).\
-【Web reservations will be available from 9:00 a.m. on September 18 (Thu)】<br>
+**・Lending of Classrooms for the Spring Semester AY2026**   　<font color="red">Updated on Mar. 17, 2026</font>\
+Classroom lending for the spring semester AY2026 will start on May 7 (Thu).\
+【Web reservations will be available from 9:00 a.m. on April 23 (Thu)】<br>\
+Classroom lending from April 10 to May 2, please contact Federation of Liberal Arts Circles (FLAC aka "Bun-sa-ren").
 
 \
-**・Lending of Classrooms in the Liberal Arts and Sciences Building A on Saturdays** 　<font color="red"> Updated on Sep. 4, 2025</font>\
-During the fall semester of 2025, classrooms in the Liberal Arts and Sciences Building A will be available on the following Saturdays. (The schedule might change.)\
-　　・Oct. 11, Dec. 20 and Jan. 10<br>
+**・Lending of Classrooms in the Liberal Arts and Sciences Building A on Saturdays** 　<font color="red"> Updated on Mar. 17, 2026</font>\
+During the spring semester of 2026, classrooms in the Liberal Arts and Sciences Building A will be available on the following Saturdays. (The schedule might change.)\
+　　・Apr. 11, Apr. 25, May 2, May 30 and Jun. 6<br>
+    ※For Apr. 11, Apr. 25 and May 2, web reservation is unavailable. Please contact Federation of Liberal Arts Circles (FLAC aka "Bun-sa-ren").
 
 \
 **・Request for Power Saving** 　<font color="red">Updated on Oct. 31, 2022</font>\
