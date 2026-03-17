@@ -17,13 +17,13 @@ First-time users are required to sign up for **[User Registration](https://docs.
 **・Lending of Classrooms for the Spring Semester AY2026**   　<font color="red">Updated on Mar. 17, 2026</font>\
 Classroom lending for the spring semester AY2026 will start on May 7 (Thu).\
 【Web reservations will be available from 9:00 a.m. on April 23 (Thu)】<br>\
-Classroom lending from April 10 to May 2, please contact All-University Freshman Welcome Committee (FLAC aka "Zen-shin-kan").
+Classroom lending from April 10 to May 2, please contact All-University Freshman Welcome Committee ("全新歓,　Zen-shin-kan").
 
 \
 **・Lending of Classrooms in the Liberal Arts and Sciences Building A on Saturdays** 　<font color="red"> Updated on Mar. 17, 2026</font>\
 During the spring semester of 2026, classrooms in the Liberal Arts and Sciences Building A will be available on the following Saturdays. (The schedule might change.)\
 　　・Apr. 11, Apr. 25, May 2, May 30 and Jun. 6<br>
-    ※For Apr. 11, Apr. 25 and May 2, web reservation is unavailable. Please contact All-University Freshman Welcome Committee (FLAC aka "Zen-shin-kan").
+    ※For Apr. 11, Apr. 25 and May 2, web reservation is unavailable. Please contact All-University Freshman Welcome Committee ("全新歓,　Zen-shin-kan").
 
 \
 **・Request for Power Saving** 　<font color="red">Updated on Oct. 31, 2022</font>\
