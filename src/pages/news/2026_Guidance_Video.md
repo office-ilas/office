@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 2026年度学部新入生向け全学教育科目履修ガイダンス動画
-date: 2026-03-25T09:00:00.133Z
+date: 2026-03-25T08:30:00.133Z
 description: 履修関係
 tags:
  - 履修
@@ -21,7 +21,7 @@ tags:
 ## **■関係資料**
   ・[2026年度全学教育科目履修の手引 STUDENTS' GUIDE](https://office.ilas.nagoya-u.ac.jp/news/2026Student's_Guide/)\
   ・[2026年度全学教育科目授業時間割表・行事等について](https://office.ilas.nagoya-u.ac.jp/news/2026-COURSE-TIME-TABLE/)\
-  ・[2026年度春学期履修手続きに関する注意事項](https://office.ilas.nagoya-u.ac.jp/news/2026-spring_Precautions_regarding_course_procedures%20/)
+  ・[2026年度春学期履修手続きに関する注意事項](https://office.ilas.nagoya-u.ac.jp/news/2026-spring_Precautions_regarding_course_procedures%20%20ー/)
 
 
 <!--EndFragment-->
