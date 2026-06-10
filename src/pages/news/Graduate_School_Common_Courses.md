@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 大学院共通科目/Graduate School Common Courses
-date: 2025-03-10T19:34:00.000Z
+date: 2026-03-10T19:34:00.000Z
 description: 大学院共通科目/Graduate School Common Courses
 tags:
  - 履修
