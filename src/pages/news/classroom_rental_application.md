@@ -13,6 +13,11 @@ tags:
 <p style="text-align: right;">※Click  <a href="https://office.ilas.nagoya-u.ac.jp/news/En_classroom_rental_application//">here</a> for the English version. </p>
 
 ## **＜お知らせ＞**
+**・授業期間外の講義室貸出について** <font color="red">2026.8.25更新</font>\
+授業期間外は講義室の貸出は受付しておりません。
+秋学期の貸出再開は10月2日（金）からです。利用申請のWEB予約はその2週間前から開始する予定です。
+
+
 **・2026年度春学期の講義室貸出について** <font color="red">2026.3.17更新</font>\
 2026年度春学期のWeb予約申請による全学教育棟講義室貸出については，5/7（木）以降の利用分から貸出を再開します。\
 【WEB予約申請受付開始日：4/23（木）午前9時00分】\
