@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 2026年度秋学期岐阜大学連携開設科目の履修登録について
-date: 2026-09-05
+date: 2026-09-02
 description: 2026年度秋学期岐阜大学連携開設科目の履修登録について
 tags:
  - 履修
