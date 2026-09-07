@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 【重要】2026年度秋学期履修手続きに関する注意事項
-date: 2026-09-09
+date: 2026-09-08
 description: 2026年度秋学期履修手続きに関する注意事項
 tags:
  - 履修
