@@ -28,7 +28,7 @@ tags:
 
 （上記を一覧にした内容＜[2026 COURSE TIMETABLE](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/08_2026-COURSE-TIME-TABLE.pdf)＞2026.3.12時点　春学期・秋学期通年分）
 
-[新規開講及び開講取りやめ科目一覧](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/09_2026_Course_Information_202603.pdf)　
+[新規開講及び開講取りやめ科目一覧](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/09_2026_Course_Information_202603.pdf)　<font color="red">>※2026.9.8</font>
 
 [2026年度全学教育科目 国際理解科目（EMI科目）履修可能科目一覧](https://office.ilas.nagoya-u.ac.jp/files/kyoki/2026-COURSE-TIME-TABLE/10_2026_EMI_list.pdf)　
 
