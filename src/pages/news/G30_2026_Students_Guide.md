@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 【For Students enrolled in AY2026】Students' Guide for G30 Students
-date: 2026-09-09
+date: 2026-09-08
 description: Liberal Arts and Sciences Course Students' Guide for G30 Students
 tags:
  - G30
