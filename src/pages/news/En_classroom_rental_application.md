@@ -102,7 +102,8 @@ please submit the reservation form again.</li>
 
 User registration is required to obtain permission to use classrooms.<br>
 <ol>
-<li>Please fill out the required information on the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWMEbj00bJb0g7gLkXA5nt9WSDtlvW9JeHygGM9fjY-hWD4A/viewform?usp=sf_link">User Registration Form</a> to sign up.</li>
+<li><font color="red">If you use classrooms for the first time,</font> please fill out the required information on the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWMEbj00bJb0g7gLkXA5nt9WSDtlvW9JeHygGM9fjY-hWD4A/viewform?usp=sf_link">User Registration Form</a> to sign up.(first time only)</li>
+The group already has a User Registration ID, please proceed to 4. Reservation Application Form to make a reservation request.
 <li>Within 5 business days, the ILAS Office will send a notification of completed registration </li>
 with a user ID to the e-mail address of the person in charge of the group.</li>
 <li>Check the Reservation Status Confirmation Table to see which classrooms are available.</li>

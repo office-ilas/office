@@ -90,7 +90,8 @@ tags:
 ## **＜予約申請方法＞**
 
 １．講義室の貸出許可を受けるには利用者登録が必要となる。\
-　　[利用者登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfWMEbj00bJb0g7gLkXA5nt9WSDtlvW9JeHygGM9fjY-hWD4A/viewform?usp=sf_link)より利用者情報を入力し，利用者登録をすること。\
+　　<font color="red">講義室を初めて利用する団体は</font>[利用者登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfWMEbj00bJb0g7gLkXA5nt9WSDtlvW9JeHygGM9fjY-hWD4A/viewform?usp=sf_link)より利用者情報を入力し，利用者登録（初回のみ）をすること。\
+　　利用者登録IDが発行済みの団体は４．予約申請フォームの手続きへ進む。\
 ２．5営業日以内に教養教育院事務室から利用者登録IDと共に登録が完了した通知を団体責任者のメールアドレスへ送信する。\
 ３．予約状況確認表から空いている講義室を確認すること。\
 ４．[予約申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLScqIFjTG8ow6eukVS_C6QqkWLCGltxG1SayjzBEbt0hvmXXlw/viewform?vc=0&c=0&w=1&flr=0)から利用登録した際に取得したIDを使って予約申請すること。\
