@@ -1,35 +1,35 @@
 {
   "name": "Nagoya-University-ILAS-Office-cms",
   "description": "ILAS-Office CMS project",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "Shinya Yamamoto",
   "dependencies": {
-    "bulma": "^1.0.3",
-    "gatsby": "^5.14.3",
+    "bulma": "^1.0.4",
+    "gatsby": "^5.16.1",
     "gatsby-image": "^3.11.0",
-    "gatsby-plugin-google-analytics": "^5.14.0",
-    "gatsby-plugin-google-gtag": "^5.14.0",
-    "gatsby-plugin-image": "^3.14.0",
+    "gatsby-plugin-google-analytics": "^5.16.0",
+    "gatsby-plugin-google-gtag": "^5.16.0",
+    "gatsby-plugin-image": "^3.16.0",
     "gatsby-plugin-purgecss": "^6.2.1",
-    "gatsby-plugin-react-helmet": "^6.14.0",
-    "gatsby-plugin-sass": "^6.14.0",
-    "gatsby-plugin-sharp": "^5.14.0",
-    "gatsby-remark-copy-linked-files": "^6.14.0",
+    "gatsby-plugin-react-helmet": "^6.16.0",
+    "gatsby-plugin-sass": "^6.16.0",
+    "gatsby-plugin-sharp": "^5.16.0",
+    "gatsby-remark-copy-linked-files": "^6.16.0",
     "gatsby-remark-external-links": "0.0.4",
-    "gatsby-remark-images": "^7.14.0",
+    "gatsby-remark-images": "^7.16.0",
     "gatsby-remark-relative-images": "^2.0.5",
-    "gatsby-source-filesystem": "^5.14.0",
-    "gatsby-transformer-remark": "^6.14.0",
-    "gatsby-transformer-sharp": "^5.14.0",
+    "gatsby-source-filesystem": "^5.16.0",
+    "gatsby-transformer-remark": "^6.16.0",
+    "gatsby-transformer-sharp": "^5.16.0",
     "graphql": "^16.10.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "lodash-webpack-plugin": "^0.11.6",
     "prop-types": "^15.8.1",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
     "react-helmet": "^6.1.0",
-    "sass-loader": "^16.0.5",
-    "uuid": "^11.1.0"
+    "sass-loader": "^17.1.0",
+    "uuid": "^14.0.3"
   },
   "keywords": [
     "gatsby"
@@ -47,9 +47,9 @@
     "npm package update": "ncu -u && rm -rf node_modules yarn.lock && npm install && npm run build"
   },
   "devDependencies": {
-    "prettier": "^3.5.3",
-    "sass": "^1.86.3",
-    "webpack": "^5.99.5"
+    "prettier": "^3.10.1",
+    "sass": "^1.108.2",
+    "webpack": "^5.112.2"
   },
   "resolutions": {}
 }
