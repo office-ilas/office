@@ -1,8 +1,8 @@
 {
   "name": "Nagoya-University-ILAS-Office-cms",
   "description": "ILAS-Office CMS project",
-  "version": "1.2.0",
-  "author": "Shinya Yamamoto",
+  "version": "1.2.1",
+  "author": "Shinya Yamamoto and Takaya Yamazato",
   "dependencies": {
     "bulma": "^1.0.4",
     "gatsby": "^5.16.1",
